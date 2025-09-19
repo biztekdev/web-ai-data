@@ -1,0 +1,4991 @@
+[{
+  "_id": {
+    "$oid": "68c3616afa22c9d78a93ec78"
+  },
+  "erp_id": 1,
+  "name": "Reverse Tuck Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616afa22c9d78a93ec79"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616afa22c9d78a93ec7a"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616afa22c9d78a93ec7b"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 1,
+  "imageUrl": "1683646906REVERSE TUCK BOX-19.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:22.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:22.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3616bfa22c9d78a93ec7f"
+  },
+  "erp_id": 2,
+  "name": "Straight Tuck Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616bfa22c9d78a93ec80"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616bfa22c9d78a93ec81"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616bfa22c9d78a93ec82"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 2,
+  "imageUrl": "1684262727straight tuck box-05-05.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:23.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:23.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3616cfa22c9d78a93ec86"
+  },
+  "erp_id": 4,
+  "name": "Display Box Snap Lock",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616cfa22c9d78a93ec87"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616cfa22c9d78a93ec88"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616cfa22c9d78a93ec89"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 4,
+  "imageUrl": "1683646827display box-08.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:24.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:24.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3616cfa22c9d78a93ec8d"
+  },
+  "erp_id": 6,
+  "name": "Display Box Auto Lock",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616cfa22c9d78a93ec8e"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616cfa22c9d78a93ec8f"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616cfa22c9d78a93ec90"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 6,
+  "imageUrl": "1683647248display box-08.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:24.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:24.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3616dfa22c9d78a93ec94"
+  },
+  "erp_id": 9,
+  "name": "TRI FOLD BROCHURE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616dfa22c9d78a93ec95"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616dfa22c9d78a93ec96"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 9,
+  "imageUrl": "1684262615trifold-29.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:25.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:25.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3616efa22c9d78a93ec9a"
+  },
+  "erp_id": 10,
+  "name": "MAILER BOX",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616efa22c9d78a93ec9b"
+      }
+    },
+    {
+      "name": "w",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616efa22c9d78a93ec9c"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616efa22c9d78a93ec9d"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 10,
+  "imageUrl": "1683646924Mockups Boxes-02.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:26.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:26.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3616ffa22c9d78a93eca1"
+  },
+  "erp_id": 13,
+  "name": "HANG TAB TUCK IN BOX",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616ffa22c9d78a93eca2"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616ffa22c9d78a93eca3"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3616ffa22c9d78a93eca4"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 13,
+  "imageUrl": "1684262573hang tab box-07.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:27.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:27.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36170fa22c9d78a93eca8"
+  },
+  "erp_id": 14,
+  "name": "SLEEVE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36170fa22c9d78a93eca9"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36170fa22c9d78a93ecaa"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36170fa22c9d78a93ecab"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 14,
+  "imageUrl": "1684262750Sleeve.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:28.379Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:28.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36171fa22c9d78a93ecaf"
+  },
+  "erp_id": 15,
+  "name": "INNER TRAY",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36171fa22c9d78a93ecb0"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36171fa22c9d78a93ecb1"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36171fa22c9d78a93ecb2"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 15,
+  "imageUrl": "1684262974Inner Tray.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:29.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:29.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36172fa22c9d78a93ecb6"
+  },
+  "erp_id": 17,
+  "name": "Seal end box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36172fa22c9d78a93ecb7"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36172fa22c9d78a93ecb8"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36172fa22c9d78a93ecb9"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 17,
+  "imageUrl": "1684262841Seal End Box-33.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:30.111Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:30.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36172fa22c9d78a93ecbd"
+  },
+  "erp_id": 21,
+  "name": "TUCK-IN (SEAL END BOX)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36172fa22c9d78a93ecbe"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36172fa22c9d78a93ecbf"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36172fa22c9d78a93ecc0"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 21,
+  "imageUrl": "1684262697seal end tuck box-35.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:30.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:30.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36173fa22c9d78a93ecc4"
+  },
+  "erp_id": 23,
+  "name": "CATALOGE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36173fa22c9d78a93ecc5"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36173fa22c9d78a93ecc6"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 23,
+  "imageUrl": "1684263079catalog-31.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:31.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:31.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36174fa22c9d78a93ecca"
+  },
+  "erp_id": 24,
+  "name": "Dispenser Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36174fa22c9d78a93eccb"
+      }
+    },
+    {
+      "name": "w",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36174fa22c9d78a93eccc"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36174fa22c9d78a93eccd"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 24,
+  "imageUrl": "1683646981Mockups Boxes-04.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:32.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:32.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36175fa22c9d78a93ecd1"
+  },
+  "erp_id": 25,
+  "name": "Flat Bottom Bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36175fa22c9d78a93ecd2"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36175fa22c9d78a93ecd3"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36175fa22c9d78a93ecd4"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 25,
+  "imageUrl": "1684262484Flat Bottom Bag.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:33.576Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:33.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36176fa22c9d78a93ecd8"
+  },
+  "erp_id": 26,
+  "name": "Stand Up Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36176fa22c9d78a93ecd9"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36176fa22c9d78a93ecda"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36176fa22c9d78a93ecdb"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 26,
+  "imageUrl": "1683646803mylar bag.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:34.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:34.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36177fa22c9d78a93ecdf"
+  },
+  "erp_id": 28,
+  "name": "Round Label",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "DIA",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36177fa22c9d78a93ece0"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 28,
+  "imageUrl": "1684262905round label-27.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:35.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:35.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36178fa22c9d78a93ece4"
+  },
+  "erp_id": 29,
+  "name": "SHRINK SLEEVE",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36178fa22c9d78a93ece5"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36178fa22c9d78a93ece6"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 29,
+  "imageUrl": "1684262802shrink sleeve-30.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:36.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:36.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36179fa22c9d78a93ecea"
+  },
+  "erp_id": 33,
+  "name": "Spout Stand up Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "w",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36179fa22c9d78a93eceb"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36179fa22c9d78a93ecec"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36179fa22c9d78a93eced"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 33,
+  "imageUrl": "1683647340SPOUT MYLAR BAG-14.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:37.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:37.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36179fa22c9d78a93ecf1"
+  },
+  "erp_id": 34,
+  "name": "Tissue Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36179fa22c9d78a93ecf2"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36179fa22c9d78a93ecf3"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36179fa22c9d78a93ecf4"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 34,
+  "imageUrl": "1683647387tissue box-11.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:37.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:37.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617afa22c9d78a93ecf8"
+  },
+  "erp_id": 35,
+  "name": "Paper Bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617afa22c9d78a93ecf9"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617afa22c9d78a93ecfa"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617afa22c9d78a93ecfb"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 35,
+  "imageUrl": "1683647430paper bag-12.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:38.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:38.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617bfa22c9d78a93ecff"
+  },
+  "erp_id": 36,
+  "name": "Flat Pouch (3 side seal)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617bfa22c9d78a93ed00"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617bfa22c9d78a93ed01"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 36,
+  "imageUrl": "1683647487straight pouch-18.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:39.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:39.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617cfa22c9d78a93ed05"
+  },
+  "erp_id": 37,
+  "name": "Top Lid Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617cfa22c9d78a93ed06"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617cfa22c9d78a93ed07"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617cfa22c9d78a93ed08"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 37,
+  "imageUrl": "1683647590top bottom lid box-17.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:40.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:40.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617dfa22c9d78a93ed0c"
+  },
+  "erp_id": 41,
+  "name": "Gable Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617dfa22c9d78a93ed0d"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617dfa22c9d78a93ed0e"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617dfa22c9d78a93ed0f"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 41,
+  "imageUrl": "1683647784Mockups Boxes-03.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:41.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:41.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617efa22c9d78a93ed13"
+  },
+  "erp_id": 43,
+  "name": "Paper Wrapper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617efa22c9d78a93ed14"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617efa22c9d78a93ed15"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 43,
+  "imageUrl": "1683748572WhatsApp Image 2023-05-11 at 00.54.35.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:42.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617ffa22c9d78a93ed19"
+  },
+  "erp_id": 44,
+  "name": "Bottle Carrier Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617ffa22c9d78a93ed1a"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617ffa22c9d78a93ed1b"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617ffa22c9d78a93ed1c"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 44,
+  "imageUrl": "1684261744bottle carrier box-15.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:43.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:43.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3617ffa22c9d78a93ed20"
+  },
+  "erp_id": 45,
+  "name": "RECTANGLE LABEL",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617ffa22c9d78a93ed21"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3617ffa22c9d78a93ed22"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 45,
+  "imageUrl": "1684263282labels-23.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:43.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:43.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36180fa22c9d78a93ed26"
+  },
+  "erp_id": 46,
+  "name": "CUSTOM INNER BOX",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36180fa22c9d78a93ed27"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36180fa22c9d78a93ed28"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36180fa22c9d78a93ed29"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 46,
+  "imageUrl": "1684263495CUTOM INNER-20.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:44.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:44.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36181fa22c9d78a93ed2d"
+  },
+  "erp_id": 47,
+  "name": "HANG TAB (WITH BLISTER)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36181fa22c9d78a93ed2e"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36181fa22c9d78a93ed2f"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 47,
+  "imageUrl": "1684263559hang tab blister packaging-36.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:45.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:45.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36182fa22c9d78a93ed33"
+  },
+  "erp_id": 49,
+  "name": "Square Label",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36182fa22c9d78a93ed34"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36182fa22c9d78a93ed35"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 49,
+  "imageUrl": "1684275730square Label-38.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:46.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:46.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36183fa22c9d78a93ed39"
+  },
+  "erp_id": 51,
+  "name": "Film Roll",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36183fa22c9d78a93ed3a"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36183fa22c9d78a93ed3b"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 51,
+  "imageUrl": "1684276085Film Roll-39.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:47.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:47.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36184fa22c9d78a93ed3f"
+  },
+  "erp_id": 53,
+  "name": "Magnetic Closure",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36184fa22c9d78a93ed40"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36184fa22c9d78a93ed41"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36184fa22c9d78a93ed42"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 53,
+  "imageUrl": "1684864780Mockups Boxes-06.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:48.285Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:48.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36185fa22c9d78a93ed46"
+  },
+  "erp_id": 54,
+  "name": "CR Rigid Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36185fa22c9d78a93ed47"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36185fa22c9d78a93ed48"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36185fa22c9d78a93ed49"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 54,
+  "imageUrl": "1684865099CR Rigid Box-40.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:49.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:49.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36186fa22c9d78a93ed4d"
+  },
+  "erp_id": 55,
+  "name": "Pillow Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36186fa22c9d78a93ed4e"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36186fa22c9d78a93ed4f"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 55,
+  "imageUrl": "1684953754pillow pouch.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:50.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:50.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36186fa22c9d78a93ed53"
+  },
+  "erp_id": 56,
+  "name": "Rigid Tray and Sleeve",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36186fa22c9d78a93ed54"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36186fa22c9d78a93ed55"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36186fa22c9d78a93ed56"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 56,
+  "imageUrl": "1684953802rigid tray and sleeve.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:50.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:50.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36187fa22c9d78a93ed5a"
+  },
+  "erp_id": 58,
+  "name": "Hangtab Sleeve & Tray",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36187fa22c9d78a93ed5b"
+      }
+    },
+    {
+      "name": "w",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36187fa22c9d78a93ed5c"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36187fa22c9d78a93ed5d"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 58,
+  "imageUrl": "1685046655WhatsApp Image 2023-05-26 at 01.29.55.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:51.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:51.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36188fa22c9d78a93ed61"
+  },
+  "erp_id": 59,
+  "name": "Tuck Box with Auto Lock",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36188fa22c9d78a93ed62"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36188fa22c9d78a93ed63"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36188fa22c9d78a93ed64"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 59,
+  "imageUrl": "1685123019WhatsApp Image 2023-05-26 at 22.42.23.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:52.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:52.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36189fa22c9d78a93ed68"
+  },
+  "erp_id": 60,
+  "name": "Cigarette Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36189fa22c9d78a93ed69"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36189fa22c9d78a93ed6a"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36189fa22c9d78a93ed6b"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 60,
+  "imageUrl": "1685472451WhatsApp Image 2023-05-30 at 23.47.19.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:53.475Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:53.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618afa22c9d78a93ed6f"
+  },
+  "erp_id": 62,
+  "name": "Hangtab Card",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618afa22c9d78a93ed70"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618afa22c9d78a93ed71"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 62,
+  "imageUrl": "1685639771WhatsApp Image 2023-06-01 at 22.13.14.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:54.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:54.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618bfa22c9d78a93ed75"
+  },
+  "erp_id": 63,
+  "name": "CUSTOM FOLDER LOCK",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618bfa22c9d78a93ed76"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618bfa22c9d78a93ed77"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618bfa22c9d78a93ed78"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 63,
+  "imageUrl": "1686157551WhatsApp Image 2023-06-07 at 22.03.47.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:55.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:55.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618cfa22c9d78a93ed7c"
+  },
+  "erp_id": 64,
+  "name": "Custom Folder Lock Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618cfa22c9d78a93ed7d"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618cfa22c9d78a93ed7e"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618cfa22c9d78a93ed7f"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 64,
+  "imageUrl": "1686161520Custom Folder Lock Box-50.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:56.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:56.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618cfa22c9d78a93ed83"
+  },
+  "erp_id": 65,
+  "name": "Cone Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618cfa22c9d78a93ed84"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618cfa22c9d78a93ed85"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618cfa22c9d78a93ed86"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 65,
+  "imageUrl": "1686255930WhatsApp Image 2023-06-09 at 01.24.56.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:56.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:56.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618dfa22c9d78a93ed8a"
+  },
+  "erp_id": 66,
+  "name": "3 Side Gusset Carry Bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618dfa22c9d78a93ed8b"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618dfa22c9d78a93ed8c"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618dfa22c9d78a93ed8d"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 66,
+  "imageUrl": "1686342194WhatsApp Image 2023-06-10 at 01.21.32.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:57.799Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:57.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618efa22c9d78a93ed91"
+  },
+  "erp_id": 67,
+  "name": "Tuck Box with Snap Lock",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618efa22c9d78a93ed92"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618efa22c9d78a93ed93"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618efa22c9d78a93ed94"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 67,
+  "imageUrl": "1686593881WhatsApp Image 2023-06-12 at 23.15.46.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:58.664Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:58.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3618ffa22c9d78a93ed98"
+  },
+  "erp_id": 68,
+  "name": "Custom Folder Front Lock Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618ffa22c9d78a93ed99"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618ffa22c9d78a93ed9a"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3618ffa22c9d78a93ed9b"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 68,
+  "imageUrl": "1686605426WhatsApp Image 2023-06-13 at 02.29.54.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:55:59.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:55:59.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36190fa22c9d78a93ed9f"
+  },
+  "erp_id": 69,
+  "name": "Octagone",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36190fa22c9d78a93eda0"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36190fa22c9d78a93eda1"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36190fa22c9d78a93eda2"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 69,
+  "imageUrl": "1686687927WhatsApp Image 2023-06-14 at 01.24.10.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:00.393Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:00.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36191fa22c9d78a93eda6"
+  },
+  "erp_id": 73,
+  "name": "Bakery Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36191fa22c9d78a93eda7"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36191fa22c9d78a93eda8"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36191fa22c9d78a93eda9"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 73,
+  "imageUrl": "1688160607WhatsApp Image 2023-07-01 at 02.26.55.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:01.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:01.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36192fa22c9d78a93edad"
+  },
+  "erp_id": 74,
+  "name": "Top Bottom Lid Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36192fa22c9d78a93edae"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36192fa22c9d78a93edaf"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36192fa22c9d78a93edb0"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 74,
+  "imageUrl": "1703004052top bottom rigid box.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:02.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:02.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36192fa22c9d78a93edb4"
+  },
+  "erp_id": 76,
+  "name": "Divider",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36192fa22c9d78a93edb5"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36192fa22c9d78a93edb6"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36192fa22c9d78a93edb7"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 76,
+  "imageUrl": "1703005455Divider-58.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:02.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:02.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36193fa22c9d78a93edbb"
+  },
+  "erp_id": 77,
+  "name": "Rigid Tray",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36193fa22c9d78a93edbc"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36193fa22c9d78a93edbd"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36193fa22c9d78a93edbe"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 77,
+  "imageUrl": "1692728695WhatsApp Image 2023-08-21 at 21.27.44.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:03.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:03.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36194fa22c9d78a93edc3"
+  },
+  "erp_id": 78,
+  "name": "Custom Shape Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "w",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36194fa22c9d78a93edc4"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36194fa22c9d78a93edc5"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36194fa22c9d78a93edc6"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 78,
+  "imageUrl": "1692728642WhatsApp Image 2023-08-22 at 22.25.25.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:04.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:04.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36195fa22c9d78a93ee55"
+  },
+  "erp_id": 79,
+  "name": "Custom Shape Flat Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36195fa22c9d78a93ee56"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36195fa22c9d78a93ee57"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 79,
+  "imageUrl": "1692728623WhatsApp Image 2023-08-22 at 23.06.34.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:05.584Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:05.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36196fa22c9d78a93ee5c"
+  },
+  "erp_id": 81,
+  "name": "Custom Labels",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36196fa22c9d78a93ee5d"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36196fa22c9d78a93ee5e"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 81,
+  "imageUrl": "1703006128custom label-61.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:06.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:06.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36197fa22c9d78a93ee62"
+  },
+  "erp_id": 82,
+  "name": "Display box with seal end bottom",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36197fa22c9d78a93ee63"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36197fa22c9d78a93ee64"
+      }
+    },
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36197fa22c9d78a93ee65"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 82,
+  "imageUrl": "1693934323WhatsApp Image 2023-09-05 at 21.49.49.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:07.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:07.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36198fa22c9d78a93ee69"
+  },
+  "erp_id": 84,
+  "name": "Foam Insert",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36198fa22c9d78a93ee6a"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36198fa22c9d78a93ee6b"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36198fa22c9d78a93ee6c"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 84,
+  "imageUrl": "1700496207WhatsApp Image 2023-11-20 at 21.00.17_7748aef3.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:08.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:08.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36199fa22c9d78a93ee70"
+  },
+  "erp_id": 86,
+  "name": "West bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36199fa22c9d78a93ee71"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36199fa22c9d78a93ee72"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36199fa22c9d78a93ee73"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 86,
+  "imageUrl": "1697139552WhatsApp Image 2023-10-13 at 00.36.38_dc0a4b03.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:09.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:09.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36199fa22c9d78a93ee77"
+  },
+  "erp_id": 87,
+  "name": "Foldable Rigid Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36199fa22c9d78a93ee78"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36199fa22c9d78a93ee79"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c36199fa22c9d78a93ee7a"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 87,
+  "imageUrl": "1697139685WhatsApp Image 2023-10-12 at 22.21.26_38b7962f.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:09.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:09.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619afa22c9d78a93ee7e"
+  },
+  "erp_id": 89,
+  "name": "Cylinder Rigid Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "D",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619afa22c9d78a93ee7f"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619afa22c9d78a93ee80"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 89,
+  "imageUrl": "1697217180WhatsApp Image 2023-10-13 at 22.07.56_475da33d.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:10.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:10.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619bfa22c9d78a93ee84"
+  },
+  "erp_id": 90,
+  "name": "Pizza box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619bfa22c9d78a93ee85"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619bfa22c9d78a93ee86"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619bfa22c9d78a93ee87"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 90,
+  "imageUrl": "1713286898ccpizzaboxbrown.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:11.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:11.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619cfa22c9d78a93ee8b"
+  },
+  "erp_id": 92,
+  "name": "Pillow Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619cfa22c9d78a93ee8c"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619cfa22c9d78a93ee8d"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619cfa22c9d78a93ee8e"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 92,
+  "imageUrl": "1703005523Pillow Box.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:12.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:12.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619dfa22c9d78a93ee92"
+  },
+  "erp_id": 93,
+  "name": "Tuck Box with auto lock with attach insert",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619dfa22c9d78a93ee93"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619dfa22c9d78a93ee94"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619dfa22c9d78a93ee95"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 93,
+  "imageUrl": "1703005568auto lock with attach insert.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:13.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:13.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619efa22c9d78a93ee99"
+  },
+  "erp_id": 97,
+  "name": "Designe Services",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619efa22c9d78a93ee9a"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619efa22c9d78a93ee9b"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619efa22c9d78a93ee9c"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 97,
+  "imageUrl": "1700659901ICON.png",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:14.235Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:14.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619ffa22c9d78a93eea0"
+  },
+  "erp_id": 99,
+  "name": "Designe Services",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619ffa22c9d78a93eea1"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619ffa22c9d78a93eea2"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619ffa22c9d78a93eea3"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 99,
+  "imageUrl": "1700660009ICON.png",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:15.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:15.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3619ffa22c9d78a93eea7"
+  },
+  "erp_id": 100,
+  "name": "Custom Rigid Box..",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619ffa22c9d78a93eea8"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619ffa22c9d78a93eea9"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c3619ffa22c9d78a93eeaa"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 100,
+  "imageUrl": "1701096360WhatsApp Image 2023-11-27 at 19.34.12_8ac96337.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:15.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:15.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a0fa22c9d78a93eeae"
+  },
+  "erp_id": 103,
+  "name": "Custom Folder Flat",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a0fa22c9d78a93eeaf"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a0fa22c9d78a93eeb0"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a0fa22c9d78a93eeb1"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 103,
+  "imageUrl": "1702404883custom folder.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:16.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:16.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a1fa22c9d78a93eeb5"
+  },
+  "erp_id": 104,
+  "name": "Custom Folder",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a1fa22c9d78a93eeb6"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a1fa22c9d78a93eeb7"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a1fa22c9d78a93eeb8"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 104,
+  "imageUrl": "1702404921custom folder s.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:17.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:17.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a4fa22c9d78a93eec2"
+  },
+  "erp_id": 111,
+  "name": "Courier Bags",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a4fa22c9d78a93eec3"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a4fa22c9d78a93eec4"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 111,
+  "imageUrl": "1706653042WhatsApp Image 2024-01-31 at 02.17.52_7c68c803.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:20.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:20.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a5fa22c9d78a93eec8"
+  },
+  "erp_id": 113,
+  "name": "Pre Roll Tube",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a5fa22c9d78a93eec9"
+      }
+    },
+    {
+      "name": "D",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a5fa22c9d78a93eeca"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 113,
+  "imageUrl": "1707156432pre_roll_tube.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:21.160Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:21.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a6fa22c9d78a93eece"
+  },
+  "erp_id": 114,
+  "name": "Counter Display Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a6fa22c9d78a93eecf"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a6fa22c9d78a93eed0"
+      }
+    },
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a6fa22c9d78a93eed1"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 114,
+  "imageUrl": "1707157830Counter Display Box.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:22.024Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:22.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a8fa22c9d78a93eedb"
+  },
+  "erp_id": 121,
+  "name": "Clam Sheel",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a8fa22c9d78a93eedc"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a8fa22c9d78a93eedd"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a8fa22c9d78a93eede"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 121,
+  "imageUrl": "1707740975clamshell.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:24.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:24.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361a9fa22c9d78a93eee3"
+  },
+  "erp_id": 125,
+  "name": "Custom Hangtab Envelope Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a9fa22c9d78a93eee4"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361a9fa22c9d78a93eee5"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 125,
+  "imageUrl": "1708019973WhatsApp Image 2024-02-15 at 22.54.13_5bd899fc.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:25.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:25.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361abfa22c9d78a93eeed"
+  },
+  "erp_id": 134,
+  "name": "Burger Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361abfa22c9d78a93eeee"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361abfa22c9d78a93eeef"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361abfa22c9d78a93eef0"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 134,
+  "imageUrl": "burger-box.jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:27.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:27.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361adfa22c9d78a93eef6"
+  },
+  "erp_id": 138,
+  "name": "Hang Tag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361adfa22c9d78a93eef7"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361adfa22c9d78a93eef8"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 138,
+  "imageUrl": "1713287031download (7).jpg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:29.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:29.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361affa22c9d78a93ef02"
+  },
+  "erp_id": 150,
+  "name": "Chinese Takeout Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361affa22c9d78a93ef03"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361affa22c9d78a93ef04"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361affa22c9d78a93ef05"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 150,
+  "imageUrl": "product-images/1718919134-chinese-takeout-box.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:31.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:31.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361b1fa22c9d78a93ef0c"
+  },
+  "erp_id": 154,
+  "name": "Bottom Lid Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b1fa22c9d78a93ef0d"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b1fa22c9d78a93ef0e"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b1fa22c9d78a93ef0f"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 154,
+  "imageUrl": "product-images/1720822719-1683647590top bottom lid box-17.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:33.529Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:33.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361b2fa22c9d78a93ef14"
+  },
+  "erp_id": 156,
+  "name": "Mailer Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b2fa22c9d78a93ef15"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b2fa22c9d78a93ef16"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b2fa22c9d78a93ef17"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 156,
+  "imageUrl": "product-images/1723590235-mailer-box.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:34.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:34.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361b4fa22c9d78a93ef1e"
+  },
+  "erp_id": 160,
+  "name": "Bottle Courier Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b4fa22c9d78a93ef1f"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b4fa22c9d78a93ef20"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b4fa22c9d78a93ef21"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 160,
+  "imageUrl": "product-images/1727393974-1684261744bottle carrier box-15.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:36.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:36.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361b5fa22c9d78a93ef25"
+  },
+  "erp_id": 161,
+  "name": "Decal",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b5fa22c9d78a93ef26"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b5fa22c9d78a93ef27"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 161,
+  "imageUrl": "product-images/1730846985-1730846777-DECAL.png",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:37.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:37.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361b6fa22c9d78a93ef2b"
+  },
+  "erp_id": 162,
+  "name": "Tuck Box with attach Insert",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b6fa22c9d78a93ef2c"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b6fa22c9d78a93ef2d"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b6fa22c9d78a93ef2e"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 162,
+  "imageUrl": "product-images/1733180279-WhatsApp Image 2024-12-03 at 03.09.46_deb4deab.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:38.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:38.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361b7fa22c9d78a93ef35"
+  },
+  "erp_id": 166,
+  "name": "Plastic Mold",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b7fa22c9d78a93ef36"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b7fa22c9d78a93ef37"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361b7fa22c9d78a93ef38"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 166,
+  "imageUrl": "product-images/1736540124-plastic mold.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:39.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:39.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361bafa22c9d78a93ef41"
+  },
+  "erp_id": 172,
+  "name": "2 Side Gusset Pouch (Pillow Pouch)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bafa22c9d78a93ef42"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bafa22c9d78a93ef43"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bafa22c9d78a93ef44"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 172,
+  "imageUrl": "product-images/1738187811-2-side-gusset-pouch.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:42.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:42.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361bbfa22c9d78a93ef48"
+  },
+  "erp_id": 173,
+  "name": "Pop Corn Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bbfa22c9d78a93ef49"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bbfa22c9d78a93ef4a"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bbfa22c9d78a93ef4b"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 173,
+  "imageUrl": "product-images/1738710833-pop-corn-box.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:43.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:43.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361bbfa22c9d78a93ef4f"
+  },
+  "erp_id": 174,
+  "name": "Spout Pouch with 3 side Gusset",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bbfa22c9d78a93ef50"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bbfa22c9d78a93ef51"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bbfa22c9d78a93ef52"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 174,
+  "imageUrl": "product-images/1738793859-spout-pouch-3-side-gusset.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:43.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:43.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361bdfa22c9d78a93ef57"
+  },
+  "erp_id": 176,
+  "name": "Custom Sealed Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bdfa22c9d78a93ef58"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bdfa22c9d78a93ef59"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bdfa22c9d78a93ef5a"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 176,
+  "imageUrl": "product-images/1739220504-custom-sealed-box.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:45.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:45.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361bdfa22c9d78a93ef5e"
+  },
+  "erp_id": 177,
+  "name": "Divider",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bdfa22c9d78a93ef5f"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bdfa22c9d78a93ef60"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bdfa22c9d78a93ef61"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 177,
+  "imageUrl": "product-images/1739317610-rigid-divider.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:45.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:45.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361befa22c9d78a93ef65"
+  },
+  "erp_id": 178,
+  "name": "Posters",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361befa22c9d78a93ef66"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361befa22c9d78a93ef67"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 178,
+  "imageUrl": "product-images/1739917919-Posters.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:46.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:46.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361bffa22c9d78a93ef6b"
+  },
+  "erp_id": 179,
+  "name": "Bubble Bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bffa22c9d78a93ef6c"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361bffa22c9d78a93ef6d"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 179,
+  "imageUrl": "product-images/1739918004-Bubble-Flat-Pouch.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:47.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:47.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c0fa22c9d78a93ef71"
+  },
+  "erp_id": 180,
+  "name": "NFC Label",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "D",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c0fa22c9d78a93ef72"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 180,
+  "imageUrl": "product-images/1740073727-NFC-Label.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:48.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:48.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c2fa22c9d78a93ef7b"
+  },
+  "erp_id": 186,
+  "name": "Boot Tray",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c2fa22c9d78a93ef7c"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c2fa22c9d78a93ef7d"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c2fa22c9d78a93ef7e"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 186,
+  "imageUrl": "product-images/1742510902-Boot-tray.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:50.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:50.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c3fa22c9d78a93ef82"
+  },
+  "erp_id": 188,
+  "name": "Flat Pasting Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c3fa22c9d78a93ef83"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c3fa22c9d78a93ef84"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 188,
+  "imageUrl": "product-images/1743717591-flat-pasting-box.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:51.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:51.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c4fa22c9d78a93ef88"
+  },
+  "erp_id": 189,
+  "name": "Custom Shap Tuck Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c4fa22c9d78a93ef89"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c4fa22c9d78a93ef8a"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c4fa22c9d78a93ef8b"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 189,
+  "imageUrl": "product-images/1744042001-CustomShapTuckBox.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:52.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:52.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c5fa22c9d78a93ef8f"
+  },
+  "erp_id": 190,
+  "name": "Custom Shap Display Box",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c5fa22c9d78a93ef90"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c5fa22c9d78a93ef91"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c5fa22c9d78a93ef92"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 190,
+  "imageUrl": "product-images/1744042117-CustomShapDisplayBox.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:53.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:53.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c6fa22c9d78a93ef97"
+  },
+  "erp_id": 191,
+  "name": "Business Card",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c6fa22c9d78a93ef98"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c6fa22c9d78a93ef99"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 191,
+  "imageUrl": "product-images/1744927959-buisness-cards.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:54.294Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:54.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c8fa22c9d78a93efa1"
+  },
+  "erp_id": 195,
+  "name": "test",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c8fa22c9d78a93efa2"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c8fa22c9d78a93efa3"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c8fa22c9d78a93efa4"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c8fa22c9d78a93efa5"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 195,
+  "imageUrl": "product-images/1746203562-final_qr_code_with_logos.png",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:56.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:56.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361c8fa22c9d78a93f0a4"
+  },
+  "erp_id": 196,
+  "name": "Flat Spout Spouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c8fa22c9d78a93f0a5"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361c8fa22c9d78a93f0a6"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 196,
+  "imageUrl": "product-images/1746737301-spout-pouch.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:56.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:56.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361cafa22c9d78a93f0ae"
+  },
+  "erp_id": 200,
+  "name": "Slider Zipper Mylar bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cafa22c9d78a93f0af"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cafa22c9d78a93f0b0"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 200,
+  "imageUrl": "product-images/1749167511-slider-zipper-mylar-bag.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:58.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:58.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361cbfa22c9d78a93f0b5"
+  },
+  "erp_id": 202,
+  "name": "Book Style Box",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cbfa22c9d78a93f0b6"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cbfa22c9d78a93f0b7"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cbfa22c9d78a93f0b8"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 202,
+  "imageUrl": "product-images/1752171703-book-style-box.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:56:59.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:56:59.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361ccfa22c9d78a93f0bc"
+  },
+  "erp_id": 203,
+  "name": "Center Seal Stand Up Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361ccfa22c9d78a93f0bd"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361ccfa22c9d78a93f0be"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361ccfa22c9d78a93f0bf"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 203,
+  "imageUrl": "product-images/1752267842-center-seal-standup-pouch.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:57:00.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:00.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361cefa22c9d78a93f0cb"
+  },
+  "erp_id": 206,
+  "name": "Reverse Tuck With Attach Insert",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cefa22c9d78a93f0cc"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cefa22c9d78a93f0cd"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cefa22c9d78a93f0ce"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 206,
+  "imageUrl": "product-images/1753976672-Reverse-Tuck-With-Attach-Insert.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:57:02.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:02.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361cffa22c9d78a93f0d8"
+  },
+  "erp_id": 208,
+  "name": "Inner Pocket Stand Up Pouch",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cffa22c9d78a93f0d9"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cffa22c9d78a93f0da"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361cffa22c9d78a93f0db"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 208,
+  "imageUrl": "product-images/1754504303-inner-stand-up-pouch.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:57:03.221Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:03.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d0fa22c9d78a93f0e6"
+  },
+  "erp_id": 210,
+  "name": "Bubble Mailer",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "L",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361d0fa22c9d78a93f0e7"
+      }
+    },
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361d0fa22c9d78a93f0e8"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 210,
+  "imageUrl": "product-images/1756219454-bubblemailer.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:57:04.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:04.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d1fa22c9d78a93f0f0"
+  },
+  "erp_id": 211,
+  "name": "Kraft Paper Bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "basePrice": 0,
+  "dimensionFields": [
+    {
+      "name": "W",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361d1fa22c9d78a93f0f1"
+      }
+    },
+    {
+      "name": "H",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361d1fa22c9d78a93f0f2"
+      }
+    },
+    {
+      "name": "G",
+      "unit": "inches",
+      "isRequired": true,
+      "minValue": 0,
+      "_id": {
+        "$oid": "68c361d1fa22c9d78a93f0f3"
+      }
+    }
+  ],
+  "isActive": true,
+  "sortOrder": 211,
+  "imageUrl": "product-images/1757375103-Kraft-paper-bag.jpeg",
+  "createdAt": {
+    "$date": "2025-09-11T23:57:05.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:05.236Z"
+  },
+  "__v": 0
+}]

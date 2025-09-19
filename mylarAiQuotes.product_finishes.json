@@ -1,0 +1,2852 @@
+[{
+  "_id": {
+    "$oid": "68c84c4da6a13d9c69cf34e1"
+  },
+  "erp_id": 1,
+  "name": "White",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 1,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:37.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:37.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c4da6a13d9c69cf34e5"
+  },
+  "erp_id": 2,
+  "name": "CMYK 4/0",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 2,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:37.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:37.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c4ea6a13d9c69cf34e9"
+  },
+  "erp_id": 3,
+  "name": "CMYK 4/4",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 3,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:38.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:38.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c4ea6a13d9c69cf34ed"
+  },
+  "erp_id": 4,
+  "name": "Panton color",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 4,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:38.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:38.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c4fa6a13d9c69cf34f1"
+  },
+  "erp_id": 5,
+  "name": "Gloss Finish",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 5,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:39.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:39.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c4fa6a13d9c69cf34f5"
+  },
+  "erp_id": 6,
+  "name": "Matte Finish",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 6,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:39.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:39.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c50a6a13d9c69cf34f9"
+  },
+  "erp_id": 7,
+  "name": "Softtouch Finish",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 7,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:40.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:40.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c50a6a13d9c69cf34fd"
+  },
+  "erp_id": 8,
+  "name": "Dripoff ( Tactile Feel)",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 8,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:40.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:40.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c51a6a13d9c69cf3501"
+  },
+  "erp_id": 9,
+  "name": "Spot UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 9,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:41.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:41.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c51a6a13d9c69cf3505"
+  },
+  "erp_id": 10,
+  "name": "3D Raised Spot UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 10,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:41.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:41.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c52a6a13d9c69cf3509"
+  },
+  "erp_id": 11,
+  "name": "Hot Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 11,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:42.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:42.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c52a6a13d9c69cf350d"
+  },
+  "erp_id": 12,
+  "name": "Cold Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 12,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:42.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:42.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c53a6a13d9c69cf3511"
+  },
+  "erp_id": 13,
+  "name": "Spot Raised Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 13,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:43.160Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:43.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c53a6a13d9c69cf3515"
+  },
+  "erp_id": 14,
+  "name": "Window",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 14,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:43.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:43.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c54a6a13d9c69cf3519"
+  },
+  "erp_id": 15,
+  "name": "Valve",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 15,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:44.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:44.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c54a6a13d9c69cf351d"
+  },
+  "erp_id": 16,
+  "name": "Spout",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 16,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:44.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:44.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c55a6a13d9c69cf3521"
+  },
+  "erp_id": 17,
+  "name": "Bottom Open (Zip Side Sealed)",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 17,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:45.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:45.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c55a6a13d9c69cf3525"
+  },
+  "erp_id": 18,
+  "name": "Open Zipper",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 18,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:45.631Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:45.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c56a6a13d9c69cf3529"
+  },
+  "erp_id": 19,
+  "name": "Rounded Corner",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 19,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:46.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:46.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c56a6a13d9c69cf352d"
+  },
+  "erp_id": 20,
+  "name": "Sharp Corner",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 20,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:46.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:46.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c57a6a13d9c69cf3531"
+  },
+  "erp_id": 21,
+  "name": "White",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 21,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:47.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:47.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c57a6a13d9c69cf3535"
+  },
+  "erp_id": 22,
+  "name": "CMYK 4/0",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 22,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:47.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:47.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c58a6a13d9c69cf3539"
+  },
+  "erp_id": 23,
+  "name": "CMYK 4/4",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 23,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:48.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:48.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c58a6a13d9c69cf353d"
+  },
+  "erp_id": 24,
+  "name": "Panton color",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 24,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:48.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:48.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c59a6a13d9c69cf3541"
+  },
+  "erp_id": 25,
+  "name": "Gloss Finish",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 25,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:49.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:49.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c59a6a13d9c69cf3545"
+  },
+  "erp_id": 26,
+  "name": "Dripoff UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 26,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:49.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:49.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5aa6a13d9c69cf3549"
+  },
+  "erp_id": 27,
+  "name": "Matte Finish",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 27,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:50.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:50.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5aa6a13d9c69cf354d"
+  },
+  "erp_id": 28,
+  "name": "Spot UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 28,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:50.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:50.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5ba6a13d9c69cf3551"
+  },
+  "erp_id": 29,
+  "name": "3D Raised Spot UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 29,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:51.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:51.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5ba6a13d9c69cf3555"
+  },
+  "erp_id": 30,
+  "name": "AQ Semi Gloss",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 30,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:51.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:51.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5ca6a13d9c69cf3559"
+  },
+  "erp_id": 34,
+  "name": "PVC CR Lock",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 34,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:52.120Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:52.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5ca6a13d9c69cf355d"
+  },
+  "erp_id": 35,
+  "name": "Magnetic Closure",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 35,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:52.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:52.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5da6a13d9c69cf3561"
+  },
+  "erp_id": 36,
+  "name": "CR button",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 36,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:53.161Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:53.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5da6a13d9c69cf3565"
+  },
+  "erp_id": 37,
+  "name": "Window PVC",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 37,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:53.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:53.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5ea6a13d9c69cf3569"
+  },
+  "erp_id": 38,
+  "name": "Window Diecut",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 38,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:54.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:54.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5ea6a13d9c69cf356d"
+  },
+  "erp_id": 39,
+  "name": "Foam Insert",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 39,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:54.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:54.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5fa6a13d9c69cf3571"
+  },
+  "erp_id": 40,
+  "name": "Blister Insert",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 40,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:55.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:55.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c5fa6a13d9c69cf3575"
+  },
+  "erp_id": 41,
+  "name": "Die Cutting",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 41,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:55.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:55.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c60a6a13d9c69cf357b"
+  },
+  "erp_id": 42,
+  "name": "Galutation",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 42,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:56.134Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:56.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c60a6a13d9c69cf3583"
+  },
+  "erp_id": 43,
+  "name": "Straight Line Gluing",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 43,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:56.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:56.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c61a6a13d9c69cf3589"
+  },
+  "erp_id": 44,
+  "name": "Auto Bottom",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 44,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:57.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:57.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c61a6a13d9c69cf358f"
+  },
+  "erp_id": 45,
+  "name": "Snap Lock Bottom",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 45,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:57.663Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:57.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c62a6a13d9c69cf3595"
+  },
+  "erp_id": 46,
+  "name": "Double Tape ( No Pasting )",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 46,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:58.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:58.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c62a6a13d9c69cf359e"
+  },
+  "erp_id": 47,
+  "name": "No Pasting Required",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 47,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:58.660Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:58.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c63a6a13d9c69cf35a2"
+  },
+  "erp_id": 48,
+  "name": "Embossing",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 48,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:59.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:59.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c63a6a13d9c69cf35a6"
+  },
+  "erp_id": 49,
+  "name": "Debossing",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 49,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:26:59.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:26:59.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c64a6a13d9c69cf35aa"
+  },
+  "erp_id": 50,
+  "name": "Micro Deep Embossing",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 50,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:00.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:00.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c64a6a13d9c69cf35af"
+  },
+  "erp_id": 51,
+  "name": "Silver Hot Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 51,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:00.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:00.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c65a6a13d9c69cf36c6"
+  },
+  "erp_id": 53,
+  "name": "Silver Spot Raised Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 53,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:01.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:01.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c65a6a13d9c69cf36d9"
+  },
+  "erp_id": 54,
+  "name": "White",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 54,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:01.960Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:01.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c66a6a13d9c69cf36e2"
+  },
+  "erp_id": 55,
+  "name": "CMYK 4/0",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 55,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:02.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:02.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c66a6a13d9c69cf36ed"
+  },
+  "erp_id": 56,
+  "name": "CMYK 4/4",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 56,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:02.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:02.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c67a6a13d9c69cf36f6"
+  },
+  "erp_id": 57,
+  "name": "Panton color",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 57,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:03.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:03.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c68a6a13d9c69cf3701"
+  },
+  "erp_id": 58,
+  "name": "Gloss UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 58,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:04.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:04.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c68a6a13d9c69cf370b"
+  },
+  "erp_id": 59,
+  "name": "Dripoff UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 59,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:04.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:04.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c69a6a13d9c69cf3715"
+  },
+  "erp_id": 60,
+  "name": "Matte UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 60,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:05.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:05.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c69a6a13d9c69cf3720"
+  },
+  "erp_id": 61,
+  "name": "Spot UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 61,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:05.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:05.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6aa6a13d9c69cf3726"
+  },
+  "erp_id": 62,
+  "name": "3D Raised Spot UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 62,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:06.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:06.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6aa6a13d9c69cf3731"
+  },
+  "erp_id": 64,
+  "name": "Gloss Lamination",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 64,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:06.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:06.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6ba6a13d9c69cf373a"
+  },
+  "erp_id": 65,
+  "name": "Matte Lamination",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 65,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:07.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:07.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6ba6a13d9c69cf373e"
+  },
+  "erp_id": 66,
+  "name": "Softtouch Lamination",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 66,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:07.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:07.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6ca6a13d9c69cf3747"
+  },
+  "erp_id": 67,
+  "name": "Hot Foil",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 67,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:08.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:08.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6ca6a13d9c69cf3750"
+  },
+  "erp_id": 68,
+  "name": "Cold Foil",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 68,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:08.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:08.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6da6a13d9c69cf3754"
+  },
+  "erp_id": 69,
+  "name": "Spot Raised Foil",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 69,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:09.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:09.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6da6a13d9c69cf3758"
+  },
+  "erp_id": 70,
+  "name": "Perforation ( Neckline )",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 70,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:09.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:09.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6ea6a13d9c69cf375e"
+  },
+  "erp_id": 71,
+  "name": "Perforation ( Vertical )",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 71,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:10.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:10.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6ea6a13d9c69cf3762"
+  },
+  "erp_id": 72,
+  "name": "Round Corner",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 72,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:10.983Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:10.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c6fa6a13d9c69cf3766"
+  },
+  "erp_id": 73,
+  "name": "Sharp Corner",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 73,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:11.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:11.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c70a6a13d9c69cf376a"
+  },
+  "erp_id": 74,
+  "name": "Reverse Printing ( Glue Front )",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 74,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:12.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:12.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c70a6a13d9c69cf376e"
+  },
+  "erp_id": 75,
+  "name": "Easy Peel Adhesive",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 75,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:12.531Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:12.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c71a6a13d9c69cf3772"
+  },
+  "erp_id": 76,
+  "name": "Permanent Adhesive",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 76,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:13.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:13.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c71a6a13d9c69cf3776"
+  },
+  "erp_id": 80,
+  "name": "Standard Zipper",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Zipper",
+  "isActive": true,
+  "sortOrder": 80,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:13.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:13.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c72a6a13d9c69cf377a"
+  },
+  "erp_id": 81,
+  "name": "CR Zipper",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Zipper",
+  "isActive": true,
+  "sortOrder": 81,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:14.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:14.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c72a6a13d9c69cf377e"
+  },
+  "erp_id": 82,
+  "name": "CR Zipper ( Grip & Pull)",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Zipper",
+  "isActive": true,
+  "sortOrder": 82,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:14.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:14.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c73a6a13d9c69cf3782"
+  },
+  "erp_id": 83,
+  "name": "Powder Proof Zipper",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Zipper",
+  "isActive": true,
+  "sortOrder": 83,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:15.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:15.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c73a6a13d9c69cf3786"
+  },
+  "erp_id": 84,
+  "name": "Easy Tear Open Zipper",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Zipper",
+  "isActive": true,
+  "sortOrder": 84,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:15.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:15.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c74a6a13d9c69cf378a"
+  },
+  "erp_id": 85,
+  "name": "Tear Notch Yes",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Tear Notch",
+  "isActive": true,
+  "sortOrder": 85,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:16.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:16.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c74a6a13d9c69cf378e"
+  },
+  "erp_id": 86,
+  "name": "Euro",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Hang Hole",
+  "isActive": true,
+  "sortOrder": 86,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:16.597Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:16.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c75a6a13d9c69cf3792"
+  },
+  "erp_id": 87,
+  "name": "Round",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Hang Hole",
+  "isActive": true,
+  "sortOrder": 87,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:17.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:17.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c75a6a13d9c69cf3796"
+  },
+  "erp_id": 88,
+  "name": "Holo Hot Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 88,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:17.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:17.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c76a6a13d9c69cf379a"
+  },
+  "erp_id": 89,
+  "name": "Holo Spot Raised Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 89,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:18.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:18.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c76a6a13d9c69cf379e"
+  },
+  "erp_id": 90,
+  "name": "Tear Notch No",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Tear Notch",
+  "isActive": true,
+  "sortOrder": 90,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:18.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:18.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c77a6a13d9c69cf37a2"
+  },
+  "erp_id": 91,
+  "name": "Hang Hole Yes",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Hang Hole",
+  "isActive": true,
+  "sortOrder": 91,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:19.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:19.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c77a6a13d9c69cf37a6"
+  },
+  "erp_id": 92,
+  "name": "Hang Hole No",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Hang Hole",
+  "isActive": true,
+  "sortOrder": 92,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:19.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:19.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c78a6a13d9c69cf37aa"
+  },
+  "erp_id": 93,
+  "name": "Front Valve",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 93,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:20.212Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:20.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c78a6a13d9c69cf37ae"
+  },
+  "erp_id": 94,
+  "name": "Back Valve",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 94,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:20.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:20.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c79a6a13d9c69cf37b2"
+  },
+  "erp_id": 95,
+  "name": "One Way Valve",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 95,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:21.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:21.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c79a6a13d9c69cf37b6"
+  },
+  "erp_id": 96,
+  "name": "Two Way Valve",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_product_category_id": 1,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 96,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:21.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:21.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7aa6a13d9c69cf37ba"
+  },
+  "erp_id": 97,
+  "name": "CIP Printing",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 97,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:22.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:22.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7aa6a13d9c69cf37be"
+  },
+  "erp_id": 99,
+  "name": "Soft Touch Finish",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 99,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:22.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:22.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7ba6a13d9c69cf37c2"
+  },
+  "erp_id": 100,
+  "name": "Striping",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 100,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:23.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:23.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7ba6a13d9c69cf37c6"
+  },
+  "erp_id": 101,
+  "name": "Die Making",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 101,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:23.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:23.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7ca6a13d9c69cf37ca"
+  },
+  "erp_id": 102,
+  "name": "Diff for All Sku SpotUv",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "dev",
+  "isActive": true,
+  "sortOrder": 102,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:24.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:24.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7ca6a13d9c69cf37ce"
+  },
+  "erp_id": 103,
+  "name": "Same for All Sku SpotUv",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "dev",
+  "isActive": true,
+  "sortOrder": 103,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:24.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:24.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7da6a13d9c69cf37d2"
+  },
+  "erp_id": 104,
+  "name": "Diff for All Sku 3D Raised Spot UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "dev",
+  "isActive": true,
+  "sortOrder": 104,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:25.216Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:25.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7da6a13d9c69cf37d6"
+  },
+  "erp_id": 105,
+  "name": "Same for All Sku 3D Raised Spot UV",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "dev",
+  "isActive": true,
+  "sortOrder": 105,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:25.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7ea6a13d9c69cf37da"
+  },
+  "erp_id": 106,
+  "name": "White",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 106,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:26.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:26.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7fa6a13d9c69cf37de"
+  },
+  "erp_id": 107,
+  "name": "CMYK",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 107,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:27.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:27.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c7fa6a13d9c69cf37e2"
+  },
+  "erp_id": 108,
+  "name": "Panton Colour",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Printing Process",
+  "isActive": true,
+  "sortOrder": 108,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:27.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:27.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c80a6a13d9c69cf37e6"
+  },
+  "erp_id": 109,
+  "name": "Gloss UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 109,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:28.346Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:28.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c80a6a13d9c69cf37ea"
+  },
+  "erp_id": 110,
+  "name": "Gloss Laminated",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 110,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:28.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:28.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c81a6a13d9c69cf37ee"
+  },
+  "erp_id": 111,
+  "name": "Drip Off",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 111,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:29.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:29.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c81a6a13d9c69cf37f2"
+  },
+  "erp_id": 112,
+  "name": "Softouch Lamination",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 112,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:29.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:29.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c82a6a13d9c69cf37f6"
+  },
+  "erp_id": 113,
+  "name": "Matt Lamination",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 113,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:30.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:30.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c82a6a13d9c69cf37fa"
+  },
+  "erp_id": 114,
+  "name": "Spot Gloss",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 114,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:30.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:30.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c83a6a13d9c69cf37fe"
+  },
+  "erp_id": 115,
+  "name": "No Finish",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Lamination & Coating",
+  "isActive": true,
+  "sortOrder": 115,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:31.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:31.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c83a6a13d9c69cf3802"
+  },
+  "erp_id": 116,
+  "name": "Embossing",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 116,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:31.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:31.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c84a6a13d9c69cf3806"
+  },
+  "erp_id": 117,
+  "name": "Deep Embossing",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 117,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:32.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:32.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c84a6a13d9c69cf380a"
+  },
+  "erp_id": 118,
+  "name": "Die Cutting",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Standard Process",
+  "isActive": true,
+  "sortOrder": 118,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:32.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:32.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c85a6a13d9c69cf380e"
+  },
+  "erp_id": 119,
+  "name": "Gallutation",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 119,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:33.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:33.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c85a6a13d9c69cf3812"
+  },
+  "erp_id": 120,
+  "name": "Spot cold foil",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 120,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:33.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:33.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c86a6a13d9c69cf3816"
+  },
+  "erp_id": 121,
+  "name": "Form Insert",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 121,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:34.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:34.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c86a6a13d9c69cf381a"
+  },
+  "erp_id": 122,
+  "name": "Magnetic Closure",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 122,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:34.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:34.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c87a6a13d9c69cf381e"
+  },
+  "erp_id": 123,
+  "name": "Child Resistance",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 123,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:35.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:35.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c87a6a13d9c69cf3822"
+  },
+  "erp_id": 124,
+  "name": "3D Raised UV",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 124,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:35.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:35.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c88a6a13d9c69cf3826"
+  },
+  "erp_id": 125,
+  "name": "Window",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 125,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:36.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:36.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c88a6a13d9c69cf382a"
+  },
+  "erp_id": 126,
+  "name": "Hot Foil",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 126,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:36.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:36.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c89a6a13d9c69cf382e"
+  },
+  "erp_id": 127,
+  "name": "Inside Printing",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 127,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:37.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:37.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c90a6a13d9c69cf385a"
+  },
+  "erp_id": 170,
+  "name": "Hot Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 170,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:44.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:44.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c90a6a13d9c69cf385e"
+  },
+  "erp_id": 171,
+  "name": "Holo Foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 171,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:44.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:44.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c91a6a13d9c69cf3862"
+  },
+  "erp_id": 172,
+  "name": "Spot cold foil",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 172,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:45.462Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:45.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c91a6a13d9c69cf3866"
+  },
+  "erp_id": 173,
+  "name": "Perforation Line",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_product_category_id": 3,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 173,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:45.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:45.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c92a6a13d9c69cf386a"
+  },
+  "erp_id": 174,
+  "name": "Spot cold foil",
+  "productCategoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_product_category_id": 2,
+  "description": "",
+  "attribute": "Extra Finishes",
+  "isActive": true,
+  "sortOrder": 174,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:46.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:46.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c84c92a6a13d9c69cf386e"
+  },
+  "erp_id": 175,
+  "name": "Window PVC",
+  "productCategoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_product_category_id": 4,
+  "description": "",
+  "attribute": "Add On's",
+  "isActive": true,
+  "sortOrder": 175,
+  "imageUrl": "",
+  "createdAt": {
+    "$date": "2025-09-15T17:27:46.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T17:27:46.962Z"
+  },
+  "__v": 0
+}]

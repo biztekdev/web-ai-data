@@ -3,7 +3,7 @@ const path = require('path');
 
 // Wit.ai API configuration
 const WIT_AI_ACCESS_TOKEN = process.env.WIT_AI_ACCESS_TOKEN || '2PK7PINGGKAOFLQCHT2QLIZFZZ25XLZB';
-const WIT_AI_APP_ID = 'quote_mylar_ai'; // Replace with your actual app ID
+const WIT_AI_APP_ID = process.env.WIT_AI_APP_ID || '1338138705022102';
 
 if (!WIT_AI_ACCESS_TOKEN) {
     console.error('❌ WIT_AI_ACCESS_TOKEN environment variable is required');
@@ -97,32 +97,31 @@ async function importIntents() {
         console.log(`📝 Importing intent: ${intentData.name}`);
         try {
             // Check if intent exists
+            let intentExists = false;
             try {
                 await makeRequest(`${WIT_API_BASE}/intents/${intentData.name}`);
+                intentExists = true;
                 console.log(`   Intent ${intentData.name} already exists, updating...`);
                 // Wit.ai does not support updating intents via PUT. Delete and recreate intent.
                 await makeRequest(
                     `${WIT_API_BASE}/intents/${intentData.name}`,
                     'DELETE'
                 );
-                await makeRequest(
-                    `${WIT_API_BASE}/intents`,
-                    'POST',
-                    intentData
-                );
             } catch (error) {
-                if (error.message.includes('404')) {
-                    console.log(`   Creating new intent: ${intentData.name}`);
-                    // Create new intent
-                    await makeRequest(
-                        `${WIT_API_BASE}/intents`,
-                        'POST',
-                        intentData
-                    );
+                if (error.message.includes('404') || error.message.includes('400') || error.message.includes('not-found')) {
+                    console.log(`   Intent ${intentData.name} does not exist, creating new...`);
                 } else {
                     throw error;
                 }
             }
+            
+            // Create the intent
+            await makeRequest(
+                `${WIT_API_BASE}/intents`,
+                'POST',
+                intentData
+            );
+            
             console.log(`✅ Intent ${intentData.name} imported successfully`);
         } catch (error) {
             console.error(`❌ Failed to import intent ${intentData.name}:`, error.message);
@@ -203,8 +202,21 @@ async function importToWit() {
         try {
             await makeRequest(`${WIT_API_BASE}/intents/get_quote`);
         } catch (error) {
-            console.error('❌ Intent get_quote does not exist. Utterances will not be imported.');
-            return;
+            if (error.message.includes('404') || error.message.includes('400') || error.message.includes('not-found')) {
+                console.error('❌ Intent get_quote does not exist. Creating it now...');
+                // Try to create the intent
+                try {
+                    const intentData = JSON.parse(fs.readFileSync(path.join(__dirname, 'intents', 'get_quote.json'), 'utf8'));
+                    await makeRequest(`${WIT_API_BASE}/intents`, 'POST', intentData);
+                    console.log('✅ Intent get_quote created successfully');
+                } catch (createError) {
+                    console.error('❌ Failed to create intent get_quote:', createError.message);
+                    return;
+                }
+            } else {
+                console.error('❌ Error checking intent get_quote:', error.message);
+                return;
+            }
         }
         await importUtterances();
         // Wit.ai trains automatically after import. Explicit trainModel call removed.

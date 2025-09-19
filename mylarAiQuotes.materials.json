@@ -1,0 +1,2525 @@
+[{
+  "_id": {
+    "$oid": "68c361cdfa22c9d78a93f0c7"
+  },
+  "erp_id": 48,
+  "name": "PP Silver Sticker",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 48,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:01.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:01.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361cefa22c9d78a93f0d2"
+  },
+  "erp_id": 49,
+  "name": "White Paper Sticker",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 49,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:02.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:02.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361cffa22c9d78a93f0dd"
+  },
+  "erp_id": 50,
+  "name": "PP Holographic Sticker",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 50,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:03.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:03.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d0fa22c9d78a93f0e4"
+  },
+  "erp_id": 51,
+  "name": "PP Clear Vinyl With White Release",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 51,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:04.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:04.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d1fa22c9d78a93f0ee"
+  },
+  "erp_id": 52,
+  "name": "PP White Vinyl",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 52,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:05.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:05.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d1fa22c9d78a93f0f9"
+  },
+  "erp_id": 53,
+  "name": "PET + White PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 53,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:05.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:05.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d2fa22c9d78a93f0ff"
+  },
+  "erp_id": 54,
+  "name": "PET + Clear PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 54,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:06.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:06.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d3fa22c9d78a93f103"
+  },
+  "erp_id": 55,
+  "name": "PET +  MPET + PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 55,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:07.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:07.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d4fa22c9d78a93f107"
+  },
+  "erp_id": 56,
+  "name": "PET + Alu Foil + PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 56,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:08.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:08.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d5fa22c9d78a93f10b"
+  },
+  "erp_id": 57,
+  "name": "PVC Shrinkable Sleeve Material",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 57,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:09.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:09.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d6fa22c9d78a93f10f"
+  },
+  "erp_id": 58,
+  "name": "Rigid Board with white paper",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 58,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:10.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:10.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d7fa22c9d78a93f113"
+  },
+  "erp_id": 62,
+  "name": "Kraft + PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 62,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:11.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:11.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d8fa22c9d78a93f117"
+  },
+  "erp_id": 65,
+  "name": "PET + CD holographic PET + PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 65,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:12.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:12.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d8fa22c9d78a93f11b"
+  },
+  "erp_id": 73,
+  "name": "Rigid Board with Silver",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 73,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:12.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:12.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361d9fa22c9d78a93f11f"
+  },
+  "erp_id": 74,
+  "name": "Rigid Board with Holographic",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 74,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:13.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:13.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361dafa22c9d78a93f123"
+  },
+  "erp_id": 82,
+  "name": "22pt silver cardboard",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 82,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:14.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:14.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361dbfa22c9d78a93f127"
+  },
+  "erp_id": 87,
+  "name": "Foam Insert Material",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 87,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:15.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:15.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361dcfa22c9d78a93f12b"
+  },
+  "erp_id": 89,
+  "name": "TRANSFER LABELS",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 89,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:16.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:16.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361ddfa22c9d78a93f12f"
+  },
+  "erp_id": 90,
+  "name": "Reflective vinyl stickers",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 90,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:17.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:17.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361dffa22c9d78a93f137"
+  },
+  "erp_id": 108,
+  "name": "Foil paper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 108,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:19.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:19.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e0fa22c9d78a93f13d"
+  },
+  "erp_id": 119,
+  "name": "PP Clear Sticker With Clear Release",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 119,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:20.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:20.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e1fa22c9d78a93f141"
+  },
+  "erp_id": 120,
+  "name": "12 PT White Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 120,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:21.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:21.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e2fa22c9d78a93f145"
+  },
+  "erp_id": 121,
+  "name": "14 PT White Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 121,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:22.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:22.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e3fa22c9d78a93f149"
+  },
+  "erp_id": 122,
+  "name": "16 PT White Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 122,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:23.519Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:23.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e4fa22c9d78a93f14d"
+  },
+  "erp_id": 123,
+  "name": "18 PT White Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 123,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:24.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:24.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e5fa22c9d78a93f151"
+  },
+  "erp_id": 124,
+  "name": "20 PT White Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 124,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:25.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:25.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e6fa22c9d78a93f155"
+  },
+  "erp_id": 125,
+  "name": "24 PT White Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 125,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:26.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:26.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e7fa22c9d78a93f159"
+  },
+  "erp_id": 126,
+  "name": "12 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 126,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:27.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:27.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e7fa22c9d78a93f15d"
+  },
+  "erp_id": 127,
+  "name": "14 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 127,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:27.885Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:27.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e8fa22c9d78a93f161"
+  },
+  "erp_id": 128,
+  "name": "16 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 128,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:28.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:28.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361e9fa22c9d78a93f165"
+  },
+  "erp_id": 129,
+  "name": "18 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 129,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:29.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:29.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361eafa22c9d78a93f169"
+  },
+  "erp_id": 130,
+  "name": "20 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 130,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:30.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:30.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361ebfa22c9d78a93f16d"
+  },
+  "erp_id": 131,
+  "name": "24 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 131,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:31.380Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:31.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361ecfa22c9d78a93f171"
+  },
+  "erp_id": 132,
+  "name": "12 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 132,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:32.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:32.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361edfa22c9d78a93f175"
+  },
+  "erp_id": 133,
+  "name": "14 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 133,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:33.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:33.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361eefa22c9d78a93f179"
+  },
+  "erp_id": 134,
+  "name": "16 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 134,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:34.001Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:34.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361eefa22c9d78a93f17d"
+  },
+  "erp_id": 135,
+  "name": "18 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 135,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:34.874Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:34.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361effa22c9d78a93f181"
+  },
+  "erp_id": 136,
+  "name": "20 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 136,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:35.747Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:35.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f0fa22c9d78a93f185"
+  },
+  "erp_id": 137,
+  "name": "24 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 137,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:36.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:36.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f1fa22c9d78a93f189"
+  },
+  "erp_id": 138,
+  "name": "14 PT PET Material",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 138,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:37.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:37.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f2fa22c9d78a93f18d"
+  },
+  "erp_id": 139,
+  "name": "16 PT PET Material",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 139,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:38.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:38.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f3fa22c9d78a93f191"
+  },
+  "erp_id": 140,
+  "name": "14 PT C2S ArtBoard",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 140,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:39.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:39.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f4fa22c9d78a93f195"
+  },
+  "erp_id": 141,
+  "name": "16 PT C2S ArtBoard",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 141,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:40.114Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:40.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f4fa22c9d78a93f199"
+  },
+  "erp_id": 142,
+  "name": "18 PT C2S ArtBoard",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 142,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:40.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:40.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f5fa22c9d78a93f19d"
+  },
+  "erp_id": 143,
+  "name": "16 PT Craft Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 143,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:41.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:41.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f6fa22c9d78a93f1a1"
+  },
+  "erp_id": 144,
+  "name": "18 PT Craft Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 144,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:42.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:42.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f7fa22c9d78a93f1a5"
+  },
+  "erp_id": 145,
+  "name": "70lb Text Paper (Gloss)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 145,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:43.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:43.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f8fa22c9d78a93f1a9"
+  },
+  "erp_id": 146,
+  "name": "70lb Silk Paper (Matte)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 146,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:44.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:44.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361f9fa22c9d78a93f1ad"
+  },
+  "erp_id": 147,
+  "name": "70lb Offset Paper (Uncoated)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 147,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:45.354Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:45.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fafa22c9d78a93f1b1"
+  },
+  "erp_id": 148,
+  "name": "80lb Text Paper (Gloss)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 148,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:46.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:46.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fbfa22c9d78a93f1b5"
+  },
+  "erp_id": 149,
+  "name": "80lb Silk Paper (Matte)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 149,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:47.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:47.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fbfa22c9d78a93f1b9"
+  },
+  "erp_id": 150,
+  "name": "80lb Offset Paper (Uncoated)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 150,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:47.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:47.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fcfa22c9d78a93f1bd"
+  },
+  "erp_id": 151,
+  "name": "100lb Text Paper (Gloss)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 151,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:48.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:48.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fdfa22c9d78a93f1c1"
+  },
+  "erp_id": 152,
+  "name": "100lb Silk Paper (Matte)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 152,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:49.720Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:49.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fefa22c9d78a93f1c5"
+  },
+  "erp_id": 153,
+  "name": "100lb Offset Paper (Uncoated)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 153,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:50.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:50.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c361fffa22c9d78a93f1c9"
+  },
+  "erp_id": 154,
+  "name": "Kraft + MPET +PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 154,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:51.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:51.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36200fa22c9d78a93f1cd"
+  },
+  "erp_id": 155,
+  "name": "Paper + AluFoil +PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 155,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:52.347Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:52.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36201fa22c9d78a93f1d1"
+  },
+  "erp_id": 156,
+  "name": "Parchment Paper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 156,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:53.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:53.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36202fa22c9d78a93f1d5"
+  },
+  "erp_id": 157,
+  "name": "PE (Polyethylene)",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 157,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:54.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:54.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36202fa22c9d78a93f1d9"
+  },
+  "erp_id": 158,
+  "name": "20 PT SUS Unbleached Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 158,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:54.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:54.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36203fa22c9d78a93f1dd"
+  },
+  "erp_id": 159,
+  "name": "Custom Security Label",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 159,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:55.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:55.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36205fa22c9d78a93f1e5"
+  },
+  "erp_id": 164,
+  "name": "Rigid Board with Kraftpaper",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 164,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:57.885Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:57.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36206fa22c9d78a93f1e9"
+  },
+  "erp_id": 165,
+  "name": "250 GSM CARDBOARD + E FLUTE + 250 CARD board",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec6c"
+  },
+  "erp_category_id": 4,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 165,
+  "createdAt": {
+    "$date": "2025-09-11T23:57:58.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:57:58.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36208fa22c9d78a93f1ef"
+  },
+  "erp_id": 168,
+  "name": "Kraft paper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 168,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:00.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:00.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36209fa22c9d78a93f1f6"
+  },
+  "erp_id": 174,
+  "name": "14 PT Grey back box board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 174,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:01.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:01.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3620afa22c9d78a93f1fa"
+  },
+  "erp_id": 175,
+  "name": "16 PT Grey back box board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 175,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:02.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:02.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3620bfa22c9d78a93f1fe"
+  },
+  "erp_id": 176,
+  "name": "18 PT Grey back box board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 176,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:03.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:03.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3620cfa22c9d78a93f202"
+  },
+  "erp_id": 177,
+  "name": "Metallic (Shrink Sleeve Material)",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 177,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:04.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:04.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3620dfa22c9d78a93f206"
+  },
+  "erp_id": 178,
+  "name": "White Vinyl decal with adhesive - 100 micron",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 178,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:05.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:05.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3620efa22c9d78a93f20a"
+  },
+  "erp_id": 179,
+  "name": "White Vinyl decal without adhesive - 100 micron",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 179,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:06.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:06.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3620ffa22c9d78a93f20e"
+  },
+  "erp_id": 180,
+  "name": "Transparent Vinyl decal with adhesive - 100 micron",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 180,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:07.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:07.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36210fa22c9d78a93f212"
+  },
+  "erp_id": 181,
+  "name": "Transparent Vinyl decal without adhesive - 100 micron",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 181,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:08.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:08.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36210fa22c9d78a93f216"
+  },
+  "erp_id": 182,
+  "name": "0.25 Transparent Matte Pet",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 182,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:08.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:08.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36211fa22c9d78a93f21a"
+  },
+  "erp_id": 183,
+  "name": "0.30 Transaparent Matte Pet",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 183,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:09.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:09.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36212fa22c9d78a93f21e"
+  },
+  "erp_id": 184,
+  "name": "0.35 Transaparent Matte Pet",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 184,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:10.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:10.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36213fa22c9d78a93f222"
+  },
+  "erp_id": 185,
+  "name": "0.40 Transaparent Matte Pet",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 185,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:11.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:11.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36214fa22c9d78a93f226"
+  },
+  "erp_id": 186,
+  "name": "0.25 Transparent pet high gloss",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 186,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:12.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:12.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36215fa22c9d78a93f22a"
+  },
+  "erp_id": 187,
+  "name": "0.30 Transparent pet high gloss",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 187,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:13.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:13.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36216fa22c9d78a93f22e"
+  },
+  "erp_id": 188,
+  "name": "0.35 Transparent pet high gloss",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 188,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:14.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:14.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36217fa22c9d78a93f232"
+  },
+  "erp_id": 189,
+  "name": "0.40 Transparent pet high gloss",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 189,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:15.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:15.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3621efa22c9d78a93f243"
+  },
+  "erp_id": 211,
+  "name": "clear Plastic Tube",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 211,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:22.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:22.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36221fa22c9d78a93f24b"
+  },
+  "erp_id": 217,
+  "name": "14 PT CS2 Holographic Artpaper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 217,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:25.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:25.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36222fa22c9d78a93f24f"
+  },
+  "erp_id": 218,
+  "name": "14 PT CS2 Artpaper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 218,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:26.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:26.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36223fa22c9d78a93f253"
+  },
+  "erp_id": 219,
+  "name": "NFC Label",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 219,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:27.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:27.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36224fa22c9d78a93f257"
+  },
+  "erp_id": 220,
+  "name": "Metallic Transfer Labels",
+  "categoryId": {
+    "$oid": "68c36160fa22c9d78a93ec63"
+  },
+  "erp_category_id": 3,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 220,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:28.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:28.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36225fa22c9d78a93f25b"
+  },
+  "erp_id": 222,
+  "name": "Butter Paper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 222,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:29.418Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:29.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36226fa22c9d78a93f25f"
+  },
+  "erp_id": 223,
+  "name": "18 + 18 PT White Cardboard",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 223,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:30.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:30.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36227fa22c9d78a93f263"
+  },
+  "erp_id": 224,
+  "name": "18 + 18 PT Holographic Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 224,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:31.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:31.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36228fa22c9d78a93f267"
+  },
+  "erp_id": 225,
+  "name": "18 + 18 PT Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 225,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:32.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:32.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36228fa22c9d78a93f26b"
+  },
+  "erp_id": 226,
+  "name": "14 PT CS2 Sliver ArtCard",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 226,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:32.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:32.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36229fa22c9d78a93f26f"
+  },
+  "erp_id": 227,
+  "name": "Pet Bubble Mylar Bag",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 227,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:33.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:33.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3622bfa22c9d78a93f276"
+  },
+  "erp_id": 231,
+  "name": "16 + 16 PT Holographic",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 231,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:35.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:35.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3622cfa22c9d78a93f27a"
+  },
+  "erp_id": 232,
+  "name": "Carrugated (E-Flute) 400 GSM",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 232,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:36.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:36.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3622dfa22c9d78a93f27e"
+  },
+  "erp_id": 233,
+  "name": "Butter Paper With Wax",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 233,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:37.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:37.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3622efa22c9d78a93f282"
+  },
+  "erp_id": 234,
+  "name": "Butter Paper Without Wax",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 234,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:38.151Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:38.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c3622ffa22c9d78a93f287"
+  },
+  "erp_id": 236,
+  "name": "20 PT C2S Artboard",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 236,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:39.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:39.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36231fa22c9d78a93f290"
+  },
+  "erp_id": 242,
+  "name": "10pt + 10pt Silver Card Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 242,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:41.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:41.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36232fa22c9d78a93f294"
+  },
+  "erp_id": 243,
+  "name": "Kraft + Alu Foil + PE",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 243,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:42.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:42.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36233fa22c9d78a93f299"
+  },
+  "erp_id": 245,
+  "name": "20 PT Brown Kraft Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 245,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:43.676Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:43.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36234fa22c9d78a93f29d"
+  },
+  "erp_id": 246,
+  "name": "20 PT White Kraft Board",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec5a"
+  },
+  "erp_category_id": 2,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 246,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:44.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:44.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c36235fa22c9d78a93f2a1"
+  },
+  "erp_id": 247,
+  "name": "Brown Kraft Paper",
+  "categoryId": {
+    "$oid": "68c3615ffa22c9d78a93ec50"
+  },
+  "erp_category_id": 1,
+  "description": "",
+  "pricePerUnit": 0,
+  "unit": "piece",
+  "thickness": "",
+  "specifications": [],
+  "isActive": true,
+  "sortOrder": 247,
+  "createdAt": {
+    "$date": "2025-09-11T23:58:45.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T23:58:45.421Z"
+  },
+  "__v": 0
+}]

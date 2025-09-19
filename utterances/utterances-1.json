@@ -3367,43 +3367,37 @@
                     "entity": "quantities:quantities",
                     "start": 20,
                     "end": 25,
-                    "body": "20000",
-                    "value": "20000"
+                    "body": "20000"
                 },
                 {
                     "entity": "product:product",
                     "start": 35,
                     "end": 48,
-                    "body": "standup pouches",
-                    "value": "Stand Up Pouch"
+                    "body": "standup pouches"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 70,
                     "end": 77,
-                    "body": "spot UV",
-                    "value": "Spot UV"
+                    "body": "spot UV"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 82,
                     "end": 86,
-                    "body": "foil",
-                    "value": "Foil"
+                    "body": "foil"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 103,
                     "end": 104,
-                    "body": "4",
-                    "value": "4"
+                    "body": "4"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 130,
                     "end": 135,
-                    "body": "white",
-                    "value": "White"
+                    "body": "white"
                 }
             ],
             "traits": [],
@@ -3416,43 +3410,37 @@
                     "entity": "quantities:quantities",
                     "start": 8,
                     "end": 13,
-                    "body": "20000",
-                    "value": "20000"
+                    "body": "20000"
                 },
                 {
                     "entity": "product:product",
                     "start": 14,
                     "end": 27,
-                    "body": "stand up pouches",
-                    "value": "Stand Up Pouch"
+                    "body": "stand up pouches"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 50,
                     "end": 57,
-                    "body": "spot UV",
-                    "value": "Spot UV"
+                    "body": "spot UV"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 62,
                     "end": 66,
-                    "body": "foil",
-                    "value": "Foil"
+                    "body": "foil"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 85,
                     "end": 86,
-                    "body": "4",
-                    "value": "4"
+                    "body": "4"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 110,
                     "end": 115,
-                    "body": "white",
-                    "value": "White"
+                    "body": "white"
                 }
             ],
             "traits": [],
@@ -3465,43 +3453,37 @@
                     "entity": "quantities:quantities",
                     "start": 15,
                     "end": 20,
-                    "body": "20000",
-                    "value": "20000"
+                    "body": "20000"
                 },
                 {
                     "entity": "product:product",
                     "start": 21,
                     "end": 34,
-                    "body": "standup pouches",
-                    "value": "Stand Up Pouch"
+                    "body": "standup pouches"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 50,
                     "end": 57,
-                    "body": "spot UV",
-                    "value": "Spot UV"
+                    "body": "spot UV"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 58,
                     "end": 62,
-                    "body": "foil",
-                    "value": "Foil"
+                    "body": "foil"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 75,
                     "end": 76,
-                    "body": "4",
-                    "value": "4"
+                    "body": "4"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 95,
                     "end": 100,
-                    "body": "white",
-                    "value": "White"
+                    "body": "white"
                 }
             ],
             "traits": [],
@@ -3514,50 +3496,43 @@
                     "entity": "quantities:quantities",
                     "start": 5,
                     "end": 8,
-                    "body": "5k",
-                    "value": "5000"
+                    "body": "5k"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 20,
                     "end": 30,
-                    "body": "4*5inches",
-                    "value": "4,5"
+                    "body": "4*5inches"
                 },
                 {
                     "entity": "product:product",
                     "start": 32,
                     "end": 43,
-                    "body": "Pillow pouch",
-                    "value": "Pillow Pouch"
+                    "body": "Pillow pouch"
                 },
                 {
                     "entity": "material:material",
                     "start": 46,
                     "end": 58,
-                    "body": "holographic material",
-                    "value": "Holographic"
+                    "body": "holographic material"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 80,
                     "end": 81,
-                    "body": "5",
-                    "value": "5"
+                    "body": "5"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 95,
                     "end": 99,
-                    "body": "Matt",
-                    "value": "Matte"
+                    "body": "Matt"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 102,
                     "end": 109,
-                    "body": "spot uv",
-                    "value": "Spot UV"
+                    "body": "spot uv"
                 }
             ],
             "traits": [],
@@ -3570,50 +3545,43 @@
                     "entity": "quantities:quantities",
                     "start": 8,
                     "end": 12,
-                    "body": "5000",
-                    "value": "5000"
+                    "body": "5000"
                 },
                 {
                     "entity": "product:product",
                     "start": 13,
                     "end": 25,
-                    "body": "pillow pouches",
-                    "value": "Pillow Pouch"
+                    "body": "pillow pouches"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 29,
                     "end": 36,
-                    "body": "4x5 inch",
-                    "value": "4,5"
+                    "body": "4x5 inch"
                 },
                 {
                     "entity": "material:material",
                     "start": 41,
                     "end": 52,
-                    "body": "holographic material",
-                    "value": "Holographic"
+                    "body": "holographic material"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 54,
                     "end": 55,
-                    "body": "5",
-                    "value": "5"
+                    "body": "5"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 80,
                     "end": 85,
-                    "body": "matte",
-                    "value": "Matte"
+                    "body": "matte"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 88,
                     "end": 95,
-                    "body": "spot UV",
-                    "value": "Spot UV"
+                    "body": "spot UV"
                 }
             ],
             "traits": [],
@@ -3626,50 +3594,43 @@
                     "entity": "quantities:quantities",
                     "start": 15,
                     "end": 18,
-                    "body": "5k",
-                    "value": "5000"
+                    "body": "5k"
                 },
                 {
                     "entity": "product:product",
                     "start": 19,
                     "end": 31,
-                    "body": "pillow pouches",
-                    "value": "Pillow Pouch"
+                    "body": "pillow pouches"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 37,
                     "end": 47,
-                    "body": "4*5 inches",
-                    "value": "4,5"
+                    "body": "4*5 inches"
                 },
                 {
                     "entity": "material:material",
                     "start": 49,
                     "end": 60,
-                    "body": "holographic material",
-                    "value": "Holographic"
+                    "body": "holographic material"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 62,
                     "end": 63,
-                    "body": "5",
-                    "value": "5"
+                    "body": "5"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 72,
                     "end": 77,
-                    "body": "matte",
-                    "value": "Matte"
+                    "body": "matte"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 80,
                     "end": 87,
-                    "body": "spot UV",
-                    "value": "Spot UV"
+                    "body": "spot UV"
                 }
             ],
             "traits": [],
@@ -3682,50 +3643,43 @@
                     "entity": "quantities:quantities",
                     "start": 70,
                     "end": 76,
-                    "body": "15,000",
-                    "value": "15000"
+                    "body": "15,000"
                 },
                 {
                     "entity": "product:product",
                     "start": 83,
                     "end": 95,
-                    "body": "Stand-up bag",
-                    "value": "Stand Up Pouch"
+                    "body": "Stand-up bag"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 102,
                     "end": 112,
-                    "body": "4\" x 6\" x 2\"",
-                    "value": "4,6,2"
+                    "body": "4\" x 6\" x 2\""
                 },
                 {
                     "entity": "material:material",
                     "start": 121,
                     "end": 132,
-                    "body": "Holographic",
-                    "value": "Holographic"
+                    "body": "Holographic"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 139,
                     "end": 140,
-                    "body": "3",
-                    "value": "3"
+                    "body": "3"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 150,
                     "end": 155,
-                    "body": "Matte",
-                    "value": "Matte"
+                    "body": "Matte"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 158,
                     "end": 165,
-                    "body": "Spot UV",
-                    "value": "Spot UV"
+                    "body": "Spot UV"
                 }
             ],
             "traits": [],
@@ -3738,50 +3692,43 @@
                     "entity": "quantities:quantities",
                     "start": 45,
                     "end": 50,
-                    "body": "15000",
-                    "value": "15000"
+                    "body": "15000"
                 },
                 {
                     "entity": "product:product",
                     "start": 58,
                     "end": 70,
-                    "body": "Stand-up bag",
-                    "value": "Stand Up Pouch"
+                    "body": "Stand-up bag"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 78,
                     "end": 88,
-                    "body": "4x6x2 inches",
-                    "value": "4,6,2"
+                    "body": "4x6x2 inches"
                 },
                 {
                     "entity": "material:material",
                     "start": 99,
                     "end": 110,
-                    "body": "Holographic",
-                    "value": "Holographic"
+                    "body": "Holographic"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 118,
                     "end": 119,
-                    "body": "3",
-                    "value": "3"
+                    "body": "3"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 130,
                     "end": 135,
-                    "body": "Matte",
-                    "value": "Matte"
+                    "body": "Matte"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 138,
                     "end": 145,
-                    "body": "Spot UV",
-                    "value": "Spot UV"
+                    "body": "Spot UV"
                 }
             ],
             "traits": [],
@@ -3794,50 +3741,43 @@
                     "entity": "quantities:quantities",
                     "start": 20,
                     "end": 25,
-                    "body": "15000",
-                    "value": "15000"
+                    "body": "15000"
                 },
                 {
                     "entity": "product:product",
                     "start": 26,
                     "end": 38,
-                    "body": "stand-up bags",
-                    "value": "Stand Up Pouch"
+                    "body": "stand-up bags"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 45,
                     "end": 55,
-                    "body": "4\"x6\"x2\"",
-                    "value": "4,6,2"
+                    "body": "4\"x6\"x2\""
                 },
                 {
                     "entity": "material:material",
                     "start": 57,
                     "end": 68,
-                    "body": "holographic material",
-                    "value": "Holographic"
+                    "body": "holographic material"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 70,
                     "end": 71,
-                    "body": "3",
-                    "value": "3"
+                    "body": "3"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 80,
                     "end": 85,
-                    "body": "matte",
-                    "value": "Matte"
+                    "body": "matte"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 88,
                     "end": 95,
-                    "body": "spot UV",
-                    "value": "Spot UV"
+                    "body": "spot UV"
                 }
             ],
             "traits": [],
@@ -3850,43 +3790,37 @@
                     "entity": "quantities:quantities",
                     "start": 5,
                     "end": 8,
-                    "body": "12k",
-                    "value": "12000"
+                    "body": "12k"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 20,
                     "end": 30,
-                    "body": "W 3\" H 4\"",
-                    "value": "3,4"
+                    "body": "W 3\" H 4\""
                 },
                 {
                     "entity": "product:product",
                     "start": 37,
                     "end": 47,
-                    "body": "Flat pouch",
-                    "value": "Flat Pouch"
+                    "body": "Flat pouch"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 70,
                     "end": 71,
-                    "body": "4",
-                    "value": "4"
+                    "body": "4"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 90,
                     "end": 99,
-                    "body": "Soft touch",
-                    "value": "Soft Touch"
+                    "body": "Soft touch"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 103,
                     "end": 110,
-                    "body": "foiling",
-                    "value": "Foil"
+                    "body": "foiling"
                 }
             ],
             "traits": [],
@@ -3899,43 +3833,37 @@
                     "entity": "quantities:quantities",
                     "start": 8,
                     "end": 13,
-                    "body": "12000",
-                    "value": "12000"
+                    "body": "12000"
                 },
                 {
                     "entity": "product:product",
                     "start": 14,
                     "end": 24,
-                    "body": "flat pouches",
-                    "value": "Flat Pouch"
+                    "body": "flat pouches"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 35,
                     "end": 45,
-                    "body": "W 3\" H 4\"",
-                    "value": "3,4"
+                    "body": "W 3\" H 4\""
                 },
                 {
                     "entity": "skus:skus",
                     "start": 47,
                     "end": 48,
-                    "body": "4",
-                    "value": "4"
+                    "body": "4"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 70,
                     "end": 79,
-                    "body": "soft touch",
-                    "value": "Soft Touch"
+                    "body": "soft touch"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 86,
                     "end": 93,
-                    "body": "foiling",
-                    "value": "Foil"
+                    "body": "foiling"
                 }
             ],
             "traits": [],
@@ -3948,43 +3876,37 @@
                     "entity": "quantities:quantities",
                     "start": 15,
                     "end": 18,
-                    "body": "12k",
-                    "value": "12000"
+                    "body": "12k"
                 },
                 {
                     "entity": "product:product",
                     "start": 19,
                     "end": 29,
-                    "body": "flat pouches",
-                    "value": "Flat Pouch"
+                    "body": "flat pouches"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 40,
                     "end": 50,
-                    "body": "W 3\" H 4\"",
-                    "value": "3,4"
+                    "body": "W 3\" H 4\""
                 },
                 {
                     "entity": "skus:skus",
                     "start": 57,
                     "end": 58,
-                    "body": "4",
-                    "value": "4"
+                    "body": "4"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 60,
                     "end": 69,
-                    "body": "soft touch",
-                    "value": "Soft Touch"
+                    "body": "soft touch"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 72,
                     "end": 79,
-                    "body": "foiling",
-                    "value": "Foil"
+                    "body": "foiling"
                 }
             ],
             "traits": [],
@@ -3997,43 +3919,37 @@
                     "entity": "quantities:quantities",
                     "start": 25,
                     "end": 32,
-                    "body": "540,000",
-                    "value": "540000"
+                    "body": "540,000"
                 },
                 {
                     "entity": "product:product",
                     "start": 33,
                     "end": 43,
-                    "body": "flat pouches",
-                    "value": "Flat Pouch"
+                    "body": "flat pouches"
                 },
                 {
                     "entity": "material:material",
                     "start": 58,
                     "end": 62,
-                    "body": "MPET",
-                    "value": "MPET"
+                    "body": "MPET"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 80,
                     "end": 95,
-                    "body": "6\" in height and 2.5\" in width",
-                    "value": "6,2.5"
+                    "body": "6\" in height and 2.5\" in width"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 103,
                     "end": 104,
-                    "body": "3",
-                    "value": "3"
+                    "body": "3"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 120,
                     "end": 131,
-                    "body": "gloss coating",
-                    "value": "Gloss Finish"
+                    "body": "gloss coating"
                 }
             ],
             "traits": [],
@@ -4046,43 +3962,37 @@
                     "entity": "quantities:quantities",
                     "start": 8,
                     "end": 14,
-                    "body": "540000",
-                    "value": "540000"
+                    "body": "540000"
                 },
                 {
                     "entity": "product:product",
                     "start": 15,
                     "end": 25,
-                    "body": "flat pouches",
-                    "value": "Flat Pouch"
+                    "body": "flat pouches"
                 },
                 {
                     "entity": "material:material",
                     "start": 30,
                     "end": 34,
-                    "body": "MPET",
-                    "value": "MPET"
+                    "body": "MPET"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 42,
                     "end": 57,
-                    "body": "6\" height x 2.5\" width",
-                    "value": "6,2.5"
+                    "body": "6\" height x 2.5\" width"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 59,
                     "end": 60,
-                    "body": "3",
-                    "value": "3"
+                    "body": "3"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 75,
                     "end": 86,
-                    "body": "gloss finish",
-                    "value": "Gloss Finish"
+                    "body": "gloss finish"
                 }
             ],
             "traits": [],
@@ -4095,43 +4005,37 @@
                     "entity": "quantities:quantities",
                     "start": 15,
                     "end": 19,
-                    "body": "540k",
-                    "value": "540000"
+                    "body": "540k"
                 },
                 {
                     "entity": "product:product",
                     "start": 20,
                     "end": 30,
-                    "body": "flat pouches",
-                    "value": "Flat Pouch"
+                    "body": "flat pouches"
                 },
                 {
                     "entity": "material:material",
                     "start": 32,
                     "end": 36,
-                    "body": "MPET",
-                    "value": "MPET"
+                    "body": "MPET"
                 },
                 {
                     "entity": "dimensions:dimensions",
                     "start": 45,
                     "end": 55,
-                    "body": "6\"H x 2.5\"W",
-                    "value": "6,2.5"
+                    "body": "6\"H x 2.5\"W"
                 },
                 {
                     "entity": "skus:skus",
                     "start": 57,
                     "end": 58,
-                    "body": "3",
-                    "value": "3"
+                    "body": "3"
                 },
                 {
                     "entity": "finishes:finishes",
                     "start": 60,
                     "end": 71,
-                    "body": "gloss coating",
-                    "value": "Gloss Finish"
+                    "body": "gloss coating"
                 }
             ],
             "traits": [],
@@ -4139,3 +4043,4 @@
         }
     ]
 }
+
