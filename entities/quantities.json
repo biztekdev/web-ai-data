@@ -1,0 +1,188 @@
+{
+    "name": "quantities",
+    "roles": [
+        "quantities"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "600",
+            "synonyms": [
+                "600"
+            ]
+        },
+        {
+            "keyword": "1000",
+            "synonyms": [
+                "1000"
+            ]
+        },
+        {
+            "keyword": "3000",
+            "synonyms": [
+                "3000"
+            ]
+        },
+        {
+            "keyword": "12000",
+            "synonyms": [
+                "12000",
+                "12k"
+            ]
+        },
+        {
+            "keyword": "15,000",
+            "synonyms": [
+                "ke to"
+            ]
+        },
+        {
+            "keyword": "2000",
+            "synonyms": [
+                "2000"
+            ]
+        },
+        {
+            "keyword": "4000",
+            "synonyms": [
+                "4000"
+            ]
+        },
+        {
+            "keyword": "20000",
+            "synonyms": [
+                "20000"
+            ]
+        },
+        {
+            "keyword": "5000",
+            "synonyms": [
+                "5000",
+                "5k"
+            ]
+        },
+        {
+            "keyword": "12000",
+            "synonyms": [
+                "12000",
+                "12,000",
+                "12k"
+            ]
+        },
+        {
+            "keyword": "15000",
+            "synonyms": [
+                "15000",
+                "15,000",
+                "15k"
+            ]
+        },
+        {
+            "keyword": "540000",
+            "synonyms": [
+                "540000",
+                "540,000",
+                "540k"
+            ]
+        },
+        {
+            "keyword": "50000",
+            "synonyms": [
+                "50000",
+                "50k"
+            ]
+        },
+        {
+            "keyword": "1",
+            "synonyms": [
+                "1",
+                "one"
+            ]
+        },
+        {
+            "keyword": "2",
+            "synonyms": [
+                "2",
+                "two"
+            ]
+        },
+        {
+            "keyword": "5",
+            "synonyms": [
+                "5",
+                "five"
+            ]
+        },
+        {
+            "keyword": "10",
+            "synonyms": [
+                "10",
+                "ten"
+            ]
+        },
+        {
+            "keyword": "50",
+            "synonyms": [
+                "50",
+                "fifty"
+            ]
+        },
+        {
+            "keyword": "100",
+            "synonyms": [
+                "100",
+                "one hundred"
+            ]
+        },
+        {
+            "keyword": "500",
+            "synonyms": [
+                "500",
+                "five hundred"
+            ]
+        },
+        {
+            "keyword": "1,000",
+            "synonyms": [
+                "1000",
+                "1,000",
+                "1k"
+            ]
+        },
+        {
+            "keyword": "5,000",
+            "synonyms": [
+                "5000",
+                "5,000",
+                "5k"
+            ]
+        },
+        {
+            "keyword": "10,000",
+            "synonyms": [
+                "10000",
+                "10,000",
+                "10k"
+            ]
+        },
+        {
+            "keyword": "50,000",
+            "synonyms": [
+                "50000",
+                "50,000",
+                "50k"
+            ]
+        },
+        {
+            "keyword": "100,000",
+            "synonyms": [
+                "100000",
+                "100,000",
+                "100k"
+            ]
+        }
+    ]
+}

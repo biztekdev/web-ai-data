@@ -1,0 +1,1022 @@
+{
+    "name": "material",
+    "roles": [
+        "material"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "0.25 Transparent Matte Pet",
+            "synonyms": [
+                "0.25 Transparent Matte Pet"
+            ]
+        },
+        {
+            "keyword": "0.25 Transparent pet high gloss",
+            "synonyms": [
+                "0.25 Transparent pet high gloss"
+            ]
+        },
+        {
+            "keyword": "0.30 Transaparent Matte Pet",
+            "synonyms": [
+                "0.30 Transaparent Matte Pet"
+            ]
+        },
+        {
+            "keyword": "0.30 Transparent pet high gloss",
+            "synonyms": [
+                "0.30 Transparent pet high gloss"
+            ]
+        },
+        {
+            "keyword": "0.35 Transaparent Matte Pet",
+            "synonyms": [
+                "0.35 Transaparent Matte Pet"
+            ]
+        },
+        {
+            "keyword": "0.35 Transparent pet high gloss",
+            "synonyms": [
+                "0.35 Transparent pet high gloss"
+            ]
+        },
+        {
+            "keyword": "0.40 Transaparent Matte Pet",
+            "synonyms": [
+                "0.40 Transaparent Matte Pet"
+            ]
+        },
+        {
+            "keyword": "0.40 Transparent pet high gloss",
+            "synonyms": [
+                "0.40 Transparent pet high gloss"
+            ]
+        },
+        {
+            "keyword": "100lb Gloss Text",
+            "synonyms": [
+                "100lb Gloss Text"
+            ]
+        },
+        {
+            "keyword": "100lb Matte Finish",
+            "synonyms": [
+                "100lb Matte Finish"
+            ]
+        },
+        {
+            "keyword": "100lb Offset Paper (Uncoated)",
+            "synonyms": [
+                "100lb Offset Paper (Uncoated)"
+            ]
+        },
+        {
+            "keyword": "100lb Silk Paper (Matte)",
+            "synonyms": [
+                "100lb Silk Paper (Matte)"
+            ]
+        },
+        {
+            "keyword": "100lb Text Paper (Gloss)",
+            "synonyms": [
+                "100lb Text Paper (Gloss)"
+            ]
+        },
+        {
+            "keyword": "100lb UV (High Gloss)",
+            "synonyms": [
+                "100lb UV (High Gloss)"
+            ]
+        },
+        {
+            "keyword": "10pt + 10pt Silver Card Board",
+            "synonyms": [
+                "10pt + 10pt Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "12 PT Holographic Card Board",
+            "synonyms": [
+                "12 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "12 PT Silver Card Board",
+            "synonyms": [
+                "12 PT Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "12 PT White Card Board",
+            "synonyms": [
+                "12 PT White Card Board"
+            ]
+        },
+        {
+            "keyword": "14 PT C2S Art Paper",
+            "synonyms": [
+                "14 PT C2S Art Paper"
+            ]
+        },
+        {
+            "keyword": "14 PT C2S ArtBoard",
+            "synonyms": [
+                "14 PT C2S ArtBoard"
+            ]
+        },
+        {
+            "keyword": "14 PT CS2 Artpaper",
+            "synonyms": [
+                "14 PT CS2 Artpaper"
+            ]
+        },
+        {
+            "keyword": "14 PT CS2 Holographic Artpaper",
+            "synonyms": [
+                "14 PT CS2 Holographic Artpaper"
+            ]
+        },
+        {
+            "keyword": "14 PT CS2 Sliver ArtCard",
+            "synonyms": [
+                "14 PT CS2 Sliver ArtCard"
+            ]
+        },
+        {
+            "keyword": "14 PT Grey back box board",
+            "synonyms": [
+                "14 PT Grey back box board"
+            ]
+        },
+        {
+            "keyword": "14 PT Holographic Card Board",
+            "synonyms": [
+                "14 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "14 PT PET Material",
+            "synonyms": [
+                "14 PT PET Material"
+            ]
+        },
+        {
+            "keyword": "14 PT Silver Card Board",
+            "synonyms": [
+                "14 PT Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "14 PT White Card Board",
+            "synonyms": [
+                "14 PT White Card Board"
+            ]
+        },
+        {
+            "keyword": "16 + 16 PT Holographic",
+            "synonyms": [
+                "16 + 16 PT Holographic"
+            ]
+        },
+        {
+            "keyword": "16 PT C2S ArtBoard",
+            "synonyms": [
+                "16 PT C2S ArtBoard"
+            ]
+        },
+        {
+            "keyword": "16 PT Craft Board",
+            "synonyms": [
+                "16 PT Craft Board"
+            ]
+        },
+        {
+            "keyword": "16 PT Grey back box board",
+            "synonyms": [
+                "16 PT Grey back box board"
+            ]
+        },
+        {
+            "keyword": "16 PT Holographic Card Board",
+            "synonyms": [
+                "16 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "16 PT PET Material",
+            "synonyms": [
+                "16 PT PET Material"
+            ]
+        },
+        {
+            "keyword": "16 PT Silver Card Board",
+            "synonyms": [
+                "16 pt silver card board",
+                "16 pt silver card board ,"
+            ]
+        },
+        {
+            "keyword": "16 PT White Card Board",
+            "synonyms": [
+                "16 PT White Card Board"
+            ]
+        },
+        {
+            "keyword": "16PT  C2S",
+            "synonyms": [
+                "16PT  C2S"
+            ]
+        },
+        {
+            "keyword": "18 + 18 PT Holographic Card Board",
+            "synonyms": [
+                "18 + 18 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "18 + 18 PT Silver Card Board",
+            "synonyms": [
+                "18 + 18 PT Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "18 + 18 PT White Cardboard",
+            "synonyms": [
+                "18 + 18 PT White Cardboard"
+            ]
+        },
+        {
+            "keyword": "18 PT C2S",
+            "synonyms": [
+                "18 PT C2S"
+            ]
+        },
+        {
+            "keyword": "18 PT C2S ArtBoard",
+            "synonyms": [
+                "18 PT C2S ArtBoard"
+            ]
+        },
+        {
+            "keyword": "18 PT Craft Board",
+            "synonyms": [
+                "18 PT Craft Board"
+            ]
+        },
+        {
+            "keyword": "18 PT Grey back box board",
+            "synonyms": [
+                "18 PT Grey back box board"
+            ]
+        },
+        {
+            "keyword": "18 PT Holographic Card Board",
+            "synonyms": [
+                "18 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "18 PT Silver Card Board",
+            "synonyms": [
+                "18 PT Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "18 PT White Card Board",
+            "synonyms": [
+                "18 PT White Card Board"
+            ]
+        },
+        {
+            "keyword": "20 PT Brown Kraft Board",
+            "synonyms": [
+                "20 PT Brown Kraft Board"
+            ]
+        },
+        {
+            "keyword": "20 PT C2S Artboard",
+            "synonyms": [
+                "20 PT C2S Artboard"
+            ]
+        },
+        {
+            "keyword": "20 PT Holographic Card Board",
+            "synonyms": [
+                "20 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "20 PT SUS Unbleached Board",
+            "synonyms": [
+                "20 PT SUS Unbleached Board"
+            ]
+        },
+        {
+            "keyword": "20 PT Silver Card Board",
+            "synonyms": [
+                "20 PT Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "20 PT White Card Board",
+            "synonyms": [
+                "20 PT White Card Board"
+            ]
+        },
+        {
+            "keyword": "20 PT White Kraft Board",
+            "synonyms": [
+                "20 PT White Kraft Board"
+            ]
+        },
+        {
+            "keyword": "20PT C2S",
+            "synonyms": [
+                "20PT C2S"
+            ]
+        },
+        {
+            "keyword": "20PT White Plastic",
+            "synonyms": [
+                "20PT White Plastic"
+            ]
+        },
+        {
+            "keyword": "22pt silver cardboard",
+            "synonyms": [
+                "22pt silver cardboard"
+            ]
+        },
+        {
+            "keyword": "24 PT Holographic Card Board",
+            "synonyms": [
+                "24 PT Holographic Card Board"
+            ]
+        },
+        {
+            "keyword": "24 PT Silver Card Board",
+            "synonyms": [
+                "24 PT Silver Card Board"
+            ]
+        },
+        {
+            "keyword": "24 PT White Card Board",
+            "synonyms": [
+                "24 PT White Card Board"
+            ]
+        },
+        {
+            "keyword": "250 GSM CARDBOARD + E FLUTE + 250 CARD board",
+            "synonyms": [
+                "250 GSM CARDBOARD + E FLUTE + 250 CARD board"
+            ]
+        },
+        {
+            "keyword": "70lb Offset Paper (Uncoated)",
+            "synonyms": [
+                "70lb Offset Paper (Uncoated)"
+            ]
+        },
+        {
+            "keyword": "70lb Silk Paper (Matte)",
+            "synonyms": [
+                "70lb Silk Paper (Matte)"
+            ]
+        },
+        {
+            "keyword": "70lb Text Paper (Gloss)",
+            "synonyms": [
+                "70lb Text Paper (Gloss)"
+            ]
+        },
+        {
+            "keyword": "80lb Enviro Uncoated",
+            "synonyms": [
+                "80lb Enviro Uncoated"
+            ]
+        },
+        {
+            "keyword": "80lb Gloss Text",
+            "synonyms": [
+                "80lb Gloss Text"
+            ]
+        },
+        {
+            "keyword": "80lb Offset Paper (Uncoated)",
+            "synonyms": [
+                "80lb Offset Paper (Uncoated)"
+            ]
+        },
+        {
+            "keyword": "80lb Silk Paper (Matte)",
+            "synonyms": [
+                "80lb Silk Paper (Matte)"
+            ]
+        },
+        {
+            "keyword": "80lb Silk Text",
+            "synonyms": [
+                "80lb Silk Text"
+            ]
+        },
+        {
+            "keyword": "80lb Text Paper (Gloss)",
+            "synonyms": [
+                "80lb Text Paper (Gloss)"
+            ]
+        },
+        {
+            "keyword": "Acrylic",
+            "synonyms": [
+                "Acrylic"
+            ]
+        },
+        {
+            "keyword": "Black Glass Bottle",
+            "synonyms": [
+                "Black Glass Bottle"
+            ]
+        },
+        {
+            "keyword": "Black Plastic Tube",
+            "synonyms": [
+                "Black Plastic Tube"
+            ]
+        },
+        {
+            "keyword": "Black Tincture Bottle",
+            "synonyms": [
+                "Black Tincture Bottle"
+            ]
+        },
+        {
+            "keyword": "Brown Kraft Paper",
+            "synonyms": [
+                "Brown Kraft Paper"
+            ]
+        },
+        {
+            "keyword": "Butter Paper",
+            "synonyms": [
+                "Butter Paper"
+            ]
+        },
+        {
+            "keyword": "Butter Paper With Wax",
+            "synonyms": [
+                "Butter Paper With Wax"
+            ]
+        },
+        {
+            "keyword": "Butter Paper Without Wax",
+            "synonyms": [
+                "Butter Paper Without Wax"
+            ]
+        },
+        {
+            "keyword": "Carrugated (E-Flute) 400 GSM",
+            "synonyms": [
+                "Carrugated (E-Flute) 400 GSM"
+            ]
+        },
+        {
+            "keyword": "Custom Security Label",
+            "synonyms": [
+                "Custom Security Label"
+            ]
+        },
+        {
+            "keyword": "Foam Insert Material",
+            "synonyms": [
+                "Foam Insert Material"
+            ]
+        },
+        {
+            "keyword": "Foil paper",
+            "synonyms": [
+                "Foil paper"
+            ]
+        },
+        {
+            "keyword": "Glass",
+            "synonyms": [
+                "glass",
+                "glass material",
+                "clear glass",
+                "bottle glass"
+            ]
+        },
+        {
+            "keyword": "Kraft + Alu Foil + PE",
+            "synonyms": [
+                "Kraft + Alu Foil + PE"
+            ]
+        },
+        {
+            "keyword": "Kraft + MPET +PE",
+            "synonyms": [
+                "Kraft + MPET +PE"
+            ]
+        },
+        {
+            "keyword": "Kraft + PE",
+            "synonyms": [
+                "Kraft + PE"
+            ]
+        },
+        {
+            "keyword": "Kraft paper",
+            "synonyms": [
+                "kraft paper",
+                "brown paper",
+                "kraft material",
+                "kraft cardboard"
+            ]
+        },
+        {
+            "keyword": "MPET",
+            "synonyms": [
+                "mpet"
+            ]
+        },
+        {
+            "keyword": "Metal Cards",
+            "synonyms": [
+                "Metal Cards"
+            ]
+        },
+        {
+            "keyword": "Metallic (Shrink Sleeve Material)",
+            "synonyms": [
+                "Metallic (Shrink Sleeve Material)"
+            ]
+        },
+        {
+            "keyword": "Metallic Transfer Labels",
+            "synonyms": [
+                "Metallic Transfer Labels"
+            ]
+        },
+        {
+            "keyword": "NFC label",
+            "synonyms": [
+                "NFC label"
+            ]
+        },
+        {
+            "keyword": "Naylon Material",
+            "synonyms": [
+                "Naylon Material"
+            ]
+        },
+        {
+            "keyword": "Non Wowen tote bag",
+            "synonyms": [
+                "Non Wowen tote bag"
+            ]
+        },
+        {
+            "keyword": "PE (Polyethylene)",
+            "synonyms": [
+                "PE (Polyethylene)"
+            ]
+        },
+        {
+            "keyword": "PET +  MPET + PE",
+            "synonyms": [
+                "pet +  mpet + pe"
+            ]
+        },
+        {
+            "keyword": "PET + Alu Foil + PE",
+            "synonyms": [
+                "PET + Alu Foil + PE"
+            ]
+        },
+        {
+            "keyword": "PET + CD holographic PET + PE",
+            "synonyms": [
+                "PET + CD holographic PET + PE"
+            ]
+        },
+        {
+            "keyword": "PET + Clear PE",
+            "synonyms": [
+                "PET + Clear PE"
+            ]
+        },
+        {
+            "keyword": "PET + MPET + PE",
+            "synonyms": [
+                "metalized",
+                "metallized",
+                "pet + mpet + pe"
+            ]
+        },
+        {
+            "keyword": "PET + White PE",
+            "synonyms": [
+                "PET + White PE"
+            ]
+        },
+        {
+            "keyword": "PP Clear Sticker With Clear Release",
+            "synonyms": [
+                "PP Clear Sticker With Clear Release"
+            ]
+        },
+        {
+            "keyword": "PP Holographic Sticker",
+            "synonyms": [
+                "PP Holographic Sticker"
+            ]
+        },
+        {
+            "keyword": "PP Silver Sticker",
+            "synonyms": [
+                "PP Silver Sticker"
+            ]
+        },
+        {
+            "keyword": "PP White Vinyl",
+            "synonyms": [
+                "PP White Vinyl"
+            ]
+        },
+        {
+            "keyword": "PVC Shrinkable Sleeve Material",
+            "synonyms": [
+                "PVC Shrinkable Sleeve Material"
+            ]
+        },
+        {
+            "keyword": "Paper + AluFoil +PE",
+            "synonyms": [
+                "Paper + AluFoil +PE"
+            ]
+        },
+        {
+            "keyword": "Paper + PE",
+            "synonyms": [
+                "Paper + PE"
+            ]
+        },
+        {
+            "keyword": "Paper+ Alo Foil",
+            "synonyms": [
+                "Paper+ Alo Foil"
+            ]
+        },
+        {
+            "keyword": "Parchment Paper",
+            "synonyms": [
+                "Parchment Paper"
+            ]
+        },
+        {
+            "keyword": "Pet Bubble Mylar Bag",
+            "synonyms": [
+                "Pet Bubble Mylar Bag"
+            ]
+        },
+        {
+            "keyword": "Plastic",
+            "synonyms": [
+                "plastic",
+                "plastic material",
+                "polymer",
+                "synthetic"
+            ]
+        },
+        {
+            "keyword": "Polyester",
+            "synonyms": [
+                "Polyester"
+            ]
+        },
+        {
+            "keyword": "Polyester Fabric 280",
+            "synonyms": [
+                "Polyester Fabric 280"
+            ]
+        },
+        {
+            "keyword": "Polyester Fabric 380",
+            "synonyms": [
+                "Polyester Fabric 380"
+            ]
+        },
+        {
+            "keyword": "Reflective vinyl stickers",
+            "synonyms": [
+                "Reflective vinyl stickers"
+            ]
+        },
+        {
+            "keyword": "Rigid Board with Holographic",
+            "synonyms": [
+                "Rigid Board with Holographic"
+            ]
+        },
+        {
+            "keyword": "Rigid Board with Kraftpaper",
+            "synonyms": [
+                "Rigid Board with Kraftpaper"
+            ]
+        },
+        {
+            "keyword": "Rigid Board with Silver",
+            "synonyms": [
+                "Rigid Board with Silver"
+            ]
+        },
+        {
+            "keyword": "Rigid Board with white paper",
+            "synonyms": [
+                "Rigid Board with white paper"
+            ]
+        },
+        {
+            "keyword": "SEGO Light Box",
+            "synonyms": [
+                "SEGO Light Box"
+            ]
+        },
+        {
+            "keyword": "SILICON TRAY",
+            "synonyms": [
+                "SILICON TRAY"
+            ]
+        },
+        {
+            "keyword": "TRANSFER LABELS",
+            "synonyms": [
+                "TRANSFER LABELS"
+            ]
+        },
+        {
+            "keyword": "Tin",
+            "synonyms": [
+                "tin",
+                "tinplate",
+                "metal tin",
+                "tin can"
+            ]
+        },
+        {
+            "keyword": "Tincture Glass Bottle",
+            "synonyms": [
+                "Tincture Glass Bottle"
+            ]
+        },
+        {
+            "keyword": "Tote Bag",
+            "synonyms": [
+                "Tote Bag"
+            ]
+        },
+        {
+            "keyword": "Transparent Tincture Bottle",
+            "synonyms": [
+                "Transparent Tincture Bottle"
+            ]
+        },
+        {
+            "keyword": "Transparent Vinyl decal with adhesive - 100 micron",
+            "synonyms": [
+                "Transparent Vinyl decal with adhesive - 100 micron"
+            ]
+        },
+        {
+            "keyword": "Transparent Vinyl decal without adhesive - 100 micron",
+            "synonyms": [
+                "Transparent Vinyl decal without adhesive - 100 micron"
+            ]
+        },
+        {
+            "keyword": "White Kraft + Alo Foil",
+            "synonyms": [
+                "White Kraft + Alo Foil"
+            ]
+        },
+        {
+            "keyword": "White Paper Sticker",
+            "synonyms": [
+                "White Paper Sticker"
+            ]
+        },
+        {
+            "keyword": "White Plastic Tube",
+            "synonyms": [
+                "White Plastic Tube"
+            ]
+        },
+        {
+            "keyword": "White Vinyl decal with adhesive - 100 micron",
+            "synonyms": [
+                "White Vinyl decal with adhesive - 100 micron"
+            ]
+        },
+        {
+            "keyword": "White Vinyl decal without adhesive - 100 micron",
+            "synonyms": [
+                "White Vinyl decal without adhesive - 100 micron"
+            ]
+        },
+        {
+            "keyword": "Wowen tote bag",
+            "synonyms": [
+                "Wowen tote bag"
+            ]
+        },
+        {
+            "keyword": "clear Plastic Tube",
+            "synonyms": [
+                "clear Plastic Tube"
+            ]
+        },
+        {
+            "keyword": "holographic",
+            "synonyms": [
+                "holographic"
+            ]
+        },
+        {
+            "keyword": "null",
+            "synonyms": [
+                "null"
+            ]
+        },
+        {
+            "keyword": "white",
+            "synonyms": [
+                "white"
+            ]
+        },
+        {
+            "keyword": "white inside",
+            "synonyms": [
+                "white inside"
+            ]
+        },
+        {
+            "keyword": "PET (Polyethylene Terephthalate)",
+            "synonyms": [
+                "PET",
+                "polyethylene terephthalate",
+                "polyester",
+                "plastic PET",
+                "PET film"
+            ]
+        },
+        {
+            "keyword": "PP (Polypropylene)",
+            "synonyms": [
+                "PP",
+                "polypropylene",
+                "plastic PP",
+                "PP film"
+            ]
+        },
+        {
+            "keyword": "PVC (Polyvinyl Chloride)",
+            "synonyms": [
+                "PVC",
+                "polyvinyl chloride",
+                "plastic PVC",
+                "PVC film"
+            ]
+        },
+        {
+            "keyword": "Aluminum Foil",
+            "synonyms": [
+                "aluminum foil",
+                "alu foil",
+                "foil",
+                "metal foil"
+            ]
+        },
+        {
+            "keyword": "Glass",
+            "synonyms": [
+                "glass",
+                "glass material",
+                "clear glass",
+                "bottle glass"
+            ]
+        },
+        {
+            "keyword": "Paper",
+            "synonyms": [
+                "paper",
+                "kraft paper",
+                "white paper",
+                "cardboard"
+            ]
+        },
+        {
+            "keyword": "Cardboard",
+            "synonyms": [
+                "cardboard",
+                "box board",
+                "paperboard",
+                "corrugated cardboard"
+            ]
+        },
+        {
+            "keyword": "Mylar",
+            "synonyms": [
+                "mylar",
+                "mylar film",
+                "polyester film",
+                "metalized polyester"
+            ]
+        },
+        {
+            "keyword": "Rigid Board",
+            "synonyms": [
+                "rigid board",
+                "hard board",
+                "stiff board",
+                "solid board"
+            ]
+        },
+        {
+            "keyword": "Kraft Paper",
+            "synonyms": [
+                "kraft paper",
+                "brown paper",
+                "kraft material",
+                "kraft cardboard"
+            ]
+        },
+        {
+            "keyword": "Foam",
+            "synonyms": [
+                "foam",
+                "foam insert",
+                "foam material",
+                "cushion foam"
+            ]
+        },
+        {
+            "keyword": "Tin",
+            "synonyms": [
+                "tin",
+                "tinplate",
+                "metal tin",
+                "tin can"
+            ]
+        },
+        {
+            "keyword": "Silicone",
+            "synonyms": [
+                "silicone",
+                "silicone tray",
+                "silicone material",
+                "silicon"
+            ]
+        },
+        {
+            "keyword": "Vinyl",
+            "synonyms": [
+                "vinyl",
+                "vinyl sticker",
+                "vinyl material",
+                "PVC vinyl"
+            ]
+        },
+        {
+            "keyword": "Fabric",
+            "synonyms": [
+                "fabric",
+                "cloth",
+                "textile",
+                "woven fabric"
+            ]
+        },
+        {
+            "keyword": "Metal",
+            "synonyms": [
+                "metal",
+                "metallic",
+                "metal material",
+                "steel",
+                "aluminum"
+            ]
+        },
+        {
+            "keyword": "Plastic",
+            "synonyms": [
+                "plastic",
+                "plastic material",
+                "polymer",
+                "synthetic"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4141 @@
+{
+    "utterances": [
+        {
+            "text": "I am looking for 20000 standup pouches on standard size with spot UV and foil. I have 4 different flavors and I need white inside the pouch. Can you quote a price for me?",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 17,
+                    "end": 23,
+                    "body": "20000 ",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 61,
+                    "end": 68,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 86,
+                    "end": 87,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 117,
+                    "end": 122,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 73,
+                    "end": 77,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I would like to request a quote for the following order:Quantity: 15,000Type: Stand-up bagSize: 4\" x 6\" x 2\"Material: HolographicSKUs: 3Finishes: Matte + Spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 67,
+                    "end": 73,
+                    "body": "15,000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 79,
+                    "end": 91,
+                    "body": "Stand-up bag",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 98,
+                    "end": 109,
+                    "body": "4\" x 6\" x 2\"",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 119,
+                    "end": 130,
+                    "body": "Holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 136,
+                    "end": 137,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 149,
+                    "end": 154,
+                    "body": "Matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 157,
+                    "end": 164,
+                    "body": "Spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need 12k quantity, W 3\" H 4\" size, Flat pouch (on roll), number of designs 4, finish will be Soft touch ( with foiling)",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 5,
+                    "end": 8,
+                    "body": "12k",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 19,
+                    "end": 29,
+                    "body": "W 3\" H 4\" ",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 75,
+                    "end": 76,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 93,
+                    "end": 103,
+                    "body": "Soft touch",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 111,
+                    "end": 118,
+                    "body": "foiling",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 35,
+                    "end": 45,
+                    "body": "Flat pouch",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need 5k quantity, 4*5inches size, Pillow pouch ( holographic material), number of designs 5, finish will be Matt + spot uv",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 5,
+                    "end": 7,
+                    "body": "5k",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 18,
+                    "end": 21,
+                    "body": "4*5",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 34,
+                    "end": 46,
+                    "body": "Pillow pouch",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 49,
+                    "end": 61,
+                    "body": "holographic ",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 108,
+                    "end": 122,
+                    "body": "Matt + spot uv",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 89,
+                    "end": 91,
+                    "body": " 5",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "The order consists of 540,000 flat pouches made from MPET material, with a size of 6\" in height and 2.5\" in width, across 3 SKUs, finished with a gloss coating.",
+            "entities": [
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 22,
+                    "end": 29,
+                    "body": "540,000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 30,
+                    "end": 42,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 53,
+                    "end": 57,
+                    "body": "MPET",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 83,
+                    "end": 104,
+                    "body": "6\" in height and 2.5\"",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 122,
+                    "end": 123,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 146,
+                    "end": 159,
+                    "body": "gloss coating",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "i need quote of mylar bag having 1000 with metalized gloss and spot uv with",
+            "entities": [
+                {
+                    "entity": "category:category",
+                    "start": 16,
+                    "end": 25,
+                    "body": "mylar bag",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 33,
+                    "end": 37,
+                    "body": "1000",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 43,
+                    "end": 52,
+                    "body": "metalized",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 53,
+                    "end": 58,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 63,
+                    "end": 70,
+                    "body": "spot uv",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need 4 skus",
+            "entities": [
+                {
+                    "entity": "skus:skus",
+                    "start": 5,
+                    "end": 6,
+                    "body": "4",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quoate for 50000 Mylar Bages",
+            "entities": [
+                {
+                    "entity": "category:category",
+                    "start": 22,
+                    "end": 33,
+                    "body": "Mylar Bages",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 16,
+                    "end": 22,
+                    "body": "50000 ",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for 3.12,3.65",
+            "entities": [
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 15,
+                    "end": 24,
+                    "body": "3.12,3.65",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for 600 Mylar Bages",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 18,
+                    "body": "600",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 19,
+                    "end": 30,
+                    "body": "Mylar Bages",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for Stand Up Pouch, sizes are 3,2,4  and material is PET +  MPET + PE , finishes are White,  CMYK 4\/0 , Gloss Finish, Tear Notch Yes, Hang Hole Yes , Round , quantity is 1000 , 2000, 4000",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 29,
+                    "body": "Stand Up Pouch",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 41,
+                    "end": 47,
+                    "body": "3,2,4 ",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 64,
+                    "end": 80,
+                    "body": "PET +  MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 96,
+                    "end": 101,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 104,
+                    "end": 112,
+                    "body": "CMYK 4\/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 115,
+                    "end": 127,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 129,
+                    "end": 143,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 145,
+                    "end": 158,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 161,
+                    "end": 167,
+                    "body": "Round ",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 181,
+                    "end": 186,
+                    "body": "1000 ",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 188,
+                    "end": 192,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 194,
+                    "end": 198,
+                    "body": "4000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for Stand Up Pouch, sizes are 3,2,4  and material is PET + MPET + PE , finishes are White,  CMYK 4\/0 , Gloss Finish, Tear Notch Yes, Hang Hole Yes , Round , quantity is 1000 , 2000, 4000",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 29,
+                    "body": "Stand Up Pouch",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 41,
+                    "end": 46,
+                    "body": "3,2,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 64,
+                    "end": 80,
+                    "body": "PET + MPET + PE ",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 111,
+                    "body": "CMYK 4\/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 114,
+                    "end": 126,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 128,
+                    "end": 142,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 144,
+                    "end": 157,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 160,
+                    "end": 166,
+                    "body": "Round ",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 180,
+                    "end": 185,
+                    "body": "1000 ",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 187,
+                    "end": 191,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 193,
+                    "end": 197,
+                    "body": "4000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for reverse tuck box, sizes are 3.14,3.12,5.23",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 31,
+                    "body": "reverse tuck box",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 43,
+                    "end": 57,
+                    "body": "3.14,3.12,5.23",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for reverse tuck box, sizes are 3.14,3.12,5.23  and material is 16 PT Silver Card Board , finishes are White,  CMYK 4\/0 , Matte Finish , quantity is 1000",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 31,
+                    "body": "reverse tuck box",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 43,
+                    "end": 58,
+                    "body": "3.14,3.12,5.23 ",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 75,
+                    "end": 100,
+                    "body": "16 PT Silver Card Board ,",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 114,
+                    "end": 119,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 122,
+                    "end": 130,
+                    "body": "CMYK 4\/0",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 160,
+                    "end": 164,
+                    "body": "1000",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 133,
+                    "end": 145,
+                    "body": "Matte Finish",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote for stand up pouch, size are 3,2,4 and material is PET + MPET + PE , finishes are White, CMYK 4\/0, Gloss Finish , Tear Notch Yes, Hang Hole Yes, Round, quantity is 1000, 2000, 3000",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 29,
+                    "body": "stand up pouch",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 40,
+                    "end": 45,
+                    "body": "3,2,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 62,
+                    "end": 77,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 93,
+                    "end": 98,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 100,
+                    "end": 108,
+                    "body": "CMYK 4\/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 110,
+                    "end": 122,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 125,
+                    "end": 139,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 141,
+                    "end": 154,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 156,
+                    "end": 161,
+                    "body": "Round",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 175,
+                    "end": 179,
+                    "body": "1000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 181,
+                    "end": 185,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 187,
+                    "end": 191,
+                    "body": "3000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote of Mylar Bag",
+            "entities": [
+                {
+                    "entity": "category:category",
+                    "start": 14,
+                    "end": 23,
+                    "body": "Mylar Bag",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "need quote of Reverse Tuck Box",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 14,
+                    "end": 30,
+                    "body": "Reverse Tuck Box",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 5000 stand up pouches with sizes 3,2,4 and material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, Tear Notch Yes, Hang Hole Yes, Round, quantity 1000, 2000, 4000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 29,
+                    "body": "5000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 31,
+                    "end": 45,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 58,
+                    "end": 63,
+                    "body": "3,2,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 80,
+                    "end": 95,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 103,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 105,
+                    "end": 113,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 115,
+                    "end": 127,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 129,
+                    "end": 143,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 145,
+                    "end": 158,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 160,
+                    "end": 165,
+                    "body": "Round",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 175,
+                    "end": 179,
+                    "body": "1000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 181,
+                    "end": 185,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 187,
+                    "end": 191,
+                    "body": "4000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote me for 20000 mylar bags with 5 different SKUs, size 4x6 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "20000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 70,
+                    "end": 80,
+                    "body": "4x6 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 89,
+                    "end": 100,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 109,
+                    "end": 114,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 117,
+                    "end": 124,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I want pricing for 10000 flat pouches, dimensions 3.5x5.5 inches, 8 SKUs, material PET, finishes white + gloss",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "10000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 27,
+                    "end": 38,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 50,
+                    "end": 63,
+                    "body": "3.5x5.5 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 65,
+                    "end": 66,
+                    "body": "8",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 75,
+                    "end": 78,
+                    "body": "PET",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 90,
+                    "end": 95,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 103,
+                    "body": "gloss",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need quote for reverse tuck box, size 2.5x3.5x1 inches, 3 SKUs, material 16pt cardstock, finishes CMYK + matte, quantity 5000",
+            "entities": [
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 31,
+                    "body": "reverse tuck box",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 37,
+                    "end": 50,
+                    "body": "2.5x3.5x1 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 52,
+                    "end": 53,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 61,
+                    "end": 75,
+                    "body": "16pt cardstock",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 85,
+                    "end": 89,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 92,
+                    "end": 97,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 108,
+                    "end": 112,
+                    "body": "5000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 15000 pillow pouches, size 4x6x2 inches, 6 SKUs, material MPET + PE, finishes spot UV + foil + matte",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 35,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 42,
+                    "end": 52,
+                    "body": "4x6x2 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 54,
+                    "end": 55,
+                    "body": "6",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 63,
+                    "end": 72,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 82,
+                    "end": 89,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 92,
+                    "end": 96,
+                    "body": "foil",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 99,
+                    "end": 104,
+                    "body": "matte",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need pricing for 25000 mylar bags with 2 different SKUs, dimensions 5x7 inches, material holographic, finish matte",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "25000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 30,
+                    "end": 40,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 50,
+                    "end": 51,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 70,
+                    "end": 80,
+                    "body": "5x7 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 89,
+                    "end": 100,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 109,
+                    "end": 114,
+                    "body": "matte",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote 5000 stand up pouches, sizes 3,2,4, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, quantity 1000, 2000, 4000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "5000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 35,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 43,
+                    "end": 48,
+                    "body": "3,2,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 57,
+                    "end": 72,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 85,
+                    "end": 90,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 92,
+                    "end": 100,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 102,
+                    "end": 114,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 125,
+                    "end": 129,
+                    "body": "1000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 131,
+                    "end": 135,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 137,
+                    "end": 141,
+                    "body": "4000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need quote for 30000 flat pouches, size 4x6x2, 8 SKUs, material PET, finishes white + gloss + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "30000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 33,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 40,
+                    "end": 47,
+                    "body": "4x6x2",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 49,
+                    "end": 50,
+                    "body": "8",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 58,
+                    "end": 61,
+                    "body": "PET",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 72,
+                    "end": 77,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 85,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 88,
+                    "end": 95,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I want pricing for 15000 reverse tuck boxes, dimensions 2.5x3.5x1 inches, 4 SKUs, material 16pt cardstock, finishes CMYK + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 27,
+                    "end": 43,
+                    "body": "reverse tuck boxes",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 55,
+                    "end": 68,
+                    "body": "2.5x3.5x1 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 70,
+                    "end": 71,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 79,
+                    "end": 93,
+                    "body": "16pt cardstock",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 107,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 110,
+                    "end": 115,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 118,
+                    "end": 122,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 8000 pillow pouches, size 3x5x1.5, 5 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "8000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 34,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 41,
+                    "end": 50,
+                    "body": "3x5x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 52,
+                    "end": 53,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 61,
+                    "end": 70,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 87,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 90,
+                    "end": 95,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 12000 mylar bags with 3 different SKUs, size 6x8 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "12000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 75,
+                    "end": 85,
+                    "body": "6x8 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 94,
+                    "end": 105,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 114,
+                    "end": 119,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 122,
+                    "end": 129,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you provide pricing for 20000 stand up pouches, sizes 4,5,6, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, Tear Notch Yes, Hang Hole Yes, Round, quantity 2000, 4000, 6000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 30,
+                    "end": 35,
+                    "body": "20000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 37,
+                    "end": 51,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 59,
+                    "end": 64,
+                    "body": "4,5,6",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 73,
+                    "end": 88,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 101,
+                    "end": 106,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 108,
+                    "end": 116,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 118,
+                    "end": 130,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 132,
+                    "end": 146,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 148,
+                    "end": 161,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 163,
+                    "end": 169,
+                    "body": "Round",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 180,
+                    "end": 184,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 186,
+                    "end": 190,
+                    "body": "4000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 192,
+                    "end": 196,
+                    "body": "6000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 5000 mylar bags with 2 SKUs, size 3x4 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 29,
+                    "body": "5000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 51,
+                    "end": 52,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 59,
+                    "end": 69,
+                    "body": "3x4 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 78,
+                    "end": 89,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 103,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 106,
+                    "end": 113,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 12000 stand up pouches, dimensions 5x7x2, 3 SKUs, material PET + MPET, finishes white + gloss + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "12000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 36,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 48,
+                    "end": 55,
+                    "body": "5x7x2",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 57,
+                    "end": 58,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 66,
+                    "end": 75,
+                    "body": "PET + MPET",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 87,
+                    "end": 92,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 107,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I want pricing for 8000 flat pouches, size 4x6x1.5, 4 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 24,
+                    "body": "8000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 26,
+                    "end": 37,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 44,
+                    "end": 53,
+                    "body": "4x6x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 64,
+                    "end": 73,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 83,
+                    "end": 90,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 93,
+                    "end": 98,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 101,
+                    "end": 105,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote me for 15000 pillow pouches, sizes 2,3,4, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, quantity 3000, 6000, 9000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 32,
+                    "end": 45,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 53,
+                    "end": 58,
+                    "body": "2,3,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 67,
+                    "end": 82,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 102,
+                    "end": 110,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 112,
+                    "end": 124,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 135,
+                    "end": 139,
+                    "body": "3000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 141,
+                    "end": 145,
+                    "body": "6000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 147,
+                    "end": 151,
+                    "body": "9000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need quote for 25000 reverse tuck boxes, dimensions 3x4x1.5 inches, 5 SKUs, material 16pt cardstock, finishes CMYK + matte + foil + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "25000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 38,
+                    "body": "reverse tuck boxes",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 50,
+                    "end": 63,
+                    "body": "3x4x1.5 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 65,
+                    "end": 66,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 74,
+                    "end": 88,
+                    "body": "16pt cardstock",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 105,
+                    "end": 110,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 113,
+                    "end": 117,
+                    "body": "foil",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 120,
+                    "end": 127,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 15000 pillow pouches, size 3x5x1.5, 5 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 34,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 41,
+                    "end": 50,
+                    "body": "3x5x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 52,
+                    "end": 53,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 61,
+                    "end": 70,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 87,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 90,
+                    "end": 95,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need pricing for 25000 mylar bags with 2 different SKUs, dimensions 5x7 inches, material holographic, finish matte",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "25000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 30,
+                    "end": 40,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 50,
+                    "end": 51,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 70,
+                    "end": 80,
+                    "body": "5x7 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 89,
+                    "end": 100,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 109,
+                    "end": 114,
+                    "body": "matte",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote 5000 stand up pouches, sizes 3,2,4, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, quantity 1000, 2000, 4000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "5000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 35,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 43,
+                    "end": 48,
+                    "body": "3,2,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 57,
+                    "end": 72,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 85,
+                    "end": 90,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 92,
+                    "end": 100,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 102,
+                    "end": 114,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 125,
+                    "end": 129,
+                    "body": "1000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 131,
+                    "end": 135,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 137,
+                    "end": 141,
+                    "body": "4000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need quote for 30000 flat pouches, size 4x6x2, 8 SKUs, material PET, finishes white + gloss + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "30000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 33,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 40,
+                    "end": 47,
+                    "body": "4x6x2",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 49,
+                    "end": 50,
+                    "body": "8",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 58,
+                    "end": 61,
+                    "body": "PET",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 72,
+                    "end": 77,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 85,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 88,
+                    "end": 95,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I want pricing for 15000 reverse tuck boxes, dimensions 2.5x3.5x1 inches, 4 SKUs, material 16pt cardstock, finishes CMYK + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 27,
+                    "end": 43,
+                    "body": "reverse tuck boxes",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 55,
+                    "end": 68,
+                    "body": "2.5x3.5x1 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 70,
+                    "end": 71,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 79,
+                    "end": 93,
+                    "body": "16pt cardstock",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 107,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 110,
+                    "end": 115,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 118,
+                    "end": 122,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 8000 pillow pouches, size 3x5x1.5, 5 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "8000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 34,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 41,
+                    "end": 50,
+                    "body": "3x5x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 52,
+                    "end": 53,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 61,
+                    "end": 70,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 87,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 90,
+                    "end": 95,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 12000 mylar bags with 3 different SKUs, size 6x8 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "12000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 75,
+                    "end": 85,
+                    "body": "6x8 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 94,
+                    "end": 105,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 114,
+                    "end": 119,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 122,
+                    "end": 129,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you provide pricing for 20000 stand up pouches, sizes 4,5,6, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, Tear Notch Yes, Hang Hole Yes, Round, quantity 2000, 4000, 6000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 30,
+                    "end": 35,
+                    "body": "20000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 37,
+                    "end": 51,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 59,
+                    "end": 64,
+                    "body": "4,5,6",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 73,
+                    "end": 88,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 101,
+                    "end": 106,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 108,
+                    "end": 116,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 118,
+                    "end": 130,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 132,
+                    "end": 146,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 148,
+                    "end": 161,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 163,
+                    "end": 169,
+                    "body": "Round",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 180,
+                    "end": 184,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 186,
+                    "end": 190,
+                    "body": "4000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 192,
+                    "end": 196,
+                    "body": "6000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 5000 mylar bags with 2 SKUs, size 3x4 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 29,
+                    "body": "5000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 51,
+                    "end": 52,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 59,
+                    "end": 69,
+                    "body": "3x4 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 78,
+                    "end": 89,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 103,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 106,
+                    "end": 113,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 12000 stand up pouches, dimensions 5x7x2, 3 SKUs, material PET + MPET, finishes white + gloss + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "12000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 36,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 48,
+                    "end": 55,
+                    "body": "5x7x2",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 57,
+                    "end": 58,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 66,
+                    "end": 75,
+                    "body": "PET + MPET",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 87,
+                    "end": 92,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 107,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I want pricing for 8000 flat pouches, size 4x6x1.5, 4 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 24,
+                    "body": "8000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 26,
+                    "end": 37,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 44,
+                    "end": 53,
+                    "body": "4x6x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 64,
+                    "end": 73,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 83,
+                    "end": 90,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 93,
+                    "end": 98,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 101,
+                    "end": 105,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote me for 15000 pillow pouches, sizes 2,3,4, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, quantity 3000, 6000, 9000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 32,
+                    "end": 45,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 53,
+                    "end": 58,
+                    "body": "2,3,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 67,
+                    "end": 82,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 102,
+                    "end": 110,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 112,
+                    "end": 124,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 135,
+                    "end": 139,
+                    "body": "3000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 141,
+                    "end": 145,
+                    "body": "6000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 147,
+                    "end": 151,
+                    "body": "9000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need quote for 25000 reverse tuck boxes, dimensions 3x4x1.5 inches, 5 SKUs, material 16pt cardstock, finishes CMYK + matte + foil + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "25000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 38,
+                    "body": "reverse tuck boxes",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 50,
+                    "end": 63,
+                    "body": "3x4x1.5 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 65,
+                    "end": 66,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 74,
+                    "end": 88,
+                    "body": "16pt cardstock",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 105,
+                    "end": 110,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 113,
+                    "end": 117,
+                    "body": "foil",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 120,
+                    "end": 127,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 15000 pillow pouches, size 3x5x1.5, 5 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "8000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 34,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 41,
+                    "end": 50,
+                    "body": "3x5x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 52,
+                    "end": 53,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 61,
+                    "end": 70,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 87,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 90,
+                    "end": 95,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 12000 mylar bags with 3 different SKUs, size 6x8 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "12000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 75,
+                    "end": 85,
+                    "body": "6x8 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 94,
+                    "end": 105,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 114,
+                    "end": 119,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 122,
+                    "end": 129,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you provide pricing for 20000 stand up pouches, sizes 4,5,6, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, Tear Notch Yes, Hang Hole Yes, Round, quantity 2000, 4000, 6000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 30,
+                    "end": 35,
+                    "body": "20000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 37,
+                    "end": 51,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 59,
+                    "end": 64,
+                    "body": "4,5,6",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 73,
+                    "end": 88,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 101,
+                    "end": 106,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 108,
+                    "end": 116,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 118,
+                    "end": 130,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 132,
+                    "end": 146,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 148,
+                    "end": 161,
+                    "body": "Hang Hole Yes",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 163,
+                    "end": 169,
+                    "body": "Round",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 180,
+                    "end": 184,
+                    "body": "2000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 186,
+                    "end": 190,
+                    "body": "4000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 192,
+                    "end": 196,
+                    "body": "6000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 5000 mylar bags with 2 SKUs, size 3x4 inches, material holographic, finish matte + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 29,
+                    "body": "5000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 51,
+                    "end": 52,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 59,
+                    "end": 69,
+                    "body": "3x4 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 78,
+                    "end": 89,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 103,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 106,
+                    "end": 113,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Quote needed for 12000 stand up pouches, dimensions 5x7x2, 3 SKUs, material PET + MPET, finishes white + gloss + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "12000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 36,
+                    "body": "stand up pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 48,
+                    "end": 55,
+                    "body": "5x7x2",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 57,
+                    "end": 58,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 66,
+                    "end": 75,
+                    "body": "PET + MPET",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 87,
+                    "end": 92,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 107,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I want pricing for 8000 flat pouches, size 4x6x1.5, 4 SKUs, material MPET + PE, finishes spot UV + matte + foil",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 24,
+                    "body": "8000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 26,
+                    "end": 37,
+                    "body": "flat pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 44,
+                    "end": 53,
+                    "body": "4x6x1.5",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 56,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 64,
+                    "end": 73,
+                    "body": "MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 83,
+                    "end": 90,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 93,
+                    "end": 98,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 101,
+                    "end": 105,
+                    "body": "foil",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote me for 15000 pillow pouches, sizes 2,3,4, material PET + MPET + PE, finishes White, CMYK 4/0, Gloss Finish, quantity 3000, 6000, 9000",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "15000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 32,
+                    "end": 45,
+                    "body": "pillow pouches",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 53,
+                    "end": 58,
+                    "body": "2,3,4",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 67,
+                    "end": 82,
+                    "body": "PET + MPET + PE",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "White",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 102,
+                    "end": 110,
+                    "body": "CMYK 4/0",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 112,
+                    "end": 124,
+                    "body": "Gloss Finish",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 135,
+                    "end": 139,
+                    "body": "3000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 141,
+                    "end": 145,
+                    "body": "6000",
+                    "entities": []
+                },
+                {
+                    "entity": "quantities:quantities",
+                    "start": 147,
+                    "end": 151,
+                    "body": "9000",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need quote for 25000 reverse tuck boxes, dimensions 3x4x1.5 inches, 5 SKUs, material 16pt cardstock, finishes CMYK + matte + foil + spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "25000",
+                    "entities": []
+                },
+                {
+                    "entity": "product:product",
+                    "start": 22,
+                    "end": 38,
+                    "body": "reverse tuck boxes",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 50,
+                    "end": 63,
+                    "body": "3x4x1.5 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 65,
+                    "end": 66,
+                    "body": "5",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 74,
+                    "end": 88,
+                    "body": "16pt cardstock",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 98,
+                    "end": 102,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 105,
+                    "end": 110,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 113,
+                    "end": 117,
+                    "body": "foil",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 120,
+                    "end": 127,
+                    "body": "spot UV",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need a quote for 60000 mylar bags with 14 different SKUs, size 9x11x3 inches, material holographic, finish matte + spot UV + foil + gloss + white + CMYK + Tear Notch Yes",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 30,
+                    "body": "60000",
+                    "entities": []
+                },
+                {
+                    "entity": "category:category",
+                    "start": 35,
+                    "end": 45,
+                    "body": "mylar bags",
+                    "entities": []
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 55,
+                    "end": 57,
+                    "body": "14",
+                    "entities": []
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 75,
+                    "end": 85,
+                    "body": "9x11x3 inches",
+                    "entities": []
+                },
+                {
+                    "entity": "material:material",
+                    "start": 94,
+                    "end": 105,
+                    "body": "holographic",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 114,
+                    "end": 119,
+                    "body": "matte",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 122,
+                    "end": 129,
+                    "body": "spot UV",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 132,
+                    "end": 136,
+                    "body": "foil",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 139,
+                    "end": 144,
+                    "body": "gloss",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 147,
+                    "end": 152,
+                    "body": "white",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 155,
+                    "end": 159,
+                    "body": "CMYK",
+                    "entities": []
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 162,
+                    "end": 176,
+                    "body": "Tear Notch Yes",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I am looking for 20000 standup pouches on standard size with spot UV and foil. I have 4 different flavors and I need white inside the pouch. Can you quote a price for me?",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "20000",
+                    "value": "20000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 35,
+                    "end": 48,
+                    "body": "standup pouches",
+                    "value": "Stand Up Pouch"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 70,
+                    "end": 77,
+                    "body": "spot UV",
+                    "value": "Spot UV"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 82,
+                    "end": 86,
+                    "body": "foil",
+                    "value": "Foil"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 103,
+                    "end": 104,
+                    "body": "4",
+                    "value": "4"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 130,
+                    "end": 135,
+                    "body": "white",
+                    "value": "White"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need 20000 stand up pouches in standard size with spot UV and foil finish. I have 4 different flavors and need white interior. Please provide a quote.",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 8,
+                    "end": 13,
+                    "body": "20000",
+                    "value": "20000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 14,
+                    "end": 27,
+                    "body": "stand up pouches",
+                    "value": "Stand Up Pouch"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 50,
+                    "end": 57,
+                    "body": "spot UV",
+                    "value": "Spot UV"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 62,
+                    "end": 66,
+                    "body": "foil",
+                    "value": "Foil"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 85,
+                    "end": 86,
+                    "body": "4",
+                    "value": "4"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 110,
+                    "end": 115,
+                    "body": "white",
+                    "value": "White"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote 20000 standup pouches standard size with spot UV foil finish? I have 4 flavors and need white inside.",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 20,
+                    "body": "20000",
+                    "value": "20000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 21,
+                    "end": 34,
+                    "body": "standup pouches",
+                    "value": "Stand Up Pouch"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 50,
+                    "end": 57,
+                    "body": "spot UV",
+                    "value": "Spot UV"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 58,
+                    "end": 62,
+                    "body": "foil",
+                    "value": "Foil"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 75,
+                    "end": 76,
+                    "body": "4",
+                    "value": "4"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 100,
+                    "body": "white",
+                    "value": "White"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need 5k quantity, 4*5inches size, Pillow pouch ( holographic material), number of designs 5, finish will be Matt + spot uv",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 5,
+                    "end": 8,
+                    "body": "5k",
+                    "value": "5000"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 20,
+                    "end": 30,
+                    "body": "4*5inches",
+                    "value": "4,5"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 32,
+                    "end": 43,
+                    "body": "Pillow pouch",
+                    "value": "Pillow Pouch"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 46,
+                    "end": 58,
+                    "body": "holographic material",
+                    "value": "Holographic"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 80,
+                    "end": 81,
+                    "body": "5",
+                    "value": "5"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 95,
+                    "end": 99,
+                    "body": "Matt",
+                    "value": "Matte"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 102,
+                    "end": 109,
+                    "body": "spot uv",
+                    "value": "Spot UV"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need 5000 pillow pouches in 4x5 inch size with holographic material, 5 different designs, and matte + spot UV finish",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 8,
+                    "end": 12,
+                    "body": "5000",
+                    "value": "5000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 13,
+                    "end": 25,
+                    "body": "pillow pouches",
+                    "value": "Pillow Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 29,
+                    "end": 36,
+                    "body": "4x5 inch",
+                    "value": "4,5"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 41,
+                    "end": 52,
+                    "body": "holographic material",
+                    "value": "Holographic"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 54,
+                    "end": 55,
+                    "body": "5",
+                    "value": "5"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 85,
+                    "body": "matte",
+                    "value": "Matte"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 88,
+                    "end": 95,
+                    "body": "spot UV",
+                    "value": "Spot UV"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote 5k pillow pouches, size 4*5 inches, holographic material, 5 designs, matte + spot UV finish?",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 18,
+                    "body": "5k",
+                    "value": "5000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 19,
+                    "end": 31,
+                    "body": "pillow pouches",
+                    "value": "Pillow Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 37,
+                    "end": 47,
+                    "body": "4*5 inches",
+                    "value": "4,5"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 49,
+                    "end": 60,
+                    "body": "holographic material",
+                    "value": "Holographic"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 62,
+                    "end": 63,
+                    "body": "5",
+                    "value": "5"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 72,
+                    "end": 77,
+                    "body": "matte",
+                    "value": "Matte"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 87,
+                    "body": "spot UV",
+                    "value": "Spot UV"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I would like to request a quote for the following order: Quantity: 15,000 Type: Stand-up bag Size: 4\" x 6\" x 2\" Material: Holographic SKUs: 3 Finishes: Matte + Spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 70,
+                    "end": 76,
+                    "body": "15,000",
+                    "value": "15000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 83,
+                    "end": 95,
+                    "body": "Stand-up bag",
+                    "value": "Stand Up Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 102,
+                    "end": 112,
+                    "body": "4\" x 6\" x 2\"",
+                    "value": "4,6,2"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 121,
+                    "end": 132,
+                    "body": "Holographic",
+                    "value": "Holographic"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 139,
+                    "end": 140,
+                    "body": "3",
+                    "value": "3"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 150,
+                    "end": 155,
+                    "body": "Matte",
+                    "value": "Matte"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 158,
+                    "end": 165,
+                    "body": "Spot UV",
+                    "value": "Spot UV"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Please provide a quote for: Quantity: 15000, Type: Stand-up bag, Size: 4x6x2 inches, Material: Holographic, SKUs: 3, Finishes: Matte + Spot UV",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 45,
+                    "end": 50,
+                    "body": "15000",
+                    "value": "15000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 58,
+                    "end": 70,
+                    "body": "Stand-up bag",
+                    "value": "Stand Up Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 78,
+                    "end": 88,
+                    "body": "4x6x2 inches",
+                    "value": "4,6,2"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 99,
+                    "end": 110,
+                    "body": "Holographic",
+                    "value": "Holographic"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 118,
+                    "end": 119,
+                    "body": "3",
+                    "value": "3"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 130,
+                    "end": 135,
+                    "body": "Matte",
+                    "value": "Matte"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 138,
+                    "end": 145,
+                    "body": "Spot UV",
+                    "value": "Spot UV"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote me for 15000 stand-up bags, size 4\"x6\"x2\", holographic material, 3 SKUs, matte + spot UV finish?",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 20,
+                    "end": 25,
+                    "body": "15000",
+                    "value": "15000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 26,
+                    "end": 38,
+                    "body": "stand-up bags",
+                    "value": "Stand Up Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 45,
+                    "end": 55,
+                    "body": "4\"x6\"x2\"",
+                    "value": "4,6,2"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 57,
+                    "end": 68,
+                    "body": "holographic material",
+                    "value": "Holographic"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 70,
+                    "end": 71,
+                    "body": "3",
+                    "value": "3"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 80,
+                    "end": 85,
+                    "body": "matte",
+                    "value": "Matte"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 88,
+                    "end": 95,
+                    "body": "spot UV",
+                    "value": "Spot UV"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Need 12k quantity, W 3\" H 4\" size, Flat pouch (on roll), number of designs 4, finish will be Soft touch ( with foiling)",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 5,
+                    "end": 8,
+                    "body": "12k",
+                    "value": "12000"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 20,
+                    "end": 30,
+                    "body": "W 3\" H 4\"",
+                    "value": "3,4"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 37,
+                    "end": 47,
+                    "body": "Flat pouch",
+                    "value": "Flat Pouch"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 70,
+                    "end": 71,
+                    "body": "4",
+                    "value": "4"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 90,
+                    "end": 99,
+                    "body": "Soft touch",
+                    "value": "Soft Touch"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 103,
+                    "end": 110,
+                    "body": "foiling",
+                    "value": "Foil"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need 12000 flat pouches on roll, size W 3\" H 4\", 4 different designs, soft touch finish with foiling",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 8,
+                    "end": 13,
+                    "body": "12000",
+                    "value": "12000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 14,
+                    "end": 24,
+                    "body": "flat pouches",
+                    "value": "Flat Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 35,
+                    "end": 45,
+                    "body": "W 3\" H 4\"",
+                    "value": "3,4"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 47,
+                    "end": 48,
+                    "body": "4",
+                    "value": "4"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 70,
+                    "end": 79,
+                    "body": "soft touch",
+                    "value": "Soft Touch"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 86,
+                    "end": 93,
+                    "body": "foiling",
+                    "value": "Foil"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote 12k flat pouches on roll, W 3\" H 4\" size, 4 designs, soft touch + foiling finish?",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 18,
+                    "body": "12k",
+                    "value": "12000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 19,
+                    "end": 29,
+                    "body": "flat pouches",
+                    "value": "Flat Pouch"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 40,
+                    "end": 50,
+                    "body": "W 3\" H 4\"",
+                    "value": "3,4"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 57,
+                    "end": 58,
+                    "body": "4",
+                    "value": "4"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 60,
+                    "end": 69,
+                    "body": "soft touch",
+                    "value": "Soft Touch"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 72,
+                    "end": 79,
+                    "body": "foiling",
+                    "value": "Foil"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "The order consists of 540,000 flat pouches made from MPET material, with a size of 6\" in height and 2.5\" in width, across 3 SKUs, finished with a gloss coating.",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 25,
+                    "end": 32,
+                    "body": "540,000",
+                    "value": "540000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 33,
+                    "end": 43,
+                    "body": "flat pouches",
+                    "value": "Flat Pouch"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 58,
+                    "end": 62,
+                    "body": "MPET",
+                    "value": "MPET"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 80,
+                    "end": 95,
+                    "body": "6\" in height and 2.5\" in width",
+                    "value": "6,2.5"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 103,
+                    "end": 104,
+                    "body": "3",
+                    "value": "3"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 120,
+                    "end": 131,
+                    "body": "gloss coating",
+                    "value": "Gloss Finish"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "I need 540000 flat pouches in MPET material, size 6\" height x 2.5\" width, 3 different SKUs, with gloss finish",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 8,
+                    "end": 14,
+                    "body": "540000",
+                    "value": "540000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 15,
+                    "end": 25,
+                    "body": "flat pouches",
+                    "value": "Flat Pouch"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 30,
+                    "end": 34,
+                    "body": "MPET",
+                    "value": "MPET"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 42,
+                    "end": 57,
+                    "body": "6\" height x 2.5\" width",
+                    "value": "6,2.5"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 59,
+                    "end": 60,
+                    "body": "3",
+                    "value": "3"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 75,
+                    "end": 86,
+                    "body": "gloss finish",
+                    "value": "Gloss Finish"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        },
+        {
+            "text": "Can you quote 540k flat pouches, MPET material, 6\"H x 2.5\"W size, 3 SKUs, gloss coating finish?",
+            "entities": [
+                {
+                    "entity": "quantities:quantities",
+                    "start": 15,
+                    "end": 19,
+                    "body": "540k",
+                    "value": "540000"
+                },
+                {
+                    "entity": "product:product",
+                    "start": 20,
+                    "end": 30,
+                    "body": "flat pouches",
+                    "value": "Flat Pouch"
+                },
+                {
+                    "entity": "material:material",
+                    "start": 32,
+                    "end": 36,
+                    "body": "MPET",
+                    "value": "MPET"
+                },
+                {
+                    "entity": "dimensions:dimensions",
+                    "start": 45,
+                    "end": 55,
+                    "body": "6\"H x 2.5\"W",
+                    "value": "6,2.5"
+                },
+                {
+                    "entity": "skus:skus",
+                    "start": 57,
+                    "end": 58,
+                    "body": "3",
+                    "value": "3"
+                },
+                {
+                    "entity": "finishes:finishes",
+                    "start": 60,
+                    "end": 71,
+                    "body": "gloss coating",
+                    "value": "Gloss Finish"
+                }
+            ],
+            "traits": [],
+            "intent": "get_quote"
+        }
+    ]
+}

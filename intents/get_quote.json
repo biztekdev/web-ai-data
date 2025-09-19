@@ -1,0 +1,12 @@
+{
+    "name": "get_quote",
+    "entities": [
+        "category:category",
+        "dimensions:dimensions",
+        "finishes:finishes",
+        "material:material",
+        "product:product",
+        "quantities:quantities",
+        "skus:skus"
+    ]
+}

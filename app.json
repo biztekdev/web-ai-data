@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip quote_mylar_ai.zip quote_mylar_ai\/app.json quote_mylar_ai\/entities\/*.json quote_mylar_ai\/intents\/*.json quote_mylar_ai\/traits\/*.json quote_mylar_ai\/utterances\/*.json quote_mylar_ai\/composer\/*.json",
+    "name": "quote_mylar_ai",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}

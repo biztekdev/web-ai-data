@@ -1,0 +1,119 @@
+{
+    "name": "category",
+    "roles": [
+        "category"
+    ],
+    "lookups": [
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "Folding Carton",
+            "synonyms": [
+                "Folding Carton",
+                "folding box",
+                "carton",
+                "paper carton",
+                "foldable carton",
+                "folding packaging",
+                "boxes"
+            ]
+        },
+        {
+            "keyword": "Label",
+            "synonyms": [
+                "Label",
+                "labels",
+                "sticker",
+                "stickers",
+                "product label",
+                "tag"
+            ]
+        },
+        {
+            "keyword": "Mylor Bag",
+            "synonyms": [
+                "Mylor Bag",
+                "mylar bag",
+                "mylar bags",
+                "mylar pouch",
+                "mylar pouches",
+                "bags",
+                "pouches",
+                "foil bag",
+                "foil pouch"
+            ]
+        },
+        {
+            "keyword": "Rigid Box",
+            "synonyms": [
+                "Rigid Box",
+                "rigid packaging",
+                "hard box",
+                "stiff box",
+                "luxury box",
+                "premium box"
+            ]
+        },
+        {
+            "keyword": "Standup Pouches",
+            "synonyms": [
+                "standup pouches",
+                "stand up pouch",
+                "stand up pouches",
+                "standup pouch",
+                "upright pouch",
+                "upright pouches"
+            ]
+        },
+        {
+            "keyword": "Bottle",
+            "synonyms": [
+                "bottle",
+                "bottles",
+                "glass bottle",
+                "plastic bottle",
+                "container"
+            ]
+        },
+        {
+            "keyword": "Tray",
+            "synonyms": [
+                "tray",
+                "trays",
+                "serving tray",
+                "display tray",
+                "packaging tray"
+            ]
+        },
+        {
+            "keyword": "Box",
+            "synonyms": [
+                "box",
+                "boxes",
+                "carton",
+                "packaging box",
+                "container box"
+            ]
+        },
+        {
+            "keyword": "Envelope",
+            "synonyms": [
+                "envelope",
+                "envelopes",
+                "mail envelope",
+                "packaging envelope"
+            ]
+        },
+        {
+            "keyword": "Bag",
+            "synonyms": [
+                "bag",
+                "bags",
+                "pouch",
+                "pouches",
+                "sack"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,931 @@
+{
+    "name": "finishes",
+    "roles": [
+        "finishes"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "3D Raised Spot UV",
+            "synonyms": [
+                "3D Raised Spot UV"
+            ]
+        },
+        {
+            "keyword": "3D Raised UV",
+            "synonyms": [
+                "3D Raised UV"
+            ]
+        },
+        {
+            "keyword": "AQ Coating",
+            "synonyms": [
+                "AQ Coating"
+            ]
+        },
+        {
+            "keyword": "AQ Semi Gloss",
+            "synonyms": [
+                "AQ Semi Gloss"
+            ]
+        },
+        {
+            "keyword": "Adhesive Side Printing",
+            "synonyms": [
+                "Adhesive Side Printing"
+            ]
+        },
+        {
+            "keyword": "Anti-Scratch Lamination",
+            "synonyms": [
+                "Anti-Scratch Lamination",
+                "anti-scratch lamination",
+                "scratch resistant",
+                "scratch proof",
+                "durable finish"
+            ]
+        },
+        {
+            "keyword": "Aqeous Coating",
+            "synonyms": [
+                "Aqeous Coating",
+                "aqueous coating",
+                "AQ coating",
+                "water-based coating",
+                "eco coating"
+            ]
+        },
+        {
+            "keyword": "Auto Bottom",
+            "synonyms": [
+                "Auto Bottom"
+            ]
+        },
+        {
+            "keyword": "Auto Lock Bottom",
+            "synonyms": [
+                "Auto Lock Bottom"
+            ]
+        },
+        {
+            "keyword": "Back Valve",
+            "synonyms": [
+                "Back Valve"
+            ]
+        },
+        {
+            "keyword": "Blister Coating",
+            "synonyms": [
+                "Blister Coating"
+            ]
+        },
+        {
+            "keyword": "Blister Insert",
+            "synonyms": [
+                "Blister Insert"
+            ]
+        },
+        {
+            "keyword": "Both Side Printing",
+            "synonyms": [
+                "Both Side Printing"
+            ]
+        },
+        {
+            "keyword": "Bottom Open (Zip Side Sealed)",
+            "synonyms": [
+                "Bottom Open (Zip Side Sealed)"
+            ]
+        },
+        {
+            "keyword": "CIP Printing",
+            "synonyms": [
+                "CIP Printing"
+            ]
+        },
+        {
+            "keyword": "CMYK",
+            "synonyms": [
+                "CMYK"
+            ]
+        },
+        {
+            "keyword": "CMYK 4\/0",
+            "synonyms": [
+                "cmyk 4\/0"
+            ]
+        },
+        {
+            "keyword": "CMYK 4\/4",
+            "synonyms": [
+                "CMYK 4\/4"
+            ]
+        },
+        {
+            "keyword": "CR Cap",
+            "synonyms": [
+                "CR Cap"
+            ]
+        },
+        {
+            "keyword": "CR Metal Cap",
+            "synonyms": [
+                "CR Metal Cap"
+            ]
+        },
+        {
+            "keyword": "CR Zipper",
+            "synonyms": [
+                "CR Zipper"
+            ]
+        },
+        {
+            "keyword": "CR Zipper ( Grip & Pull)",
+            "synonyms": [
+                "CR Zipper ( Grip & Pull)"
+            ]
+        },
+        {
+            "keyword": "CR button",
+            "synonyms": [
+                "CR button"
+            ]
+        },
+        {
+            "keyword": "Child Resistance",
+            "synonyms": [
+                "Child Resistance"
+            ]
+        },
+        {
+            "keyword": "Cold Foil",
+            "synonyms": [
+                "Cold Foil"
+            ]
+        },
+        {
+            "keyword": "Debossing",
+            "synonyms": [
+                "Debossing",
+                "debossing",
+                "pressed texture",
+                "debossed",
+                "3D debossing"
+            ]
+        },
+        {
+            "keyword": "Deep Embossing",
+            "synonyms": [
+                "Deep Embossing"
+            ]
+        },
+        {
+            "keyword": "Die Cutting",
+            "synonyms": [
+                "Die Cutting"
+            ]
+        },
+        {
+            "keyword": "Die Making",
+            "synonyms": [
+                "Die Making"
+            ]
+        },
+        {
+            "keyword": "Diff for All Sku 3D Raised Spot UV",
+            "synonyms": [
+                "Diff for All Sku 3D Raised Spot UV"
+            ]
+        },
+        {
+            "keyword": "Diff for All Sku SpotUv",
+            "synonyms": [
+                "Diff for All Sku SpotUv"
+            ]
+        },
+        {
+            "keyword": "Double Tape ( No Pasting )",
+            "synonyms": [
+                "Double Tape ( No Pasting )"
+            ]
+        },
+        {
+            "keyword": "Drip Off",
+            "synonyms": [
+                "Drip Off"
+            ]
+        },
+        {
+            "keyword": "Dripoff ( Tactile Feel)",
+            "synonyms": [
+                "Dripoff ( Tactile Feel)"
+            ]
+        },
+        {
+            "keyword": "Dripoff UV",
+            "synonyms": [
+                "Dripoff UV"
+            ]
+        },
+        {
+            "keyword": "Dull AQ Coating",
+            "synonyms": [
+                "Dull AQ Coating"
+            ]
+        },
+        {
+            "keyword": "Easy Peel Adhesive",
+            "synonyms": [
+                "Easy Peel Adhesive"
+            ]
+        },
+        {
+            "keyword": "Easy Tear Open Zipper",
+            "synonyms": [
+                "Easy Tear Open Zipper"
+            ]
+        },
+        {
+            "keyword": "Embossing",
+            "synonyms": [
+                "Embossing",
+                "embossing",
+                "raised texture",
+                "embossed",
+                "3D embossing"
+            ]
+        },
+        {
+            "keyword": "Euro",
+            "synonyms": [
+                "Euro"
+            ]
+        },
+        {
+            "keyword": "Fabric",
+            "synonyms": [
+                "Fabric"
+            ]
+        },
+        {
+            "keyword": "Flat Ship No",
+            "synonyms": [
+                "Flat Ship No"
+            ]
+        },
+        {
+            "keyword": "Flat Ship Yes",
+            "synonyms": [
+                "Flat Ship Yes"
+            ]
+        },
+        {
+            "keyword": "Foam Insert",
+            "synonyms": [
+                "Foam Insert"
+            ]
+        },
+        {
+            "keyword": "Foldable",
+            "synonyms": [
+                "Foldable"
+            ]
+        },
+        {
+            "keyword": "Form Insert",
+            "synonyms": [
+                "Form Insert"
+            ]
+        },
+        {
+            "keyword": "Front Valve",
+            "synonyms": [
+                "Front Valve"
+            ]
+        },
+        {
+            "keyword": "Gallutation",
+            "synonyms": [
+                "Gallutation"
+            ]
+        },
+        {
+            "keyword": "Galutation",
+            "synonyms": [
+                "Galutation"
+            ]
+        },
+        {
+            "keyword": "Glitter Finish",
+            "synonyms": [
+                "Glitter Finish"
+            ]
+        },
+        {
+            "keyword": "Gloss Finish",
+            "synonyms": [
+                "gloss finish",
+                "glossy",
+                "high gloss",
+                "shiny finish",
+                "gloss coating"
+            ]
+        },
+        {
+            "keyword": "Gloss Laminated",
+            "synonyms": [
+                "Gloss Laminated"
+            ]
+        },
+        {
+            "keyword": "Gloss Lamination",
+            "synonyms": [
+                "Gloss Lamination",
+                "gloss"
+            ]
+        },
+        {
+            "keyword": "Gloss UV",
+            "synonyms": [
+                "Gloss UV"
+            ]
+        },
+        {
+            "keyword": "Gold Cold Foil",
+            "synonyms": [
+                "Gold Cold Foil"
+            ]
+        },
+        {
+            "keyword": "Half-Fold",
+            "synonyms": [
+                "Half-Fold"
+            ]
+        },
+        {
+            "keyword": "Hang Hole No",
+            "synonyms": [
+                "Hang Hole No"
+            ]
+        },
+        {
+            "keyword": "Hang Hole Yes",
+            "synonyms": [
+                "hang hole yes"
+            ]
+        },
+        {
+            "keyword": "Hardware",
+            "synonyms": [
+                "Hardware"
+            ]
+        },
+        {
+            "keyword": "Hinge",
+            "synonyms": [
+                "Hinge"
+            ]
+        },
+        {
+            "keyword": "Holo Foil",
+            "synonyms": [
+                "Holo Foil"
+            ]
+        },
+        {
+            "keyword": "Holo Hot Foil",
+            "synonyms": [
+                "Holo Hot Foil"
+            ]
+        },
+        {
+            "keyword": "Holo Spot Raised Foil",
+            "synonyms": [
+                "Holo Spot Raised Foil"
+            ]
+        },
+        {
+            "keyword": "Hot Foil",
+            "synonyms": [
+                "Hot Foil"
+            ]
+        },
+        {
+            "keyword": "Inside Printing",
+            "synonyms": [
+                "Inside Printing"
+            ]
+        },
+        {
+            "keyword": "Light",
+            "synonyms": [
+                "Light"
+            ]
+        },
+        {
+            "keyword": "Magnetic Closure",
+            "synonyms": [
+                "Magnetic Closure"
+            ]
+        },
+        {
+            "keyword": "Matt + spot uv",
+            "synonyms": [
+                "matt + spot uv"
+            ]
+        },
+        {
+            "keyword": "Matt Lamination",
+            "synonyms": [
+                "Matt Lamination"
+            ]
+        },
+        {
+            "keyword": "Matte + Spot UV",
+            "synonyms": [
+                "ke to request a"
+            ]
+        },
+        {
+            "keyword": "Matte Finish",
+            "synonyms": [
+                "matte finish",
+                "matte",
+                "dull finish",
+                "non-glossy",
+                "matte coating"
+            ]
+        },
+        {
+            "keyword": "Matte Lamination",
+            "synonyms": [
+                "Matte Lamination"
+            ]
+        },
+        {
+            "keyword": "Matte UV",
+            "synonyms": [
+                "Matte UV"
+            ]
+        },
+        {
+            "keyword": "Medium",
+            "synonyms": [
+                "Medium"
+            ]
+        },
+        {
+            "keyword": "Micro Deep Embossing",
+            "synonyms": [
+                "Micro Deep Embossing"
+            ]
+        },
+        {
+            "keyword": "Nfc Embedded",
+            "synonyms": [
+                "Nfc Embedded"
+            ]
+        },
+        {
+            "keyword": "No Finish",
+            "synonyms": [
+                "No Finish"
+            ]
+        },
+        {
+            "keyword": "No Pasting",
+            "synonyms": [
+                "No Pasting"
+            ]
+        },
+        {
+            "keyword": "No Pasting Required",
+            "synonyms": [
+                "No Pasting Required"
+            ]
+        },
+        {
+            "keyword": "One Way Valve",
+            "synonyms": [
+                "One Way Valve"
+            ]
+        },
+        {
+            "keyword": "Open Zipper",
+            "synonyms": [
+                "Open Zipper"
+            ]
+        },
+        {
+            "keyword": "PE Coating - Food Grade",
+            "synonyms": [
+                "PE Coating - Food Grade"
+            ]
+        },
+        {
+            "keyword": "PVC CR Lock",
+            "synonyms": [
+                "PVC CR Lock"
+            ]
+        },
+        {
+            "keyword": "Panton Colour",
+            "synonyms": [
+                "Panton Colour"
+            ]
+        },
+        {
+            "keyword": "Panton color",
+            "synonyms": [
+                "Panton color"
+            ]
+        },
+        {
+            "keyword": "Pearl Finish",
+            "synonyms": [
+                "Pearl Finish",
+                "pearl finish",
+                "pearl coating",
+                "pearly",
+                "iridescent finish"
+            ]
+        },
+        {
+            "keyword": "Perforation ( Neckline )",
+            "synonyms": [
+                "Perforation ( Neckline )"
+            ]
+        },
+        {
+            "keyword": "Perforation ( Vertical )",
+            "synonyms": [
+                "Perforation ( Vertical )"
+            ]
+        },
+        {
+            "keyword": "Perforation Line",
+            "synonyms": [
+                "Perforation Line"
+            ]
+        },
+        {
+            "keyword": "Permanent Adhesive",
+            "synonyms": [
+                "Permanent Adhesive"
+            ]
+        },
+        {
+            "keyword": "Plain",
+            "synonyms": [
+                "Plain"
+            ]
+        },
+        {
+            "keyword": "Plastic CR Lock",
+            "synonyms": [
+                "Plastic CR Lock"
+            ]
+        },
+        {
+            "keyword": "Plastic Mold",
+            "synonyms": [
+                "Plastic Mold"
+            ]
+        },
+        {
+            "keyword": "Powder Proof Zipper",
+            "synonyms": [
+                "Powder Proof Zipper"
+            ]
+        },
+        {
+            "keyword": "Powder Silver Pantone Color",
+            "synonyms": [
+                "Powder Silver Pantone Color"
+            ]
+        },
+        {
+            "keyword": "Reverse Printing ( Glue Front )",
+            "synonyms": [
+                "Reverse Printing ( Glue Front )"
+            ]
+        },
+        {
+            "keyword": "Round",
+            "synonyms": [
+                "round"
+            ]
+        },
+        {
+            "keyword": "Round Corner",
+            "synonyms": [
+                "Round Corner"
+            ]
+        },
+        {
+            "keyword": "Round Cornor",
+            "synonyms": [
+                "Round Cornor"
+            ]
+        },
+        {
+            "keyword": "Rounded Corner",
+            "synonyms": [
+                "Rounded Corner"
+            ]
+        },
+        {
+            "keyword": "Same as Previous",
+            "synonyms": [
+                "Same as Previous"
+            ]
+        },
+        {
+            "keyword": "Same for All Sku 3D Raised Spot UV",
+            "synonyms": [
+                "Same for All Sku 3D Raised Spot UV"
+            ]
+        },
+        {
+            "keyword": "Same for All Sku SpotUv",
+            "synonyms": [
+                "Same for All Sku SpotUv"
+            ]
+        },
+        {
+            "keyword": "Satin Aqueous",
+            "synonyms": [
+                "Satin Aqueous"
+            ]
+        },
+        {
+            "keyword": "Scratch-off latex",
+            "synonyms": [
+                "Scratch-off latex"
+            ]
+        },
+        {
+            "keyword": "Screw Cap",
+            "synonyms": [
+                "Screw Cap"
+            ]
+        },
+        {
+            "keyword": "Sharp Corner",
+            "synonyms": [
+                "Sharp Corner"
+            ]
+        },
+        {
+            "keyword": "Shelf",
+            "synonyms": [
+                "Shelf"
+            ]
+        },
+        {
+            "keyword": "Side Pasting",
+            "synonyms": [
+                "Side Pasting"
+            ]
+        },
+        {
+            "keyword": "Silver Hot Foil",
+            "synonyms": [
+                "Silver Hot Foil"
+            ]
+        },
+        {
+            "keyword": "Silver Spot Raised Foil",
+            "synonyms": [
+                "Silver Spot Raised Foil"
+            ]
+        },
+        {
+            "keyword": "Slider Zipper",
+            "synonyms": [
+                "Slider Zipper"
+            ]
+        },
+        {
+            "keyword": "Snap Lock Bottom",
+            "synonyms": [
+                "Snap Lock Bottom"
+            ]
+        },
+        {
+            "keyword": "Soft Touch Finish",
+            "synonyms": [
+                "soft touch finish",
+                "soft touch",
+                "velvet finish",
+                "smooth finish",
+                "soft lamination"
+            ]
+        },
+        {
+            "keyword": "Soft touch",
+            "synonyms": [
+                "soft touch"
+            ]
+        },
+        {
+            "keyword": "Softouch Lamination",
+            "synonyms": [
+                "Softouch Lamination"
+            ]
+        },
+        {
+            "keyword": "Softtouch Finish",
+            "synonyms": [
+                "Softtouch Finish"
+            ]
+        },
+        {
+            "keyword": "Softtouch Lamination",
+            "synonyms": [
+                "Softtouch Lamination"
+            ]
+        },
+        {
+            "keyword": "Spot Gloss",
+            "synonyms": [
+                "Spot Gloss"
+            ]
+        },
+        {
+            "keyword": "Spot Raised Foil",
+            "synonyms": [
+                "Spot Raised Foil"
+            ]
+        },
+        {
+            "keyword": "Spot UV",
+            "synonyms": [
+                "Spot UV",
+                "spot uv",
+                "uv spot",
+                "uv coating",
+                "spot gloss"
+            ]
+        },
+        {
+            "keyword": "Spot cold foil",
+            "synonyms": [
+                "Spot cold foil"
+            ]
+        },
+        {
+            "keyword": "Spout",
+            "synonyms": [
+                "Spout"
+            ]
+        },
+        {
+            "keyword": "Standard Zipper",
+            "synonyms": [
+                "Standard Zipper"
+            ]
+        },
+        {
+            "keyword": "Straight Line Gluing",
+            "synonyms": [
+                "Straight Line Gluing"
+            ]
+        },
+        {
+            "keyword": "Striping",
+            "synonyms": [
+                "Striping"
+            ]
+        },
+        {
+            "keyword": "Tactile Feel",
+            "synonyms": [
+                "Tactile Feel"
+            ]
+        },
+        {
+            "keyword": "Tear Notch No",
+            "synonyms": [
+                "Tear Notch No"
+            ]
+        },
+        {
+            "keyword": "Tear Notch Yes",
+            "synonyms": [
+                "tear notch yes"
+            ]
+        },
+        {
+            "keyword": "Thickness (In mm)",
+            "synonyms": [
+                "Thickness (In mm)"
+            ]
+        },
+        {
+            "keyword": "Transparent",
+            "synonyms": [
+                "Transparent"
+            ]
+        },
+        {
+            "keyword": "Tuck Cap",
+            "synonyms": [
+                "Tuck Cap"
+            ]
+        },
+        {
+            "keyword": "Two Piece",
+            "synonyms": [
+                "Two Piece"
+            ]
+        },
+        {
+            "keyword": "Two Way Valve",
+            "synonyms": [
+                "Two Way Valve"
+            ]
+        },
+        {
+            "keyword": "Valve",
+            "synonyms": [
+                "Valve"
+            ]
+        },
+        {
+            "keyword": "White",
+            "synonyms": [
+                "white"
+            ]
+        },
+        {
+            "keyword": "Windo Die Cut",
+            "synonyms": [
+                "Windo Die Cut"
+            ]
+        },
+        {
+            "keyword": "Window",
+            "synonyms": [
+                "Window"
+            ]
+        },
+        {
+            "keyword": "Window Die Cut",
+            "synonyms": [
+                "Window Die Cut"
+            ]
+        },
+        {
+            "keyword": "Window Diecut",
+            "synonyms": [
+                "Window Diecut"
+            ]
+        },
+        {
+            "keyword": "Window PVC",
+            "synonyms": [
+                "Window PVC"
+            ]
+        },
+        {
+            "keyword": "back",
+            "synonyms": [
+                "back"
+            ]
+        },
+        {
+            "keyword": "foil",
+            "synonyms": [
+                "foil"
+            ]
+        },
+        {
+            "keyword": "foiling",
+            "synonyms": [
+                "foiling"
+            ]
+        },
+        {
+            "keyword": "front",
+            "synonyms": [
+                "front"
+            ]
+        },
+        {
+            "keyword": "gloss coating",
+            "synonyms": [
+                "gloss coating"
+            ]
+        },
+        {
+            "keyword": "two_way",
+            "synonyms": [
+                "two_way"
+            ]
+        }
+    ]
+}

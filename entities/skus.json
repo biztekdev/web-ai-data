@@ -1,0 +1,711 @@
+{
+    "name": "skus",
+    "roles": [
+        "skus"
+    ],
+    "lookups": [
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "1",
+            "synonyms": [
+                "1",
+                "one"
+            ]
+        },
+        {
+            "keyword": "2",
+            "synonyms": [
+                "2",
+                "two"
+            ]
+        },
+        {
+            "keyword": "3",
+            "synonyms": [
+                "3",
+                "three"
+            ]
+        },
+        {
+            "keyword": "4",
+            "synonyms": [
+                "4",
+                "four"
+            ]
+        },
+        {
+            "keyword": "5",
+            "synonyms": [
+                "5",
+                "five"
+            ]
+        },
+        {
+            "keyword": "6",
+            "synonyms": [
+                "6",
+                "six"
+            ]
+        },
+        {
+            "keyword": "7",
+            "synonyms": [
+                "7",
+                "seven"
+            ]
+        },
+        {
+            "keyword": "8",
+            "synonyms": [
+                "8",
+                "eight"
+            ]
+        },
+        {
+            "keyword": "9",
+            "synonyms": [
+                "9",
+                "nine"
+            ]
+        },
+        {
+            "keyword": "10",
+            "synonyms": [
+                "10",
+                "ten"
+            ]
+        },
+        {
+            "keyword": "11",
+            "synonyms": [
+                "11",
+                "eleven"
+            ]
+        },
+        {
+            "keyword": "12",
+            "synonyms": [
+                "12",
+                "twelve"
+            ]
+        },
+        {
+            "keyword": "13",
+            "synonyms": [
+                "13",
+                "thirteen"
+            ]
+        },
+        {
+            "keyword": "14",
+            "synonyms": [
+                "14",
+                "fourteen"
+            ]
+        },
+        {
+            "keyword": "15",
+            "synonyms": [
+                "15",
+                "fifteen"
+            ]
+        },
+        {
+            "keyword": "16",
+            "synonyms": [
+                "16",
+                "sixteen"
+            ]
+        },
+        {
+            "keyword": "17",
+            "synonyms": [
+                "17",
+                "seventeen"
+            ]
+        },
+        {
+            "keyword": "18",
+            "synonyms": [
+                "18",
+                "eighteen"
+            ]
+        },
+        {
+            "keyword": "19",
+            "synonyms": [
+                "19",
+                "nineteen"
+            ]
+        },
+        {
+            "keyword": "20",
+            "synonyms": [
+                "20",
+                "twenty"
+            ]
+        },
+        {
+            "keyword": "21",
+            "synonyms": [
+                "21",
+                "twenty one"
+            ]
+        },
+        {
+            "keyword": "22",
+            "synonyms": [
+                "22",
+                "twenty two"
+            ]
+        },
+        {
+            "keyword": "23",
+            "synonyms": [
+                "23",
+                "twenty three"
+            ]
+        },
+        {
+            "keyword": "24",
+            "synonyms": [
+                "24",
+                "twenty four"
+            ]
+        },
+        {
+            "keyword": "25",
+            "synonyms": [
+                "25",
+                "twenty five"
+            ]
+        },
+        {
+            "keyword": "26",
+            "synonyms": [
+                "26",
+                "twenty six"
+            ]
+        },
+        {
+            "keyword": "27",
+            "synonyms": [
+                "27",
+                "twenty seven"
+            ]
+        },
+        {
+            "keyword": "28",
+            "synonyms": [
+                "28",
+                "twenty eight"
+            ]
+        },
+        {
+            "keyword": "29",
+            "synonyms": [
+                "29",
+                "twenty nine"
+            ]
+        },
+        {
+            "keyword": "30",
+            "synonyms": [
+                "30",
+                "thirty"
+            ]
+        },
+        {
+            "keyword": "31",
+            "synonyms": [
+                "31",
+                "thirty one"
+            ]
+        },
+        {
+            "keyword": "32",
+            "synonyms": [
+                "32",
+                "thirty two"
+            ]
+        },
+        {
+            "keyword": "33",
+            "synonyms": [
+                "33",
+                "thirty three"
+            ]
+        },
+        {
+            "keyword": "34",
+            "synonyms": [
+                "34",
+                "thirty four"
+            ]
+        },
+        {
+            "keyword": "35",
+            "synonyms": [
+                "35",
+                "thirty five"
+            ]
+        },
+        {
+            "keyword": "36",
+            "synonyms": [
+                "36",
+                "thirty six"
+            ]
+        },
+        {
+            "keyword": "37",
+            "synonyms": [
+                "37",
+                "thirty seven"
+            ]
+        },
+        {
+            "keyword": "38",
+            "synonyms": [
+                "38",
+                "thirty eight"
+            ]
+        },
+        {
+            "keyword": "39",
+            "synonyms": [
+                "39",
+                "thirty nine"
+            ]
+        },
+        {
+            "keyword": "40",
+            "synonyms": [
+                "40",
+                "forty"
+            ]
+        },
+        {
+            "keyword": "41",
+            "synonyms": [
+                "41",
+                "forty one"
+            ]
+        },
+        {
+            "keyword": "42",
+            "synonyms": [
+                "42",
+                "forty two"
+            ]
+        },
+        {
+            "keyword": "43",
+            "synonyms": [
+                "43",
+                "forty three"
+            ]
+        },
+        {
+            "keyword": "44",
+            "synonyms": [
+                "44",
+                "forty four"
+            ]
+        },
+        {
+            "keyword": "45",
+            "synonyms": [
+                "45",
+                "forty five"
+            ]
+        },
+        {
+            "keyword": "46",
+            "synonyms": [
+                "46",
+                "forty six"
+            ]
+        },
+        {
+            "keyword": "47",
+            "synonyms": [
+                "47",
+                "forty seven"
+            ]
+        },
+        {
+            "keyword": "48",
+            "synonyms": [
+                "48",
+                "forty eight"
+            ]
+        },
+        {
+            "keyword": "49",
+            "synonyms": [
+                "49",
+                "forty nine"
+            ]
+        },
+        {
+            "keyword": "50",
+            "synonyms": [
+                "50",
+                "fifty"
+            ]
+        },
+        {
+            "keyword": "51",
+            "synonyms": [
+                "51",
+                "fifty one"
+            ]
+        },
+        {
+            "keyword": "52",
+            "synonyms": [
+                "52",
+                "fifty two"
+            ]
+        },
+        {
+            "keyword": "53",
+            "synonyms": [
+                "53",
+                "fifty three"
+            ]
+        },
+        {
+            "keyword": "54",
+            "synonyms": [
+                "54",
+                "fifty four"
+            ]
+        },
+        {
+            "keyword": "55",
+            "synonyms": [
+                "55",
+                "fifty five"
+            ]
+        },
+        {
+            "keyword": "56",
+            "synonyms": [
+                "56",
+                "fifty six"
+            ]
+        },
+        {
+            "keyword": "57",
+            "synonyms": [
+                "57",
+                "fifty seven"
+            ]
+        },
+        {
+            "keyword": "58",
+            "synonyms": [
+                "58",
+                "fifty eight"
+            ]
+        },
+        {
+            "keyword": "59",
+            "synonyms": [
+                "59",
+                "fifty nine"
+            ]
+        },
+        {
+            "keyword": "60",
+            "synonyms": [
+                "60",
+                "sixty"
+            ]
+        },
+        {
+            "keyword": "61",
+            "synonyms": [
+                "61",
+                "sixty one"
+            ]
+        },
+        {
+            "keyword": "62",
+            "synonyms": [
+                "62",
+                "sixty two"
+            ]
+        },
+        {
+            "keyword": "63",
+            "synonyms": [
+                "63",
+                "sixty three"
+            ]
+        },
+        {
+            "keyword": "64",
+            "synonyms": [
+                "64",
+                "sixty four"
+            ]
+        },
+        {
+            "keyword": "65",
+            "synonyms": [
+                "65",
+                "sixty five"
+            ]
+        },
+        {
+            "keyword": "66",
+            "synonyms": [
+                "66",
+                "sixty six"
+            ]
+        },
+        {
+            "keyword": "67",
+            "synonyms": [
+                "67",
+                "sixty seven"
+            ]
+        },
+        {
+            "keyword": "68",
+            "synonyms": [
+                "68",
+                "sixty eight"
+            ]
+        },
+        {
+            "keyword": "69",
+            "synonyms": [
+                "69",
+                "sixty nine"
+            ]
+        },
+        {
+            "keyword": "70",
+            "synonyms": [
+                "70",
+                "seventy"
+            ]
+        },
+        {
+            "keyword": "71",
+            "synonyms": [
+                "71",
+                "seventy one"
+            ]
+        },
+        {
+            "keyword": "72",
+            "synonyms": [
+                "72",
+                "seventy two"
+            ]
+        },
+        {
+            "keyword": "73",
+            "synonyms": [
+                "73",
+                "seventy three"
+            ]
+        },
+        {
+            "keyword": "74",
+            "synonyms": [
+                "74",
+                "seventy four"
+            ]
+        },
+        {
+            "keyword": "75",
+            "synonyms": [
+                "75",
+                "seventy five"
+            ]
+        },
+        {
+            "keyword": "76",
+            "synonyms": [
+                "76",
+                "seventy six"
+            ]
+        },
+        {
+            "keyword": "77",
+            "synonyms": [
+                "77",
+                "seventy seven"
+            ]
+        },
+        {
+            "keyword": "78",
+            "synonyms": [
+                "78",
+                "seventy eight"
+            ]
+        },
+        {
+            "keyword": "79",
+            "synonyms": [
+                "79",
+                "seventy nine"
+            ]
+        },
+        {
+            "keyword": "80",
+            "synonyms": [
+                "80",
+                "eighty"
+            ]
+        },
+        {
+            "keyword": "81",
+            "synonyms": [
+                "81",
+                "eighty one"
+            ]
+        },
+        {
+            "keyword": "82",
+            "synonyms": [
+                "82",
+                "eighty two"
+            ]
+        },
+        {
+            "keyword": "83",
+            "synonyms": [
+                "83",
+                "eighty three"
+            ]
+        },
+        {
+            "keyword": "84",
+            "synonyms": [
+                "84",
+                "eighty four"
+            ]
+        },
+        {
+            "keyword": "85",
+            "synonyms": [
+                "85",
+                "eighty five"
+            ]
+        },
+        {
+            "keyword": "86",
+            "synonyms": [
+                "86",
+                "eighty six"
+            ]
+        },
+        {
+            "keyword": "87",
+            "synonyms": [
+                "87",
+                "eighty seven"
+            ]
+        },
+        {
+            "keyword": "88",
+            "synonyms": [
+                "88",
+                "eighty eight"
+            ]
+        },
+        {
+            "keyword": "89",
+            "synonyms": [
+                "89",
+                "eighty nine"
+            ]
+        },
+        {
+            "keyword": "90",
+            "synonyms": [
+                "90",
+                "ninety"
+            ]
+        },
+        {
+            "keyword": "91",
+            "synonyms": [
+                "91",
+                "ninety one"
+            ]
+        },
+        {
+            "keyword": "92",
+            "synonyms": [
+                "92",
+                "ninety two"
+            ]
+        },
+        {
+            "keyword": "93",
+            "synonyms": [
+                "93",
+                "ninety three"
+            ]
+        },
+        {
+            "keyword": "94",
+            "synonyms": [
+                "94",
+                "ninety four"
+            ]
+        },
+        {
+            "keyword": "95",
+            "synonyms": [
+                "95",
+                "ninety five"
+            ]
+        },
+        {
+            "keyword": "96",
+            "synonyms": [
+                "96",
+                "ninety six"
+            ]
+        },
+        {
+            "keyword": "97",
+            "synonyms": [
+                "97",
+                "ninety seven"
+            ]
+        },
+        {
+            "keyword": "98",
+            "synonyms": [
+                "98",
+                "ninety eight"
+            ]
+        },
+        {
+            "keyword": "99",
+            "synonyms": [
+                "99",
+                "ninety nine"
+            ]
+        },
+        {
+            "keyword": "100",
+            "synonyms": [
+                "100",
+                "one hundred"
+            ]
+        }
+    ]
+}

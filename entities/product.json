@@ -1,0 +1,1371 @@
+{
+    "name": "product",
+    "roles": [
+        "product"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "2 Side Gusset Pouch (Pillow Pouch)",
+            "synonyms": [
+                "2 Side Gusset Pouch (Pillow Pouch)",
+                "2 side gusset pouch",
+                "pillow pouch",
+                "gusset pouch",
+                "side gusset pouch",
+                "2 side pouch",
+                "pillow bag",
+                "side gusset bag"
+            ]
+        },
+        {
+            "keyword": "3 Side Gusset Carry Bag",
+            "synonyms": [
+                "3 Side Gusset Carry Bag",
+                "3 side gusset bag",
+                "gusset carry bag",
+                "carry bag",
+                "side gusset carry bag",
+                "3 side bag"
+            ]
+        },
+        {
+            "keyword": "30ML Tincture Bottle with Dropper",
+            "synonyms": [
+                "30ML Tincture Bottle with Dropper",
+                "tincture bottle",
+                "30ml bottle",
+                "dropper bottle",
+                "tincture dropper",
+                "30ml dropper"
+            ]
+        },
+        {
+            "keyword": "Acrylic Box",
+            "synonyms": [
+                "Acrylic Box",
+                "acrylic packaging",
+                "acrylic container",
+                "clear box",
+                "plastic box"
+            ]
+        },
+        {
+            "keyword": "Backdrop",
+            "synonyms": [
+                "Backdrop",
+                "background",
+                "display backdrop",
+                "photo backdrop",
+                "event backdrop"
+            ]
+        },
+        {
+            "keyword": "Bakery Box",
+            "synonyms": [
+                "Bakery Box",
+                "cake box",
+                "pastry box",
+                "cookie box",
+                "baked goods box"
+            ]
+        },
+        {
+            "keyword": "Bandera Flags",
+            "synonyms": [
+                "Bandera Flags",
+                "flags",
+                "banner flags",
+                "bandera banner",
+                "event flags"
+            ]
+        },
+        {
+            "keyword": "Baseball Cap",
+            "synonyms": [
+                "Baseball Cap",
+                "cap",
+                "hat",
+                "baseball hat",
+                "sports cap"
+            ]
+        },
+        {
+            "keyword": "Book Style Box",
+            "synonyms": [
+                "Book Style Box",
+                "book box",
+                "book packaging",
+                "book shaped box",
+                "book style packaging"
+            ]
+        },
+        {
+            "keyword": "Booklets",
+            "synonyms": [
+                "Booklets",
+                "booklet",
+                "pamphlet",
+                "brochure",
+                "mini book"
+            ]
+        },
+        {
+            "keyword": "Boot Tray",
+            "synonyms": [
+                "Boot Tray",
+                "shoe tray",
+                "tray for boots",
+                "boot holder",
+                "boot mat"
+            ]
+        },
+        {
+            "keyword": "Booth Setup",
+            "synonyms": [
+                "Booth Setup",
+                "booth",
+                "exhibition booth",
+                "trade show booth",
+                "event booth"
+            ]
+        },
+        {
+            "keyword": "Bottle Carrier Box",
+            "synonyms": [
+                "Bottle Carrier Box",
+                "bottle box",
+                "carrier box",
+                "bottle holder",
+                "bottle packaging"
+            ]
+        },
+        {
+            "keyword": "Bottle Courier Box",
+            "synonyms": [
+                "Bottle Courier Box",
+                "courier box",
+                "bottle shipping box",
+                "bottle mailer",
+                "bottle delivery box"
+            ]
+        },
+        {
+            "keyword": "Bottles",
+            "synonyms": [
+                "Bottles",
+                "bottle",
+                "glass bottle",
+                "plastic bottle",
+                "container"
+            ]
+        },
+        {
+            "keyword": "Bottom Lid Box",
+            "synonyms": [
+                "Bottom Lid Box",
+                "bottom box",
+                "lid box",
+                "box with bottom lid",
+                "bottom closure box"
+            ]
+        },
+        {
+            "keyword": "Brochures",
+            "synonyms": [
+                "Brochures",
+                "brochure",
+                "flyer",
+                "leaflet",
+                "pamphlet"
+            ]
+        },
+        {
+            "keyword": "Brouthure",
+            "synonyms": [
+                "Brouthure",
+                "brochure",
+                "flyer",
+                "leaflet"
+            ]
+        },
+        {
+            "keyword": "Bubble Bag",
+            "synonyms": [
+                "Bubble Bag",
+                "bubble mailer",
+                "bubble pouch",
+                "protective bag",
+                "bubble wrap bag"
+            ]
+        },
+        {
+            "keyword": "Bubble Mailer",
+            "synonyms": [
+                "Bubble Mailer",
+                "bubble envelope",
+                "bubble bag",
+                "mailer",
+                "protective mailer"
+            ]
+        },
+        {
+            "keyword": "Burger Box",
+            "synonyms": [
+                "Burger Box",
+                "burger packaging",
+                "burger container",
+                "fast food box",
+                "sandwich box"
+            ]
+        },
+        {
+            "keyword": "Business Card",
+            "synonyms": [
+                "Business Card",
+                "business cards",
+                "visiting card",
+                "contact card",
+                "name card"
+            ]
+        },
+        {
+            "keyword": "CATALOGE",
+            "synonyms": [
+                "CATALOGE",
+                "catalogue",
+                "catalog",
+                "product catalog",
+                "product list"
+            ]
+        },
+        {
+            "keyword": "CR Glass Jar",
+            "synonyms": [
+                "CR Glass Jar",
+                "child resistant glass jar",
+                "glass jar",
+                "cr jar"
+            ]
+        },
+        {
+            "keyword": "CR PLASTIC JAR",
+            "synonyms": [
+                "CR PLASTIC JAR",
+                "child resistant plastic jar",
+                "plastic jar",
+                "cr jar"
+            ]
+        },
+        {
+            "keyword": "CR Rigid Box",
+            "synonyms": [
+                "CR Rigid Box",
+                "child resistant rigid box",
+                "rigid box",
+                "cr box"
+            ]
+        },
+        {
+            "keyword": "CUSTOM FOLDER LOCK",
+            "synonyms": [
+                "CUSTOM FOLDER LOCK",
+                "custom folder lock box",
+                "folder lock",
+                "folder lock box"
+            ]
+        },
+        {
+            "keyword": "CUSTOM INNER BOX",
+            "synonyms": [
+                "CUSTOM INNER BOX",
+                "custom inner box",
+                "inner box",
+                "custom box"
+            ]
+        },
+        {
+            "keyword": "Canopy Tent",
+            "synonyms": [
+                "Canopy Tent",
+                "tent",
+                "event tent",
+                "canopy"
+            ]
+        },
+        {
+            "keyword": "Catalog",
+            "synonyms": [
+                "Catalog",
+                "catalogue",
+                "product catalog",
+                "product list"
+            ]
+        },
+        {
+            "keyword": "Center Seal Stand Up Pouch",
+            "synonyms": [
+                "Center Seal Stand Up Pouch",
+                "stand up pouch",
+                "center seal pouch",
+                "center seal bag"
+            ]
+        },
+        {
+            "keyword": "Chinese Takeout Box",
+            "synonyms": [
+                "Chinese Takeout Box",
+                "takeout box",
+                "chinese box",
+                "food box"
+            ]
+        },
+        {
+            "keyword": "Cigarette Box",
+            "synonyms": [
+                "Cigarette Box",
+                "cigarette packaging",
+                "cigarette pack",
+                "smoke box"
+            ]
+        },
+        {
+            "keyword": "Clam Sheel",
+            "synonyms": [
+                "Clam Sheel",
+                "clam shell",
+                "shell packaging",
+                "clam box"
+            ]
+        },
+        {
+            "keyword": "Clone Shape Preroll Tube",
+            "synonyms": [
+                "Clone Shape Preroll Tube",
+                "preroll tube",
+                "clone tube",
+                "pre roll tube"
+            ]
+        },
+        {
+            "keyword": "Cone Box",
+            "synonyms": [
+                "Cone Box",
+                "cone packaging",
+                "cone container",
+                "cone shaped box"
+            ]
+        },
+        {
+            "keyword": "Counter",
+            "synonyms": [
+                "Counter",
+                "display counter",
+                "table counter",
+                "counter stand"
+            ]
+        },
+        {
+            "keyword": "Counter Display Box",
+            "synonyms": [
+                "Counter Display Box",
+                "display box",
+                "counter box",
+                "counter display"
+            ]
+        },
+        {
+            "keyword": "Courier Bags",
+            "synonyms": [
+                "Courier Bags",
+                "shipping bags",
+                "mail bags",
+                "courier packaging"
+            ]
+        },
+        {
+            "keyword": "Cup",
+            "synonyms": [
+                "Cup",
+                "drinking cup",
+                "paper cup",
+                "plastic cup"
+            ]
+        },
+        {
+            "keyword": "Custom Corrugated Box",
+            "synonyms": [
+                "Custom Corrugated Box",
+                "corrugated box",
+                "custom box",
+                "shipping box"
+            ]
+        },
+        {
+            "keyword": "Custom Folder",
+            "synonyms": [
+                "Custom Folder",
+                "folder",
+                "custom folder box",
+                "document folder"
+            ]
+        },
+        {
+            "keyword": "Custom Folder Flat",
+            "synonyms": [
+                "Custom Folder Flat",
+                "folder flat",
+                "custom flat folder",
+                "flat folder"
+            ]
+        },
+        {
+            "keyword": "Custom Folder Front Lock Box",
+            "synonyms": [
+                "Custom Folder Front Lock Box",
+                "front lock box",
+                "folder lock box",
+                "custom lock box"
+            ]
+        },
+        {
+            "keyword": "Custom Folder Lock Box",
+            "synonyms": [
+                "Custom Folder Lock Box",
+                "folder lock box",
+                "custom lock box",
+                "lock box"
+            ]
+        },
+        {
+            "keyword": "Custom Hangtab Envelope Box",
+            "synonyms": [
+                "Custom Hangtab Envelope Box",
+                "hangtab box",
+                "envelope box",
+                "custom envelope box"
+            ]
+        },
+        {
+            "keyword": "Custom Labels",
+            "synonyms": [
+                "Custom Labels",
+                "labels",
+                "custom stickers",
+                "product labels"
+            ]
+        },
+        {
+            "keyword": "Custom Rigid Box..",
+            "synonyms": [
+                "Custom Rigid Box..",
+                "rigid box",
+                "custom box",
+                "hard box"
+            ]
+        },
+        {
+            "keyword": "Custom Sealed Box",
+            "synonyms": [
+                "Custom Sealed Box",
+                "sealed box",
+                "custom box",
+                "seal box"
+            ]
+        },
+        {
+            "keyword": "Custom Shap Display Box",
+            "synonyms": [
+                "Custom Shap Display Box",
+                "shape display box",
+                "custom display box",
+                "shaped box"
+            ]
+        },
+        {
+            "keyword": "Custom Shap Tuck Box",
+            "synonyms": [
+                "Custom Shap Tuck Box",
+                "shape tuck box",
+                "custom tuck box",
+                "shaped box"
+            ]
+        },
+        {
+            "keyword": "Custom Shape Flat Pouch",
+            "synonyms": [
+                "Custom Shape Flat Pouch",
+                "shape flat pouch",
+                "custom flat pouch",
+                "shaped pouch"
+            ]
+        },
+        {
+            "keyword": "Custom Shape Pouch",
+            "synonyms": [
+                "Custom Shape Pouch",
+                "shape pouch",
+                "custom pouch",
+                "shaped pouch"
+            ]
+        },
+        {
+            "keyword": "Cylinder Rigid Box",
+            "synonyms": [
+                "Cylinder Rigid Box",
+                "cylinder box",
+                "rigid cylinder box",
+                "tube box"
+            ]
+        },
+        {
+            "keyword": "Decal",
+            "synonyms": [
+                "Decal",
+                "sticker",
+                "label",
+                "custom decal"
+            ]
+        },
+        {
+            "keyword": "Designe Services",
+            "synonyms": [
+                "Designe Services",
+                "design services",
+                "graphic design",
+                "branding services"
+            ]
+        },
+        {
+            "keyword": "Dispenser Box",
+            "synonyms": [
+                "Dispenser Box",
+                "box dispenser",
+                "dispenser",
+                "product dispenser"
+            ]
+        },
+        {
+            "keyword": "Display Box Auto Lock",
+            "synonyms": [
+                "Display Box Auto Lock",
+                "auto lock box",
+                "display box",
+                "lock box"
+            ]
+        },
+        {
+            "keyword": "Display Box Snap Lock",
+            "synonyms": [
+                "Display Box Snap Lock",
+                "snap lock box",
+                "display box",
+                "lock box"
+            ]
+        },
+        {
+            "keyword": "Display box with seal end bottom",
+            "synonyms": [
+                "Display box with seal end bottom",
+                "seal end box",
+                "display box",
+                "bottom seal box"
+            ]
+        },
+        {
+            "keyword": "Divider",
+            "synonyms": [
+                "Divider",
+                "box divider",
+                "product divider",
+                "divider insert"
+            ]
+        },
+        {
+            "keyword": "Drawstring Bag",
+            "synonyms": [
+                "Drawstring Bag",
+                "drawstring pouch",
+                "string bag",
+                "draw bag"
+            ]
+        },
+        {
+            "keyword": "Film Roll",
+            "synonyms": [
+                "Film Roll",
+                "film packaging",
+                "roll of film",
+                "film canister"
+            ]
+        },
+        {
+            "keyword": "Flat Bottom Bag",
+            "synonyms": [
+                "Flat Bottom Bag",
+                "flat bottom pouch",
+                "bottom gusset bag",
+                "flat pouch"
+            ]
+        },
+        {
+            "keyword": "Flat Pasting Box",
+            "synonyms": [
+                "Flat Pasting Box",
+                "flat box",
+                "pasting box",
+                "adhesive box"
+            ]
+        },
+        {
+            "keyword": "Flat Pouch (3 side seal)",
+            "synonyms": [
+                "Flat Pouch (3 side seal)",
+                "3 side seal pouch",
+                "flat pouch",
+                "three side seal bag"
+            ]
+        },
+        {
+            "keyword": "Flat Spout Spouch",
+            "synonyms": [
+                "Flat Spout Spouch",
+                "spout pouch",
+                "flat spout bag",
+                "spout stand up pouch"
+            ]
+        },
+        {
+            "keyword": "Flat pouch",
+            "synonyms": [
+                "flat pouch",
+                "flat bag",
+                "pouch",
+                "envelope pouch"
+            ]
+        },
+        {
+            "keyword": "Flyers",
+            "synonyms": [
+                "Flyers",
+                "flyer",
+                "leaflet",
+                "brochure"
+            ]
+        },
+        {
+            "keyword": "Foam Insert",
+            "synonyms": [
+                "Foam Insert",
+                "foam insert tray",
+                "foam packaging",
+                "protective foam"
+            ]
+        },
+        {
+            "keyword": "Foldable Counter",
+            "synonyms": [
+                "Foldable Counter",
+                "foldable display",
+                "portable counter",
+                "pop up counter"
+            ]
+        },
+        {
+            "keyword": "Foldable Rigid Box",
+            "synonyms": [
+                "Foldable Rigid Box",
+                "foldable box",
+                "rigid foldable box",
+                "collapsible box"
+            ]
+        },
+        {
+            "keyword": "Gable Box",
+            "synonyms": [
+                "Gable Box",
+                "gable top box",
+                "house box",
+                "cottage box"
+            ]
+        },
+        {
+            "keyword": "HANG TAB (WITH BLISTER)",
+            "synonyms": [
+                "HANG TAB (WITH BLISTER)",
+                "blister hang tab",
+                "hang tab with blister",
+                "blister pack"
+            ]
+        },
+        {
+            "keyword": "HANG TAB TUCK IN BOX",
+            "synonyms": [
+                "HANG TAB TUCK IN BOX",
+                "tuck in hang tab",
+                "hang tab tuck",
+                "tuck tab"
+            ]
+        },
+        {
+            "keyword": "Hang Tag",
+            "synonyms": [
+                "Hang Tag",
+                "tag",
+                "clothing tag",
+                "price tag"
+            ]
+        },
+        {
+            "keyword": "Hangtab Card",
+            "synonyms": [
+                "Hangtab Card",
+                "card",
+                "hang tag card",
+                "price card"
+            ]
+        },
+        {
+            "keyword": "Hangtab Sleeve & Tray",
+            "synonyms": [
+                "Hangtab Sleeve & Tray",
+                "sleeve and tray",
+                "tray with sleeve",
+                "sleeve tray"
+            ]
+        },
+        {
+            "keyword": "Hoodie",
+            "synonyms": [
+                "Hoodie",
+                "hooded sweatshirt",
+                "hooded top",
+                "hooded jacket"
+            ]
+        },
+        {
+            "keyword": "INNER TRAY",
+            "synonyms": [
+                "INNER TRAY",
+                "inner tray insert",
+                "tray insert",
+                "inner packaging"
+            ]
+        },
+        {
+            "keyword": "Inner Pocket Stand Up Pouch",
+            "synonyms": [
+                "Inner Pocket Stand Up Pouch",
+                "stand up pouch with pocket",
+                "pouch with pocket",
+                "pocket pouch"
+            ]
+        },
+        {
+            "keyword": "Interfold Napkin",
+            "synonyms": [
+                "Interfold Napkin",
+                "napkin",
+                "interfolded napkin",
+                "folded napkin"
+            ]
+        },
+        {
+            "keyword": "Keychain",
+            "synonyms": [
+                "Keychain",
+                "key holder",
+                "keyring",
+                "fob"
+            ]
+        },
+        {
+            "keyword": "Kraft Paper Bag",
+            "synonyms": [
+                "Kraft Paper Bag",
+                "brown paper bag",
+                "recyclable bag",
+                "eco-friendly bag"
+            ]
+        },
+        {
+            "keyword": "Lanyard",
+            "synonyms": [
+                "Lanyard",
+                "neck strap",
+                "badge holder",
+                "id holder"
+            ]
+        },
+        {
+            "keyword": "Light Bone",
+            "synonyms": [
+                "Light Bone",
+                "lightweight bone",
+                "thin bone",
+                "delicate bone"
+            ]
+        },
+        {
+            "keyword": "MAILER BOX",
+            "synonyms": [
+                "MAILER BOX",
+                "shipping box",
+                "mailer",
+                "box"
+            ]
+        },
+        {
+            "keyword": "Magnetic Closure",
+            "synonyms": [
+                "Magnetic Closure",
+                "magnetic clasp",
+                "magnetic fastener",
+                "magnetic lock"
+            ]
+        },
+        {
+            "keyword": "Metal Pin",
+            "synonyms": [
+                "Metal Pin",
+                "metal badge",
+                "lapel pin",
+                "enamel pin"
+            ]
+        },
+        {
+            "keyword": "Monitor Mount",
+            "synonyms": [
+                "Monitor Mount",
+                "screen mount",
+                "monitor bracket",
+                "display mount"
+            ]
+        },
+        {
+            "keyword": "Mouse Pad",
+            "synonyms": [
+                "Mouse Pad",
+                "mouse mat",
+                "computer mouse pad",
+                "gaming mouse pad"
+            ]
+        },
+        {
+            "keyword": "NFC Label",
+            "synonyms": [
+                "NFC Label",
+                "near field communication label",
+                "rfid label",
+                "smart label"
+            ]
+        },
+        {
+            "keyword": "Note Pad",
+            "synonyms": [
+                "Note Pad",
+                "notepad",
+                "writing pad",
+                "memo pad"
+            ]
+        },
+        {
+            "keyword": "Octagone",
+            "synonyms": [
+                "Octagone",
+                "octagon",
+                "eight-sided figure",
+                "stop sign shape"
+            ]
+        },
+        {
+            "keyword": "Paper Bag",
+            "synonyms": [
+                "Paper Bag",
+                "brown paper bag",
+                "recyclable bag",
+                "eco-friendly bag"
+            ]
+        },
+        {
+            "keyword": "Paper Wrapper",
+            "synonyms": [
+                "Paper Wrapper",
+                "paper sleeve",
+                "wrapper",
+                "packaging paper"
+            ]
+        },
+        {
+            "keyword": "Pillow Box",
+            "synonyms": [
+                "Pillow Box",
+                "pillow packaging",
+                "pillow shaped box",
+                "pillow style box"
+            ]
+        },
+        {
+            "keyword": "Pillow Pouch",
+            "synonyms": [
+                "pillow pouch",
+                "pillow packaging",
+                "pillow bag",
+                "pillow case"
+            ]
+        },
+        {
+            "keyword": "Pizza box",
+            "synonyms": [
+                "Pizza box",
+                "pizza packaging",
+                "pizza container",
+                "pizza box with lid"
+            ]
+        },
+        {
+            "keyword": "Plastic Caps",
+            "synonyms": [
+                "Plastic Caps",
+                "bottle caps",
+                "cap",
+                "plastic bottle caps"
+            ]
+        },
+        {
+            "keyword": "Plastic Jar",
+            "synonyms": [
+                "Plastic Jar",
+                "plastic container",
+                "jar",
+                "plastic bottle"
+            ]
+        },
+        {
+            "keyword": "Plastic Mold",
+            "synonyms": [
+                "Plastic Mold",
+                "mold",
+                "plastic casting",
+                "injection mold"
+            ]
+        },
+        {
+            "keyword": "Plastic Mold Packaging",
+            "synonyms": [
+                "Plastic Mold Packaging",
+                "mold packaging",
+                "plastic packaging",
+                "injection mold packaging"
+            ]
+        },
+        {
+            "keyword": "Pop Corn Box",
+            "synonyms": [
+                "Pop Corn Box",
+                "popcorn box",
+                "popcorn container",
+                "popcorn packaging"
+            ]
+        },
+        {
+            "keyword": "Posters",
+            "synonyms": [
+                "Posters",
+                "poster",
+                "print",
+                "wall art"
+            ]
+        },
+        {
+            "keyword": "Pre Roll Tube",
+            "synonyms": [
+                "Pre Roll Tube",
+                "preroll tube",
+                "pre-roll tube",
+                "pre roll container"
+            ]
+        },
+        {
+            "keyword": "Pull Up Banners",
+            "synonyms": [
+                "Pull Up Banners",
+                "pull up banner",
+                "retractable banner",
+                "roll up banner"
+            ]
+        },
+        {
+            "keyword": "RECTANGLE LABEL",
+            "synonyms": [
+                "RECTANGLE LABEL",
+                "rectangle label",
+                "rectangular label",
+                "label"
+            ]
+        },
+        {
+            "keyword": "Reverse Tuck Box",
+            "synonyms": [
+                "reverse tuck",
+                "reverse tuck box",
+                "reverse tuck packaging",
+                "reverse tuck container"
+            ]
+        },
+        {
+            "keyword": "Reverse Tuck With Attach Insert",
+            "synonyms": [
+                "Reverse Tuck With Attach Insert",
+                "reverse tuck with insert",
+                "reverse tuck with attach",
+                "reverse tuck with pocket"
+            ]
+        },
+        {
+            "keyword": "Rigid Tray",
+            "synonyms": [
+                "Rigid Tray",
+                "rigid tray insert",
+                "tray insert",
+                "rigid packaging"
+            ]
+        },
+        {
+            "keyword": "Rigid Tray and Sleeve",
+            "synonyms": [
+                "Rigid Tray and Sleeve",
+                "tray and sleeve",
+                "rigid packaging with sleeve",
+                "tray with sleeve"
+            ]
+        },
+        {
+            "keyword": "Round Batch pins",
+            "synonyms": [
+                "Round Batch pins",
+                "round pins",
+                "batch pins",
+                "pin badges"
+            ]
+        },
+        {
+            "keyword": "Round Bottom Preroll Tube",
+            "synonyms": [
+                "Round Bottom Preroll Tube",
+                "round bottom tube",
+                "bottom round preroll",
+                "preroll tube"
+            ]
+        },
+        {
+            "keyword": "Round Label",
+            "synonyms": [
+                "Round Label",
+                "circular label",
+                "round sticker",
+                "label"
+            ]
+        },
+        {
+            "keyword": "SHRINK SLEEVE",
+            "synonyms": [
+                "SHRINK SLEEVE",
+                "shrink wrap",
+                "shrink film",
+                "shrink sleeve label"
+            ]
+        },
+        {
+            "keyword": "SLEEVE",
+            "synonyms": [
+                "SLEEVE",
+                "sleeve label",
+                "sleeve packaging",
+                "sleeve for bottle"
+            ]
+        },
+        {
+            "keyword": "Seal end box",
+            "synonyms": [
+                "Seal end box",
+                "seal end packaging",
+                "seal end container",
+                "seal end pouch"
+            ]
+        },
+        {
+            "keyword": "Shelf Display Stand",
+            "synonyms": [
+                "Shelf Display Stand",
+                "display stand",
+                "shelf stand",
+                "product display stand"
+            ]
+        },
+        {
+            "keyword": "Shelf Fabric",
+            "synonyms": [
+                "Shelf Fabric",
+                "shelf liner",
+                "shelf cover",
+                "fabric shelf"
+            ]
+        },
+        {
+            "keyword": "Shirt",
+            "synonyms": [
+                "Shirt",
+                "t-shirt",
+                "tee",
+                "top"
+            ]
+        },
+        {
+            "keyword": "Silicone Tray",
+            "synonyms": [
+                "Silicone Tray",
+                "silicone mold",
+                "silicone baking tray",
+                "silicone sheet"
+            ]
+        },
+        {
+            "keyword": "Slider Zipper Mylar bag",
+            "synonyms": [
+                "Slider Zipper Mylar bag",
+                "mylar bag",
+                "zipper bag",
+                "slider bag"
+            ]
+        },
+        {
+            "keyword": "Snapback Cap",
+            "synonyms": [
+                "Snapback Cap",
+                "snapback hat",
+                "flat bill cap",
+                "trucker hat"
+            ]
+        },
+        {
+            "keyword": "Spout Stand up Pouch",
+            "synonyms": [
+                "Spout Stand up Pouch",
+                "stand up pouch with spout",
+                "spout pouch",
+                "spout bag"
+            ]
+        },
+        {
+            "keyword": "Square Label",
+            "synonyms": [
+                "Square Label",
+                "square sticker",
+                "label",
+                "square tag"
+            ]
+        },
+        {
+            "keyword": "Stand Up Pouch",
+            "synonyms": [
+                "stand up pouch",
+                "stand up bag",
+                "upright pouch",
+                "upright bag"
+            ]
+        },
+        {
+            "keyword": "Step and Repeat Display",
+            "synonyms": [
+                "Step and Repeat Display",
+                "step and repeat banner",
+                "backdrop display",
+                "banner stand"
+            ]
+        },
+        {
+            "keyword": "Straight Tuck Box",
+            "synonyms": [
+                "Straight Tuck Box",
+                "straight tuck",
+                "straight tuck box",
+                "tuck box"
+            ]
+        },
+        {
+            "keyword": "TRI FOLD BROCHURE",
+            "synonyms": [
+                "TRI FOLD BROCHURE",
+                "tri-fold brochure",
+                "tri fold brochure",
+                "brochure"
+            ]
+        },
+        {
+            "keyword": "TUCK-IN (SEAL END BOX)",
+            "synonyms": [
+                "TUCK-IN (SEAL END BOX)",
+                "tuck-in box",
+                "seal end tuck box",
+                "tuck box"
+            ]
+        },
+        {
+            "keyword": "Table Cloth",
+            "synonyms": [
+                "Table Cloth",
+                "table cover",
+                "table linen",
+                "table fabric"
+            ]
+        },
+        {
+            "keyword": "Tim Packaging",
+            "synonyms": [
+                "Tim Packaging",
+                "packaging design",
+                "custom packaging",
+                "product packaging"
+            ]
+        },
+        {
+            "keyword": "Tissue Box",
+            "synonyms": [
+                "Tissue Box",
+                "box of tissues",
+                "tissue packaging",
+                "tissue container"
+            ]
+        },
+        {
+            "keyword": "Top Bottom Lid Box",
+            "synonyms": [
+                "Top Bottom Lid Box",
+                "top bottom box",
+                "lid box",
+                "box with top and bottom lid"
+            ]
+        },
+        {
+            "keyword": "Top Lid Box",
+            "synonyms": [
+                "Top Lid Box",
+                "top box",
+                "lid box",
+                "box with top lid"
+            ]
+        },
+        {
+            "keyword": "Tote bag",
+            "synonyms": [
+                "Tote bag",
+                "shopping bag",
+                "carry bag",
+                "reusable bag"
+            ]
+        },
+        {
+            "keyword": "Tuck Box with Auto Lock",
+            "synonyms": [
+                "Tuck Box with Auto Lock",
+                "auto lock tuck box",
+                "tuck box",
+                "box with auto lock"
+            ]
+        },
+        {
+            "keyword": "Tuck Box with Snap Lock",
+            "synonyms": [
+                "Tuck Box with Snap Lock",
+                "snap lock tuck box",
+                "tuck box",
+                "box with snap lock"
+            ]
+        },
+        {
+            "keyword": "Tuck Box with attach Insert",
+            "synonyms": [
+                "Tuck Box with attach Insert",
+                "tuck box with insert",
+                "tuck box with attach",
+                "tuck box with pocket"
+            ]
+        },
+        {
+            "keyword": "Tuck Box with auto lock with attach insert",
+            "synonyms": [
+                "Tuck Box with auto lock with attach insert",
+                "tuck box with auto lock and attach",
+                "tuck box with auto lock and pocket",
+                "tuck box with attach and auto lock"
+            ]
+        },
+        {
+            "keyword": "Vinyl Banner",
+            "synonyms": [
+                "Vinyl Banner",
+                "vinyl sign",
+                "banner",
+                "advertising banner"
+            ]
+        },
+        {
+            "keyword": "Visiting Card",
+            "synonyms": [
+                "Visiting Card",
+                "visiting card",
+                "business card",
+                "contact card"
+            ]
+        },
+        {
+            "keyword": "Water Bottle",
+            "synonyms": [
+                "Water Bottle",
+                "bottle",
+                "drink bottle",
+                "water container"
+            ]
+        },
+        {
+            "keyword": "West bag",
+            "synonyms": [
+                "West bag",
+                "west coast bag",
+                "california bag",
+                "surf bag"
+            ]
+        },
+        {
+            "keyword": "flat pouches",
+            "synonyms": [
+                "flat pouches",
+                "flat pouch",
+                "pouch",
+                "envelope pouch"
+            ]
+        },
+        {
+            "keyword": "product-images\/1738793859-spout-pouch-3-side-gusset.jpeg",
+            "synonyms": [
+                "product-images\/1738793859-spout-pouch-3-side-gusset.jpeg"
+            ]
+        },
+        {
+            "keyword": "product-images\/1738862724-wet-wipes-lid.jpeg",
+            "synonyms": [
+                "product-images\/1738862724-wet-wipes-lid.jpeg"
+            ]
+        },
+        {
+            "keyword": "test",
+            "synonyms": [
+                "test"
+            ]
+        }
+    ]
+}
